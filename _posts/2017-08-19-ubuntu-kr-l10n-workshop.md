@@ -7,7 +7,7 @@ start_time: 2017-08-19 13:00:00 +0900
 end_time: 2017-08-19 18:00:00 +0900
 submit_start: 2017-07-30 12:00:00 +0900
 submit_end: 2017-08-18 16:00:00 +0900
-location: "토즈 강남토즈타워점 (대한민국 서울특별시 강남구 역삼1동 강남대로84길 24-4) 대형부스B"
+location: "토즈 강남토즈타워점 (서울특별시 강남구 강남대로84길 24-4) 대형부스B"
 location_query: "토즈+강남토즈타워점"
 price: "5000 KRW"
 ticket_link: "https://onoffmix.com/event/106672"

@@ -7,7 +7,7 @@ start_time: 2017-09-16 12:00:00 +0900
 end_time: 2017-09-16 18:00:00 +0900
 submit_start: 2017-08-25 17:20:00 +0900
 submit_end: 2017-09-16 00:00:00 +0900
-location: "한국마이크로소프트 (대한민국 서울특별시 강남구 역삼1동 강남대로84길 24-4)"
+location: "한국마이크로소프트 (서울특별시 종로구 종로1길 50 더케이트윈타워 A동 11층)"
 location_query: "한국마이크로소프트"
 price: "5000 KRW"
 ticket_link: "https://onoffmix.com/event/111083"
