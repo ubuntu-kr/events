@@ -35,8 +35,22 @@ layout: frame
         <i class="fa fa-ticket" aria-hidden="true"></i>  지금 신청하기</a>
       </div>
       <div class="card">
-        <div class="card-body">
+        <div class="card-body" id="contents">
           {{ content }}
+          <hr />
+          <h2>지도</h2>
+          <iframe
+            id="google_maps"
+            width="500" height="500"
+            frameborder="0" style="border:0"
+            src="https://www.google.com/maps/embed/v1/place?key={{site.gmaps_embed_api_key}}&q={{page.location_query}}" allowfullscreen>
+          </iframe>
+          <script>
+            var width = document.getElementById('contents').offsetWidth - 40;
+            var gmaps = document.getElementById('google_maps');
+            gmaps.width = width;
+            gmaps.height = width * (3/5);
+          </script>
         </div>
       </div>
       {% include footer.html %}

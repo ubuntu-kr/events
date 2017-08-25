@@ -7,7 +7,8 @@ start_time: 2017-09-16 12:00:00 +0900
 end_time: 2017-09-16 18:00:00 +0900
 submit_start: 2017-08-25 17:20:00 +0900
 submit_end: 2017-09-16 00:00:00 +0900
-location: "한국마이크로소프트"
+location: "한국마이크로소프트 (대한민국 서울특별시 강남구 역삼1동 강남대로84길 24-4)"
+location_query: "한국마이크로소프트"
 price: "5000 KRW"
 ticket_link: "https://onoffmix.com/event/111083"
 image: "https://lh3.googleusercontent.com/2DwijrYqEFIXOHb6Pc5rvYMGvialc_COnuflbwao9JH3qySYbb2uVVofodGTlHZuk96bo88NlAd-KVgjoI892ScYxCg7pTZi8bzdg5i_FFnYJ5IANf6_Y5vGh0fknzmZHg2Kf2r2hg=s1000-no"

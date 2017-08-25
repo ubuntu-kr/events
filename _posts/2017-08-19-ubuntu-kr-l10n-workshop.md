@@ -7,7 +7,8 @@ start_time: 2017-08-19 13:00:00 +0900
 end_time: 2017-08-19 18:00:00 +0900
 submit_start: 2017-07-30 12:00:00 +0900
 submit_end: 2017-08-18 16:00:00 +0900
-location: "토즈 강남토즈타워점 대형부스B"
+location: "토즈 강남토즈타워점 (대한민국 서울특별시 강남구 역삼1동 강남대로84길 24-4) 대형부스B"
+location_query: "토즈+강남토즈타워점"
 price: "5000 KRW"
 ticket_link: "https://onoffmix.com/event/106672"
 image: "https://lh3.googleusercontent.com/WFRnRfZk5bgWL9Kzgr0hBheSkU-iaJHmsXH4wkR2JU6WeWnj2FkYsffK7adZGZ18x-hbExkyo8Z722CFbTLlz0JnN3_QSizvOjDfzz-fIuYvqbfgClWfTxLbXqjdQE82HXDyRX_kVRHIS97M_b9sk2VH0isshjpeulSTGWnuA1EGkrlruQhCl7P1GTWCnZPZvfrwHkmb7otDnO7bGm0JF1EtCs-QifBw9us8lrOb2v5tdIANCXC4hK3yI2Fj50RDIigklgcg5ig1T0aRwYSrYDw5zDRwzCtF_gNcMLjeshdGpn6FiRTRIDEYgux-UpZcqyzPXM3iZlDorvxy4Gco6QcDBz-XgcutXU618W6Fe1bl1FqIIYetXn9iLqse7qEG1OBPXIVOA6GhLAQbRHxozIyBjPWQ_5QfsyGtpwk_tt5elu_-5uRygtWZ8dj2SfZVQZ28WFOr_KFTWGgmxtiZLybGZT1CwF-zURSIxQlhG9WnxWkTZ8H0k24BJhoAjmoXRDevRYRAJccLdruI9HbeBlI8cb9YoLyZmqjxVa0ujq3-82wBiNbW9iuA4uHlk0a_D276k2X142mwDt9kbXBI-DXLi6You3GKg-d9qn9Pdfk7-K-X2Gp9r4NUtjOJX5wP3fo2-DD4vk_q78cHomLgYKDSh4vVKgzBL0YIFpSr3YEYCw=s1000-no"
