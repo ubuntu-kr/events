@@ -48,3 +48,21 @@ image: "https://lh3.googleusercontent.com/2DwijrYqEFIXOHb6Pc5rvYMGvialc_COnuflbw
 
 - 예정된 발표자 : 최영락, 최원석
 - 라이트닝 토크는 행사 당일에도 발표자로 접수할 수 있습니다.
+
+---
+
+## 일정표
+
+시간 | Track A | Track B
+--- | --- | ---
+14:00 ~ 14:10 | 행사 일정 안내
+14:10 ~ 14:50 | New & Change Ubuntu on Windows 10(Ver.1709) - 박성기
+14:50 ~ 15:00	| 휴식 및 공간 분리
+15:00 ~ 15:40	| 남정현님 발표	| Ubuntu 17.10의 새로운 변화 - 한상곤
+15:40 ~ 15:50	| 휴식
+15:50 ~ 16:30	| Bash, Azure Cli, Juju로 Azure 관리해보기 - 장태희	| Snap on Ubuntu Desktop - 한영빈
+16:30 ~ 16:40	| 휴식 및 공간 병합
+16:40 ~ 17:10	| 라이트닝 토크
+17:10 ~ 17:20	| 휴식
+17:20 ~ 17:50	| Q&A Session
+17:50 ~ 18:00	| 행사 마무리
