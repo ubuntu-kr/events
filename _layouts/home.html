@@ -52,25 +52,20 @@ layout: frame
   </div>
     {% endif %}
     {% endfor %}
-
-    <!-- Pagination -->
-    <div class="pagination">
-      <div class="btn-group" role="group" aria-label="Basic example">
-        <a class="button-white" {% if paginator.previous_page %}
-         href="{{ site.baseurl }}/{{ paginator.previous_page_path }}"{% else %}{% endif %}>
-         <button type="button" class="btn btn-secondary">
-           <i class="fa fa-arrow-left" aria-hidden="true"></i>
-         </button>
-       </a>
-        <button type="button" class="btn btn-secondary">{{ paginator.page }} / {{ paginator.total_pages }}</button>
-        <a class="button-white" {% if paginator.next_page %}
-         href="{{ site.baseurl }}/{{ paginator.next_page_path }}"{% else %}{% endif %}>
-          <button type="button" class="btn btn-secondary">
-            <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          </button>
-        </a>
-      </div>
-    </div>
-
   </div>
+  <!-- Pagination -->
+  <nav class="pagination-container">
+    <ul class="pagination">
+      <li class="page-item"><a class="page-link" {% if paginator.previous_page %}
+       href="{{ site.baseurl }}/{{ paginator.previous_page_path }}"{% else %}{% endif %}>
+       <i class="fa fa-arrow-left" aria-hidden="true"></i>
+     </a></li>
+      <li class="page-item"><a class="page-link">{{ paginator.page }} / {{ paginator.total_pages }}</a></li>
+      <li class="page-item"><a class="page-link" {% if paginator.next_page %}
+       href="{{ site.baseurl }}/{{ paginator.next_page_path }}"{% else %}{% endif %}>
+       <i class="fa fa-arrow-right" aria-hidden="true"></i>
+     </a></li>
+    </ul>
+  </nav>
+  {% include footer.html %}
 </div>
