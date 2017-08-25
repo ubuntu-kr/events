@@ -1,0 +1,49 @@
+---
+layout: event
+title:  "우분투한국커뮤니티 * 한국Azure사용자그룹 9월 연합세미나"
+summary: "우분투한국커뮤니티와 한국Azure사용자그룹이 함께 주최하는 9월 연합 세미나 입니다. 개발자 관점에서의 클라우드와 데스크탑을 주제로 준비하였습니다."
+date:   2017-08-25 13:49:34 +0900
+start_time: 2017-09-16 12:00:00 +0900
+end_time: 2017-09-16 18:00:00 +0900
+submit_start: 2017-08-25 17:20:00 +0900
+submit_end: 2017-09-16 00:00:00 +0900
+location: "한국마이크로소프트"
+price: "5000 KRW"
+ticket_link: "https://onoffmix.com/event/111083"
+---
+
+우분투한국커뮤니티와 한국애저사용자그룹이 함께 주최하는 9월 연합 세미나 입니다.  
+개발자 관점에서의 클라우드와 데스크탑을 주제로 준비하였습니다.
+
+- 일시 : 2017년 9월 16일 오후 2시 ~ 오후 6시
+- 장소 : 한국마이크로소프트
+- 참가비 : 1인 5천원
+- 장소지원 : 한국마이크로소프트 개발자 커뮤니티 지원 프로그램 멜팅팟
+
+## Main Sessions
+
+### What's new in Ubuntu on Windows 10 Ver.1709
+- 박성기 - 한국Azure사용자그룹, 한국Surface사용자그룹, Microsoft MVP(Windows and Device for IT)
+- 곧 출시 될 Windows 10 Ver.1709 부터 정식버전이 되는 Windows Subsystem for Linux 의 Ubuntu 지원변경의 배경과 변경내역을 설명합니다. 또한 Client Hyper-V 의 변경사항을 통한 Ubuntu VM 생성 및 관리팁 그리고 Azure 환경에서의 Ubuntu 환경에 대한 최신정보 또한 정리하여 설명합니다.
+
+### (추후 업데이트 예정)
+- 남정현 - 한국 Azure 사용자 그룹
+
+### Bash, Azure CLI, Juju 로 Azure 관리해보기
+- 장태희 - 우분투한국커뮤니티 Adviser, Microsoft MVP(Cloud and Datacenter Management)
+- Juju 를 Bash on Ubuntu on Windows, Azure Cli 2.0 환경에서 사용해 봅시다.
+
+### Ubuntu 17.10 의 새로운 변화
+- 한상곤 - 우분투한국커뮤니티 Contents Creator, Microsoft MVP(Visual Studio and Development Technologies)
+- 우분투 17.10의 대표적인 변화는 아래와 같습니다. * GNOME will be default desktop (probably GNOME 3.26) * Wayland display server by default * Optional X.org server session * Mesa 17.2 or Mesa 17.3 * Linux kernel 4.13 or kernel 4.14 * Switching to libinput * An always visible dock using Dash to Dock GNOME Shell extension * EXT4 encryption with fscrypt * Better GPU/CUDA support `Wayland`, `EXT4`와 같은 단어를 보고 막연함이 느껴진다면 이 세션이 여러분의 답답함을 해소해 드릴 수 있을 듯 합니다.
+
+### Snaps on Ubuntu Desktop
+- 한영빈 - 우분투한국커뮤니티 대표
+- Snap 패키지에 대해 알아보고, 기존 리눅스 패키지와 비교해보는 시간을 가집니다. 최근 우분투 데스크탑 에서의 Snap 의 근황도 함께 알아봅니다.
+
+---
+
+## Lightning Talks
+
+- 예정된 발표자 : 최영락, 최원석
+- 라이트닝 토크는 행사 당일에도 발표자로 접수할 수 있습니다.

@@ -10,24 +10,20 @@ layout: frame
     <h1>{{ post.title }}</h1>
     <p>
       {{ post.summary }}
-    </p>
-    <p>
+    <br />
       <i class="fa fa-calendar-o" aria-hidden="true"></i>
       {{ post.start_time | date: "%Y.%m.%d %H:%M %Z" }} ~ {{ post.end_time | date: "%Y.%m.%d %H:%M %Z" }}
-    </p>
-    <p>
+    <br />
       <i class="fa fa-clock-o" aria-hidden="true"></i>
       {{ post.submit_start | date: "%Y.%m.%d %H:%M %Z" }} ~ {{ post.submit_end | date: "%Y.%m.%d %H:%M %Z" }}
-    </p>
-    <p>
+    <br />
       <i class="fa fa-map-marker" aria-hidden="true"></i>
       {{ post.location }}
-    </p>
-    <p>
+    <br />
       <i class="fa fa-ticket" aria-hidden="true"></i>
       {{ post.price }}
     </p>
-    <a class="btn btn-lg btn-primary" href="{{ site.baseurl }}{{ post.url }}" role="button">자세히 보기</a>
+    <a class="btn btn-lg btn-primary-ubuntu" href="{{ site.baseurl }}{{ post.url }}" role="button">자세히 보기</a>
   </div>
   {% endif %}
   {% endfor %}
@@ -46,7 +42,7 @@ layout: frame
           <i class="fa fa-calendar-o" aria-hidden="true"></i>
           {{ post.start_time | date: "%Y.%m.%d %H:%M %Z" }}
         </p>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary">자세히 보기</a>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary-ubuntu">자세히 보기</a>
       </div>
     </div>
   </div>

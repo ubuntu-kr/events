@@ -26,11 +26,13 @@ layout: frame
           <i class="fa fa-ticket" aria-hidden="true"></i> <b>참가비용</b><br />
           {{ page.price }}
         </p>
-        <a class="btn btn-lg btn-primary" href="{{ page.ticket_link }}" role="button">
+        <a class="btn btn-lg btn-primary-ubuntu" href="{{ page.ticket_link }}" role="button">
         <i class="fa fa-ticket" aria-hidden="true"></i>  지금 신청하기</a>
       </div>
-      <div class="">
-        {{ content }}
+      <div class="card">
+        <div class="card-body">
+          {{ content }}
+        </div>
       </div>
       {% include footer.html %}
     </div>

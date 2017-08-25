@@ -13,18 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jekyll Events
-email: sukso96100@gmail.com
-description: Jekyll Events
-baseurl: "/jekyll-events" # the subpath of your site, e.g. /blog
-url: "https://sukso96100.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+title: ubuntu-kr events
+email: korea.ubuntu@gmail.com
+description: 우분투한국커뮤니티 행사 모음
+baseurl: "/events" # the subpath of your site, e.g. /blog
+url: "https://ubuntu-kr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  sukso96100
+github_username: ubuntu-kr
 
-paginate: 8
+paginate: 7
 # Build settings
 markdown: kramdown
-theme: minima
 gems:
   - jekyll-feed
   - jekyll-paginate
