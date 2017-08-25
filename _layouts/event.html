@@ -5,7 +5,12 @@ layout: frame
     {% include nav.html %}
 
     <div class="container">
-      <div class="jumbotron">
+      <div class="jumbotron"
+        {% if page.image %}
+          style="background: linear-gradient( rgba(0, 0, 0, 0.4),
+          rgba(0, 0, 0, 0.4) ), url({{ page.image }})center / cover;
+          color: white;"
+        {% endif %}>
         <h1>{{ page.title }}</h1>
         <p>
           {{ page.summary }}

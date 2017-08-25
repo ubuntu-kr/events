@@ -6,13 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="{{ site.description }}">
     <meta name="author" content="">
-    <link rel="icon" href="../../../../favicon.ico">
 
-    {{ if page.title }}
-    <title>{{ page.title }} | {{ site.title }}</title>
-    {{ else }}
-    <title>{{ site.title }}</title>
-    {{ endif }}
+
+    <title>{{ if page.title }}{{ page.title }} | {{ endif }}{{ site.title }}</title>
+
 
     <!-- METAS - Open Graph Protocol -->
     <meta property="og:site_name" content="{{ site.title }}" />

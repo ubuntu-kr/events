@@ -6,11 +6,17 @@ layout: frame
 <div class="container">
   {% for post in paginator.posts %}
   {% if forloop.index == 1 %}
-  <div class="jumbotron">
+  <div class="jumbotron"
+    {% if post.image %}
+      style="background: linear-gradient( rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4) ), url({{ post.image }})center / cover;
+      color: white;"
+    {% endif %}>
     <h1>{{ post.title }}</h1>
     <p>
       {{ post.summary }}
-    <br />
+    </p>
+    <p>
       <i class="fa fa-calendar-o" aria-hidden="true"></i>
       {{ post.start_time | date: "%Y.%m.%d %H:%M %Z" }} ~ {{ post.end_time | date: "%Y.%m.%d %H:%M %Z" }}
     <br />

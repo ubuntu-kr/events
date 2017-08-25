@@ -2,7 +2,7 @@
 layout: event
 title:  "우분투한국커뮤니티 * 한국Azure사용자그룹 9월 연합세미나"
 summary: "우분투한국커뮤니티와 한국Azure사용자그룹이 함께 주최하는 9월 연합 세미나 입니다. 개발자 관점에서의 클라우드와 데스크탑을 주제로 준비하였습니다."
-date: 2017-09-16 00:00:00 +0900
+date: 2017-08-25 17:20:00 +0900
 start_time: 2017-09-16 12:00:00 +0900
 end_time: 2017-09-16 18:00:00 +0900
 submit_start: 2017-08-25 17:20:00 +0900
@@ -10,6 +10,7 @@ submit_end: 2017-09-16 00:00:00 +0900
 location: "한국마이크로소프트"
 price: "5000 KRW"
 ticket_link: "https://onoffmix.com/event/111083"
+image: "https://lh3.googleusercontent.com/2DwijrYqEFIXOHb6Pc5rvYMGvialc_COnuflbwao9JH3qySYbb2uVVofodGTlHZuk96bo88NlAd-KVgjoI892ScYxCg7pTZi8bzdg5i_FFnYJ5IANf6_Y5vGh0fknzmZHg2Kf2r2hg=s1000-no"
 ---
 
 우분투한국커뮤니티와 한국애저사용자그룹이 함께 주최하는 9월 연합 세미나 입니다.  
