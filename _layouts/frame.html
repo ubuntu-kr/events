@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    {{ if page.title }}
+    <title>{{ page.title }} | {{ site.title }}</title>
+    {{ else }}
+    <title>{{ site.title }}</title>
+    {{ endif }}
+
+    <!-- METAS - Open Graph Protocol -->
+    <meta property="og:site_name" content="{{ site.title }}" />
+    {% if page.title %}
+    <meta property="og:title" content="{{ page.title }}" />
+    {% endif %}
+    {% if page.image %}
+    <meta property="og:image" content="{{ page.image }}" />
+    {% endif %}
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/font-awesome.min.css" />
+
+  </head>
+
+  <body>
+
+    {{ content }}
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="{{ site.baseurl }}/assets/js/popper.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+  </body>
+</html>

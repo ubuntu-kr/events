@@ -1,0 +1,35 @@
+---
+layout: frame
+---
+
+    {% include nav.html %}
+
+    <div class="container">
+      <div class="jumbotron">
+        <h1>{{ page.title }}</h1>
+        <p>
+          {{ page.summary }}
+        </p>
+        <p>
+          <i class="fa fa-calendar-o" aria-hidden="true"></i> <b>행사기간</b><br />
+          {{ page.start_time | date: "%Y.%m.%d %H:%M %Z" }} ~ {{ page.end_time | date: "%Y.%m.%d %H:%M %Z" }}
+        </p>
+        <p>
+          <i class="fa fa-clock-o" aria-hidden="true"></i> <b>신청기간</b><br />
+          {{ page.submit_start | date: "%Y.%m.%d %H:%M %Z" }} ~ {{ page.submit_end | date: "%Y.%m.%d %H:%M %Z" }}
+        </p>
+        <p>
+          <i class="fa fa-map-marker" aria-hidden="true"></i> <b>행사장소</b><br />
+          {{ page.location }}
+        </p>
+        <p>
+          <i class="fa fa-ticket" aria-hidden="true"></i> <b>참가비용</b><br />
+          {{ page.price }}
+        </p>
+        <a class="btn btn-lg btn-primary" href="{{ page.ticket_link }}" role="button">
+        <i class="fa fa-ticket" aria-hidden="true"></i>  지금 신청하기</a>
+      </div>
+      <div class="">
+        {{ content }}
+      </div>
+    </div>
