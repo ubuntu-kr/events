@@ -40,3 +40,9 @@
 a{
   color: #e95420;
 }
+
+table > thead > tr > th,
+table > thead > tr > th{
+  padding: 4px;
+  border-bottom: thin dotted black;
+}
