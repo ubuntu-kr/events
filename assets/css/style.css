@@ -1,3 +1,13 @@
 .container{
   margin-top: 80px;
 }
+
+.home-card{
+  margin-bottom: 16px;
+}
+
+.pagination{
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 32px;
+}
