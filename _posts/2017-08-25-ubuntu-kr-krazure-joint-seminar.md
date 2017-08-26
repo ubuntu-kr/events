@@ -24,22 +24,22 @@ image: "https://lh3.googleusercontent.com/2DwijrYqEFIXOHb6Pc5rvYMGvialc_COnuflbw
 
 ## Main Sessions
 
-### What's new in Ubuntu on Windows 10 Ver.1709
+#### New & Change Ubuntu on Windows 10(Ver.1709)
 - 박성기 - 한국Azure사용자그룹, 한국Surface사용자그룹, Microsoft MVP(Windows and Device for IT)
 - 곧 출시 될 Windows 10 Ver.1709 부터 정식버전이 되는 Windows Subsystem for Linux 의 Ubuntu 지원변경의 배경과 변경내역을 설명합니다. 또한 Client Hyper-V 의 변경사항을 통한 Ubuntu VM 생성 및 관리팁 그리고 Azure 환경에서의 Ubuntu 환경에 대한 최신정보 또한 정리하여 설명합니다.
 
-### (추후 업데이트 예정)
+#### (추후 업데이트 예정)
 - 남정현 - 한국 Azure 사용자 그룹
 
-### Bash, Azure CLI, Juju 로 Azure 관리해보기
+#### Bash, Azure CLI, Juju 로 Azure 관리해보기
 - 장태희 - 우분투한국커뮤니티 Adviser, Microsoft MVP(Cloud and Datacenter Management)
 - Juju 를 Bash on Ubuntu on Windows, Azure Cli 2.0 환경에서 사용해 봅시다.
 
-### Ubuntu 17.10 의 새로운 변화
+#### Ubuntu 17.10 의 새로운 변화
 - 한상곤 - 우분투한국커뮤니티 Contents Creator, Microsoft MVP(Visual Studio and Development Technologies)
 - 우분투 17.10의 대표적인 변화는 아래와 같습니다. * GNOME will be default desktop (probably GNOME 3.26) * Wayland display server by default * Optional X.org server session * Mesa 17.2 or Mesa 17.3 * Linux kernel 4.13 or kernel 4.14 * Switching to libinput * An always visible dock using Dash to Dock GNOME Shell extension * EXT4 encryption with fscrypt * Better GPU/CUDA support `Wayland`, `EXT4`와 같은 단어를 보고 막연함이 느껴진다면 이 세션이 여러분의 답답함을 해소해 드릴 수 있을 듯 합니다.
 
-### Snaps on Ubuntu Desktop
+#### Snaps on Ubuntu Desktop
 - 한영빈 - 우분투한국커뮤니티 대표
 - Snap 패키지에 대해 알아보고, 기존 리눅스 패키지와 비교해보는 시간을 가집니다. 최근 우분투 데스크탑 에서의 Snap 의 근황도 함께 알아봅니다.
 
