@@ -28,8 +28,9 @@ image: "https://lh3.googleusercontent.com/2DwijrYqEFIXOHb6Pc5rvYMGvialc_COnuflbw
 - 박성기 - 한국Azure사용자그룹, 한국Surface사용자그룹, Microsoft MVP(Windows and Device for IT)
 - 곧 출시 될 Windows 10 Ver.1709 부터 정식버전이 되는 Windows Subsystem for Linux 의 Ubuntu 지원변경의 배경과 변경내역을 설명합니다. 또한 Client Hyper-V 의 변경사항을 통한 Ubuntu VM 생성 및 관리팁 그리고 Azure 환경에서의 Ubuntu 환경에 대한 최신정보 또한 정리하여 설명합니다.
 
-#### (추후 업데이트 예정)
-- 남정현 - 한국 Azure 사용자 그룹
+#### 닷넷 코어 2.0 실전 서비스 운용담 그리고...
+- 남정현 - 한국 Azure 사용자 그룹, Microsoft MVP
+- 마이크로소프트가 닷넷 에코 시스템에 변화를 주기 위하여 새롭게 꺼내든 카드 닷넷 코어의 최신 버전인 닷넷 코어 2.0으로 처음 상용 서비스를 런칭한 경험담을 소개합니다. 그리고 15년간 검증된 오래된 새로운 기술인 닷넷 기술이 어떻게 리눅스 환경에서 사용될 수 있는지에 대한 인사이트를 전달합니다.
 
 #### Bash, Azure CLI, Juju 로 Azure 관리해보기
 - 장태희 - 우분투한국커뮤니티 Adviser, Microsoft MVP(Cloud and Datacenter Management)
@@ -59,7 +60,7 @@ image: "https://lh3.googleusercontent.com/2DwijrYqEFIXOHb6Pc5rvYMGvialc_COnuflbw
 14:00 ~ 14:10 | 행사 일정 안내
 14:10 ~ 14:50 | New & Change Ubuntu on Windows 10(Ver.1709) - 박성기
 14:50 ~ 15:00	| 휴식 및 공간 분리
-15:00 ~ 15:40	| 남정현님 발표	| Ubuntu 17.10의 새로운 변화 - 한상곤
+15:00 ~ 15:40	| 닷넷 코어 2.0 실전 서비스 운용담 그리고... - 남정현	| Ubuntu 17.10의 새로운 변화 - 한상곤
 15:40 ~ 15:50	| 휴식
 15:50 ~ 16:30	| Bash, Azure Cli, Juju로 Azure 관리해보기 - 장태희	| Snap on Ubuntu Desktop - 한영빈
 16:30 ~ 16:40	| 휴식 및 공간 병합
