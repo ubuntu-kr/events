@@ -22,6 +22,7 @@ url: "https://ubuntu-kr.github.io" # the base hostname & protocol for your site,
 github_username: ubuntu-kr
 gmaps_embed_api_key: AIzaSyAlFGcj4Yqrvr2cvFh7-TSN1EfaO1OK53Y
 contact_info: "Event Manager - Gunyoung Yoon (dry8r3ad@ubuntu-kr.org)"
+google_analytics: UA-65961752-7
 paginate: 7
 # Build settings
 markdown: kramdown
