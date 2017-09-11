@@ -34,7 +34,7 @@ image: "https://lh3.googleusercontent.com/2DwijrYqEFIXOHb6Pc5rvYMGvialc_COnuflbw
 
 #### Bash, Azure CLI, Juju 로 Azure 관리해보기
 - 장태희 - 우분투한국커뮤니티 Adviser, Microsoft MVP(Cloud and Datacenter Management)
-- Juju 를 Bash on Ubuntu on Windows, Azure Cli 2.0 환경에서 사용해 봅시다.
+- Bash의 많은 명령어 중 grep을 중심으로 간단하게 활용법에 대하여 알아봅니다. Azure CLI 2.0의 설치 변경 사항과 기본적인 사용법을 간략하게 안내 해 드립니다. Open source orchestration tool인 Juju에 대하여 알아보고, 개념과 기본적인 활용법을 시연합니다. 작년에 가장 많이 나온 질문사항인 Bash on Ubuntu on Windows에서 Docker 구동방법에 대하여 말씀드립니다.
 
 #### Ubuntu 17.10 의 새로운 변화
 - 한상곤 - 우분투한국커뮤니티 Contents Creator, Microsoft MVP(Visual Studio and Development Technologies)
