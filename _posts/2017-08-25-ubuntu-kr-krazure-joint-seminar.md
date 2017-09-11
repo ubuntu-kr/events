@@ -20,7 +20,7 @@ image: "https://lh3.googleusercontent.com/2DwijrYqEFIXOHb6Pc5rvYMGvialc_COnuflbw
 - 일시 : 2017년 9월 16일 오후 2시 ~ 오후 6시
 - 장소 : 한국마이크로소프트
 - 참가비 : 무료
-- 장소지원 : 한국마이크로소프트 개발자 커뮤니티 지원 프로그램 멜팅팟
+- 후원 및 협찬 : 한국마이크로소프트 개발자 커뮤니티 지원 프로그램 멜팅팟(장소 지원), Jabra Korea & JCS(다과와 상품 협찬 및 장비지원)
 
 ## Main Sessions
 
