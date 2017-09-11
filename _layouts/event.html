@@ -4,13 +4,14 @@ layout: frame
 
     {% include nav.html %}
 
-    <div class="container">
+
       <div class="jumbotron"
         {% if page.image %}
           style="background: linear-gradient( rgba(0, 0, 0, 0.4),
           rgba(0, 0, 0, 0.4) ), url({{ page.image }})center / cover;
           color: white;"
         {% endif %}>
+        <div class="container">
         <h1>{{ page.title }}</h1>
         <p>
           {{ page.desc }}
@@ -33,9 +34,11 @@ layout: frame
         </p>
         <a class="btn btn-lg btn-primary-ubuntu" href="{{ page.ticket_link }}" role="button">
         <i class="fa fa-ticket" aria-hidden="true"></i>  지금 신청하기</a>
+        </div>
       </div>
-      <div class="card">
-        <div class="card-body" id="contents">
+
+
+      <div class="container">
           {{ content }}
           <hr />
           <h2>지도</h2>
@@ -52,6 +55,6 @@ layout: frame
             gmaps.height = width * (3/5);
           </script>
         </div>
-      </div>
+
       {% include footer.html %}
     </div>

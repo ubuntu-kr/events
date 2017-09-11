@@ -3,7 +3,6 @@ layout: frame
 ---
 {% include nav.html %}
 
-<div class="container">
   {% for post in paginator.posts %}
   {% if forloop.index == 1 %}
   <div class="jumbotron"
@@ -12,6 +11,7 @@ layout: frame
       rgba(0, 0, 0, 0.4) ), url({{ post.image }})center / cover;
       color: white;"
     {% endif %}>
+    <div class="container">
     <h1>{{ post.title }}</h1>
     <p>
       {{ post.summary }}
@@ -28,9 +28,10 @@ layout: frame
     </p>
     <a class="btn btn-lg btn-primary-ubuntu" href="{{ site.baseurl }}{{ post.url }}" role="button">자세히 보기</a>
   </div>
+  </div>
   {% endif %}
   {% endfor %}
-
+<div class="container">
   <div class="row">
   {% for post in paginator.posts %}
   {% if forloop.index > 1 %}
@@ -68,5 +69,5 @@ layout: frame
      </a></li>
     </ul>
   </nav>
+  </div>
   {% include footer.html %}
-</div>
