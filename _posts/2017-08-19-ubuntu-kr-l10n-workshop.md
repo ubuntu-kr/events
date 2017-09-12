@@ -19,9 +19,9 @@ image: "https://lh3.googleusercontent.com/WFRnRfZk5bgWL9Kzgr0hBheSkU-iaJHmsXH4wk
 소프트웨어 번역에 관심이 있고, 우분투 번역에 참여해 보고 싶으시다면 누구든지 참석할 수 있습니다.
 참석 하시는 분들은 각자 개인 노트북을 지참 하셔야 합니다.
 
-일시 : 2017년 8월 19일 오후 12시 ~ 오후 6시
-장소 : 토즈 강남토즈타워점 대형부스B
-장소 지원 : 마이크로소프트 개발자 커뮤니티 지원 프로그램 멜팅팟
+- 일시 : 2017년 8월 19일 오후 12시 ~ 오후 6시
+- 장소 : 토즈 강남토즈타워점 대형부스B
+- 장소 지원 : 마이크로소프트 개발자 커뮤니티 지원 프로그램 멜팅팟
 
 {% include profile.html
   profile="https://avatars0.githubusercontent.com/u/12551635?v=4&s=400"
