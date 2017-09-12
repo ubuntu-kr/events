@@ -46,3 +46,8 @@ table > tbody > tr > td{
   padding: 4px;
   border-bottom: thin dotted black;
 }
+
+div.media.profile{
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
