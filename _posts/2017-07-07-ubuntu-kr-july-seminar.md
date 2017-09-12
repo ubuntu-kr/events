@@ -27,20 +27,25 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 
 ## Main Sessions
 
-#### 우분투 데스크탑을 이용한 Maker 활동기
-- 이호민 - KossLab
-- Maker 활동에 우분투만을 이용한 후기 공유. eaglel, librecad, cura 등 사용하고 있는 프로그램 소개
+{% include profile.html
+  profile=""
+  heading="우분투 데스크탑을 이용한 Maker 활동기" bold="이호민 - KossLab"
+  desc="Maker 활동에 우분투만을 이용한 후기 공유. eaglel, librecad, cura 등 사용하고 있는 프로그램 소개" %}
 
-#### Msp430을 활용한 마이크로마우스
-- 김준호 - 동국대학교
+{% include profile.html
+  profile=""
+  heading="Msp430을 활용한 마이크로마우스" bold="김준호 - 동국대학교"
+  desc="Maker 활동에 우분투만을 이용한 후기 공유. eaglel, librecad, cura 등 사용하고 있는 프로그램 소개" %}
 
-#### Basic Webhacking
-- 이예랑 - Ultraindex
-- PHP 환경의 다양한 웹해킹 공격 방법을 소개하려고 합니다. 첫번째로 SQL Injection의 다양한 환경에서 발생하는 취약점의 원리와 상황의 따른 SQL INJECTION 공격 방법 예제등 포괄적인 공격 기법을 발표 후 php LFI 및 RFI의 공격 기법 설명 후 와일드 카드 및 php 래퍼를 이용한 LFI or RFI 를 이용한 Remote code Execution을 시연하도록 하겠습니다.
+{% include profile.html
+  profile=""
+  heading="Basic Webhacking" bold="이예랑 - Ultraindex"
+  desc="PHP 환경의 다양한 웹해킹 공격 방법을 소개하려고 합니다. 첫번째로 SQL Injection의 다양한 환경에서 발생하는 취약점의 원리와 상황의 따른 SQL INJECTION 공격 방법 예제등 포괄적인 공격 기법을 발표 후 php LFI 및 RFI의 공격 기법 설명 후 와일드 카드 및 php 래퍼를 이용한 LFI or RFI 를 이용한 Remote code Execution을 시연하도록 하겠습니다." %}
 
-#### 2분기 스터디 결과 보고
-- Mail Server & DNS Server Building Study
-- Basic Mathmatics Study
+{% include profile.html
+  profile=""
+  heading="2분기 스터디 결과 보고" bold="김수영, 최용"
+  desc="Mail Server & DNS Server Building Study, Basic Mathematics Study"%}
 
 ## Lighting Talks
 - 윤건영 - Git 알못의 Git 더 잘쓰기
