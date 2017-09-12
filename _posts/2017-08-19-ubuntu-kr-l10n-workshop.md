@@ -23,9 +23,11 @@ image: "https://lh3.googleusercontent.com/WFRnRfZk5bgWL9Kzgr0hBheSkU-iaJHmsXH4wk
 장소 : 토즈 강남토즈타워점 대형부스B
 장소 지원 : 마이크로소프트 개발자 커뮤니티 지원 프로그램 멜팅팟
 
-연사 : 신민욱 - 우분투한국커뮤니티 Wiki Provider & l10n
+{% include profile.html
+  profile="https://avatars0.githubusercontent.com/u/12551635?v=4&s=400"
+  heading="신민욱" bold="우분투한국커뮤니티 Wiki Provider & l10n" %}
 
-일정 :
+### 일정
 - 12:30 ~ 13:00 / 30분 : 신청자 확인
 - 13:00 ~ 13:20 / 20분 : 커뮤니티 소개 / 번역팀 소개 / 번역팀 규정 소개
 - 13:20 ~ 13:50 / 30분 : 런치패드에 대한 간단한 소개, 런치패드에 가입하기
