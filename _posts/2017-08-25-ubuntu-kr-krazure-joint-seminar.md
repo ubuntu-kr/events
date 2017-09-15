@@ -26,7 +26,7 @@ image: "https://lh3.googleusercontent.com/2DwijrYqEFIXOHb6Pc5rvYMGvialc_COnuflbw
 
 
 {% include profile.html
-  profile="https://scontent-hkg3-1.xx.fbcdn.net/v/t31.0-8/19577399_1576285935728778_2157357530917622737_o.jpg?oh=4529084dc571a60e734251057fe71422&oe=5A14ED6C"
+  profile="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/21432861_1646439345380103_4204884710733016493_n.jpg?oh=191f80ebd661f522ef2d7fd03cfc3dbd&oe=5A4CB23F"
   heading="New & Change Ubuntu on Windows 10(Ver.1709)" bold="박성기 - 한국Azure사용자그룹, 한국Surface사용자그룹, Microsoft MVP(Windows and Device for IT)"
   desc="곧 출시 될 Windows 10 Ver.1709 부터 정식버전이 되는 Windows Subsystem for Linux 의 Ubuntu 지원변경의 배경과 변경내역을 설명합니다. 또한 Client Hyper-V 의 변경사항을 통한 Ubuntu VM 생성 및 관리팁 그리고 Azure 환경에서의 Ubuntu 환경에 대한 최신정보 또한 정리하여 설명합니다." %}
 
