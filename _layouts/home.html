@@ -18,9 +18,9 @@ layout: frame
     </p>
     <p>
       <i class="fa fa-calendar-o" aria-hidden="true"></i>
-      {{ post.start_time | date: "%Y.%m.%d %H:%M %Z" }} ~ {{ post.end_time | date: "%Y.%m.%d %H:%M %Z" }}<br />
+      {{ post.start_time | date: "%Y.%m.%d %H:%M %z" }} ~ {{ post.end_time | date: "%Y.%m.%d %H:%M %z" }}<br />
       <i class="fa fa-clock-o" aria-hidden="true"></i>
-      {{ post.submit_start | date: "%Y.%m.%d %H:%M %Z" }} ~ {{ post.submit_end | date: "%Y.%m.%d %H:%M %Z" }}<br />
+      {{ post.submit_start | date: "%Y.%m.%d %H:%M %z" }} ~ {{ post.submit_end | date: "%Y.%m.%d %H:%M %z" }}<br />
       <i class="fa fa-map-marker" aria-hidden="true"></i>
       {{ post.location }}<br />
       <i class="fa fa-ticket" aria-hidden="true"></i>
@@ -44,7 +44,7 @@ layout: frame
           <i class="fa fa-map-marker" aria-hidden="true"></i>
           {{ post.location }}<br />
           <i class="fa fa-calendar-o" aria-hidden="true"></i>
-          {{ post.start_time | date: "%Y.%m.%d %H:%M %Z" }}<br />
+          {{ post.start_time | date: "%Y.%m.%d %H:%M %z" }}<br />
           <i class="fa fa-ticket" aria-hidden="true"></i>
           {{ post.price }}
         </p>
