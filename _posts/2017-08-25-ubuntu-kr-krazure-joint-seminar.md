@@ -14,14 +14,6 @@ ticket_link: "https://survey.ubuntu-kr.org/index.php/143816?lang=ko"
 image: "https://lh3.googleusercontent.com/2DwijrYqEFIXOHb6Pc5rvYMGvialc_COnuflbwao9JH3qySYbb2uVVofodGTlHZuk96bo88NlAd-KVgjoI892ScYxCg7pTZi8bzdg5i_FFnYJ5IANf6_Y5vGh0fknzmZHg2Kf2r2hg=s1000-no"
 ---
 
-우분투한국커뮤니티와 한국애저사용자그룹이 함께 주최하는 9월 연합 세미나 입니다.  
-개발자 관점에서의 클라우드와 데스크탑을 주제로 준비하였습니다.
-
-- 일시 : 2017년 9월 16일 오후 2시 ~ 오후 6시
-- 장소 : 한국마이크로소프트
-- 참가비 : 무료
-- 후원 및 협찬 : 한국마이크로소프트 개발자 커뮤니티 지원 프로그램 멜팅팟(장소 지원), Jabra Korea & JCS(장비지원), 한빛미디어(도서협찬)
-
 ## Main Sessions
 
 
@@ -85,3 +77,11 @@ image: "https://lh3.googleusercontent.com/2DwijrYqEFIXOHb6Pc5rvYMGvialc_COnuflbw
 17:10 ~ 17:20	| 휴식
 17:20 ~ 17:50	| Q&A Session
 17:50 ~ 18:00	| 행사 마무리
+
+---
+
+## 후원 및 협찬
+- 한국마이크로소프트 개발자 커뮤니티 지원 프로그램 멜팅팟 - 장소 지원
+- Jabra Korea & JCS - 장비지원
+- 한빛미디어 - 도서협찬
+- 마이크로소프트웨어 - 도서협찬
