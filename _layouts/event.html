@@ -41,6 +41,8 @@ layout: frame
       <div class="container" id="contents">
           {{ content }}
           <hr />
+
+          {% if page.location_query %}
           <h2>지도</h2>
           <iframe
             id="google_maps"
@@ -54,10 +56,12 @@ layout: frame
             gmaps.width = width;
             gmaps.height = width * (3/5);
           </script>
+          {% endif %}
         </div>
 
       {% include footer.html %}
       <script>
+        let isTicketLinkExists = {% if page.ticket_link %} true {% else %} false {% endif %};
         let submitStart = new Date("{{ page.submit_start | date: '%Y-%m-%d %H:%M:%S %z' }}");
         let submitEnd = new Date("{{ page.submit_end | date: '%Y-%m-%d %H:%M:%S %z' }}");
         let endTime = new Date("{{ page.end_time | date: '%Y-%m-%d %H:%M:%S %z' }}");
@@ -66,12 +70,12 @@ layout: frame
         let ticketBtn = document.getElementById('ticketBtn');
         let ticketBtnTxt = document.getElementById('ticketBtnTxt');
 
-        if(now > submitEnd || now < submitStart){
+        if(now > submitEnd || now < submitStart || !isTicketLinkExists){
           ticketBtn.className += " disabled";
           ticketBtn.setAttribute("aria-disabled", "true");
         }
 
-        if(now < submitStart){
+        if(now < submitStart || !isTicketLinkExists){
           ticketBtnTxt.innerHTML = "준비중"
         }else if(now > submitEnd && now < endTime){
           ticketBtnTxt.innerHTML = "신청 마감됨"
