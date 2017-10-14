@@ -7,7 +7,7 @@ start_time: 2017-11-04 13:10:00 +0900
 end_time: 2017-11-04 18:00:00 +0900
 submit_start: 2017-10-12 00:00:00 +0900
 submit_end: 2017-11-03 23:59:59 +0900
-location: "토즈 TSC대전탄방센터(대전광역시 서구 계룡로 586 KMT빌딩 7층)"
+location: "토즈 TSC대전탄방센터(대전광역시 서구 계룡로 586 KMT빌딩 7층) 정액25인 부스"
 location_query: "KMT빌딩"
 price: "0 KRW"
 ticket_link: "https://goo.gl/forms/Yjj5lBYSXRknQR9z1"
@@ -15,6 +15,11 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 ---
 
 ## Main Sessions
+
+{% include profile.html
+  profile="https://avatars0.githubusercontent.com/u/1297346?v=4&s=400"
+  heading="개발자를 위한, 윈도 10으로 시작하는 우분투 리눅스" bold="남정현 - 한국 Azure 사용자 그룹, Microsoft MVP"
+  desc="Windows 10 Fall Creators Update부터 정식 버전이 되는 Windows Subsystem for Linux와 이를 기반으로 하는 Ubuntu Linux 16.04 Xenial을 개발자의 관점에서 활용하는 방법과 상세한 내용을 설명합니다." %}
 
 {% include profile.html
   profile="https://lh3.googleusercontent.com/Wl1wg_9c8nuymZr96Gmfz_l2SOVI6Xr5ej5hatr-pLAQ82NK0MESbXC2LG5yYwSHajaA5SzcPLjAhg=s848-rw-no"
@@ -46,6 +51,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
   - 행사 당일에는 취소 처리를 해 드리지 않습니다.
 - 주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해 주시기 바랍니다.
 - 참가 등록 시기를 놓쳐 사전에 등록을 못하셨어도, 현장에서 참가 등록을 하실 수 있습니다.
+- 행사 공간이 최대 30명 쯤까지 수용 가능합니다. 꼭 참석하고 싶으시면, 빠르게 신청해 주세요. :)
 
 ## 일정표
 
@@ -53,7 +59,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 --- | ---
 12:30 ~ 1:10 | 준비 및 등록
 1:10 ~ 1:20 | 일정 안내
-1:20 ~ 2:00 | 스폰서 세션
+1:20 ~ 2:00 | 남정현 - 개발자를 위한, 윈도 10으로 시작하는 우분투 리눅스
 2:00 ~ 2:10 | 휴식
 2:10 ~ 2:40 | 신근수 - LTE-M을 이용한 IoT 통신
 2:40 ~ 2:50 | 휴식
