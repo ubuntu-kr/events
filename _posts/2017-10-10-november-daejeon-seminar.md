@@ -27,7 +27,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
   desc="IoT에 대한 여러 기술 중 LTE-M에 대한 소개 및 라즈베리파이를 이용한 간단한 시연." %}
 
 {% include profile.html
-  profile=""
+  profile="https://media.licdn.com/media/AAEAAQAAAAAAAAMAAAAAJDE5Y2ZlMGU4LTJhNDItNDUzYi1iMDgwLTU1OTJhZjgzMTAzNQ.jpg"
   heading="임베디드와 보안" bold="박수현 - AhnLab"
   desc="임베디드 SW 와 임베디드 리눅스, 임베디드 디바이스와 펌웨어 개발, 임베디드 보안과 취약점 사례 등에 대해서 알아봅니다." %}
 
