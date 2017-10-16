@@ -22,7 +22,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
   desc="Windows 10 Fall Creators Update부터 정식 버전이 되는 Windows Subsystem for Linux와 이를 기반으로 하는 Ubuntu Linux 16.04 Xenial을 개발자의 관점에서 활용하는 방법과 상세한 내용을 설명합니다." %}
 
 {% include profile.html
-  profile="https://lh3.googleusercontent.com/Wl1wg_9c8nuymZr96Gmfz_l2SOVI6Xr5ej5hatr-pLAQ82NK0MESbXC2LG5yYwSHajaA5SzcPLjAhg=s848-rw-no"
+  profile="https://lh5.googleusercontent.com/-Q792JHNLOoM/AAAAAAAAAAI/AAAAAAAAALs/cL-ddHwZ6dA/w80-h80/photo.jpg"
   heading="LTE-M을 이용한 IoT 통신" bold="신근수 - (주)테크플렉스"
   desc="IoT에 대한 여러 기술 중 LTE-M에 대한 소개 및 라즈베리파이를 이용한 간단한 시연." %}
 
