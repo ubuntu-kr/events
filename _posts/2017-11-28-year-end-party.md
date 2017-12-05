@@ -10,7 +10,7 @@ submit_end: 2017-12-14 23:59:59 +0900
 location: "웰컴투합정골"
 location_query: "서울특별시+마포구+서교동+399-26"
 price: "30000 KRW"
-ticket_link: "https://survey.ubuntu-kr.org/index.php/841787?lang=ko"
+ticket_link: "https://survey.ubuntu-kr.org/index.php/328968?lang=ko"
 image: "https://lh3.googleusercontent.com/ItNTBiN-XCwEh3_QG5K3tKVYzV-J4HVPyM1AyXKV5WHFTj7_E6nZyE7NVuvKBuynZ39NU6JrqZOJRYzwCu4v_IomKFOBsYDLyqelpoUn6i5kxR__Ws7y3AppdXhAJNujvpAiih_mfB_CULFeMVF1umrvPaM3saF988GrwLnFYBgVjxTAoXeUj5ffpAharyPDc4AkvGNdc8WzvOWOlwLC0Y4sjfKm8GfgmKkfYWUNBRrCwRAP89IMx04Uk7lJ_Rp8kpPAtJnzp55KvyoaYrnADdBpcMl59Hs0aiTyr5DcHvB64vg5_m51z5i8a70J8VplUAop-PVCLp-F9WnWigq5OcyzdTA3DhzgYMQoCUz02dX7Z5tLejbDEc7fVdRkK9Bj4VFjiEYwW2Gs-BtakVjpkFvF8RW4kFXSLTRu8eC8HiQ_ga0WiAVLKNOBia6KBDtfWXVtdYZGs9Nf96uM6cFQP9Jwd95qhMVjUBJ2ASWbHnGjQ2zNuqmcw8MxlG-zwlc0L7HgmF4-eS3ikJdeykhHLC2T_FjLG7Iqf1HvDL1xz2sb8WuXP7OhNAokhuymFru6ouAcF4v5GihGT6pekpgJkb4edhTorTYmIkheGozHmqcRnt6sjagi3hbs5UKJZRlbWUSw2jl28NpXe_VzRPbXwiaQZ0mNAb_P55I=w2880-h1620-no"
 ---
 
