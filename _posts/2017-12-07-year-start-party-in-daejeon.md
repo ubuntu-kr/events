@@ -11,6 +11,7 @@ location: "대흥노마드"
 location_query: "대전광역시+중구+중앙로+124"
 price: "10000 KRW(신청자에 한함)"
 ticket_link: "https://survey.ubuntu-kr.org/index.php/956623?lang=ko"
+image: "https://wiki.ubuntu-kr.org/images/c/cc/%EB%8C%80%EC%A0%84%EC%A7%80%EC%97%AD%EC%9A%B0%EB%B6%84%ED%88%AC%EB%AA%A8%EC%9E%84%EB%A1%9C%EA%B3%A0.png"
 
 ---
 
