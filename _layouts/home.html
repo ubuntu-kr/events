@@ -20,7 +20,9 @@ layout: frame
       <i class="fa fa-calendar-o" aria-hidden="true"></i>
       {{ post.start_time | date: "%Y.%m.%d %H:%M %z" }} ~ {{ post.end_time | date: "%Y.%m.%d %H:%M %z" }}<br />
       <i class="fa fa-clock-o" aria-hidden="true"></i>
-      {{ post.submit_start | date: "%Y.%m.%d %H:%M %z" }} ~ {{ post.submit_end | date: "%Y.%m.%d %H:%M %z" }}<br />
+      {% if post.submit_start && post.submit_end %}
+      {{ post.submit_start | date: "%Y.%m.%d %H:%M %z" }} ~ {{ post.submit_end | date: "%Y.%m.%d %H:%M %z" }}
+      {% else %}등록 불필요{% endif %}<br />
       <i class="fa fa-map-marker" aria-hidden="true"></i>
       {{ post.location }}<br />
       <i class="fa fa-ticket" aria-hidden="true"></i>
