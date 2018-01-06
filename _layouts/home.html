@@ -17,15 +17,15 @@ layout: frame
       {{ post.summary }}
     </p>
     <p>
-      <i class="fa fa-calendar-o" aria-hidden="true"></i>
+      <i class="fas fa-calendar-check"></i>
       {{ post.start_time | date: "%Y.%m.%d %H:%M %z" }} ~ {{ post.end_time | date: "%Y.%m.%d %H:%M %z" }}<br />
-      <i class="fa fa-clock-o" aria-hidden="true"></i>
+      <i class="far fa-clock"></i>
       {% if post.submit_start && post.submit_end %}
       {{ post.submit_start | date: "%Y.%m.%d %H:%M %z" }} ~ {{ post.submit_end | date: "%Y.%m.%d %H:%M %z" }}
       {% else %}등록 불필요{% endif %}<br />
-      <i class="fa fa-map-marker" aria-hidden="true"></i>
+      <i class="fas fa-map-marker-alt"></i>
       {{ post.location }}<br />
-      <i class="fa fa-ticket" aria-hidden="true"></i>
+      <i class="fas fa-ticket-alt"></i>
       {{ post.price }}
     </p>
     <a class="btn btn-lg btn-primary-ubuntu" href="{{ site.baseurl }}{{ post.url }}" role="button">자세히 보기</a>
@@ -43,11 +43,11 @@ layout: frame
       <div class="card-body">
         <h4 class="card-title">{{ post.title }}</h4>
         <p class="card-text">
-          <i class="fa fa-map-marker" aria-hidden="true"></i>
+          <i class="fas fa-map-marker-alt"></i>
           {{ post.location }}<br />
-          <i class="fa fa-calendar-o" aria-hidden="true"></i>
+          <i class="fas fa-calendar-check"></i>
           {{ post.start_time | date: "%Y.%m.%d %H:%M %z" }}<br />
-          <i class="fa fa-ticket" aria-hidden="true"></i>
+          <i class="fas fa-ticket-alt"></i>
           {{ post.price }}
         </p>
         <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary-ubuntu">자세히 보기</a>
@@ -62,12 +62,12 @@ layout: frame
     <ul class="pagination">
       <li class="page-item"><a class="page-link" {% if paginator.previous_page %}
        href="{{ site.baseurl }}/{{ paginator.previous_page_path }}"{% else %}{% endif %}>
-       <i class="fa fa-arrow-left" aria-hidden="true"></i>
+       <i class="fas fa-arrow-left"></i>
      </a></li>
       <li class="page-item"><a class="page-link">{{ paginator.page }} / {{ paginator.total_pages }}</a></li>
       <li class="page-item"><a class="page-link" {% if paginator.next_page %}
        href="{{ site.baseurl }}/{{ paginator.next_page_path }}"{% else %}{% endif %}>
-       <i class="fa fa-arrow-right" aria-hidden="true"></i>
+       <i class="fas fa-arrow-right"></i>
      </a></li>
     </ul>
   </nav>

@@ -14,10 +14,10 @@ layout: frame
         <div class="container event-main">
         <h1>{{ page.title }}</h1>
         <p>{{ page.desc }}</p>
-        <p><i class="fa fa-calendar-o" aria-hidden="true">
+        <p><i class="fas fa-calendar-check"></i>
         </i> {{ page.start_time | date: "%Y.%m.%d %H:%M %z" }}
            ~ {{ page.end_time | date: "%Y.%m.%d %H:%M %z" }}</p>
-        <p><i class="fa fa-map-marker" aria-hidden="true">
+        <p><i class="fas fa-map-marker-alt"></i>
         </i> {{ page.location }}</p>
         </div>
       </div>
@@ -45,14 +45,14 @@ layout: frame
         </div>
         <nav class="navbar fixed-bottom navbar-light bg-light">
           <span class="inline-text">
-            <i class="fa fa-ticket" aria-hidden="true"></i> {{ page.price }}<br />
-            <i class="fa fa-clock-o" aria-hidden="true"></i>
+            <i class="fas fa-ticket-alt"></i> {{ page.price }}<br />
+            <i class="far fa-clock"></i>
             {% if page.submit_start && page.submit_end %} {{ page.submit_start | date: "%Y.%m.%d %H:%M %z" }}
              ~ {{ page.submit_end | date: "%Y.%m.%d %H:%M %z" }}
              {% else %}등록이 불필요한 행사입니다.{% endif %}
           </span>
           <a class="btn btn-lg btn-primary-ubuntu" href="{{ page.ticket_link }}" role="button" id="ticketBtn">
-            <i class="fa fa-ticket" aria-hidden="true"></i> <b id="ticketBtnTxt">지금 신청하기</b></a>
+            <i class="fas fa-ticket-alt"></i> <b id="ticketBtnTxt">지금 신청하기</b></a>
         </nav>
       {% include footer.html %}
       <script>
