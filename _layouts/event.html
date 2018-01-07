@@ -47,9 +47,9 @@ layout: frame
           <span class="inline-text">
             <i class="fas fa-ticket-alt"></i> {{ page.price }}<br />
             <i class="far fa-clock"></i>
-            {% if page.submit_start && page.submit_end %} {{ page.submit_start | date: "%Y.%m.%d %H:%M %z" }}
+            <span id="submitPeriodTxt">{% if page.submit_start && page.submit_end %} {{ page.submit_start | date: "%Y.%m.%d %H:%M %z" }}
              ~ {{ page.submit_end | date: "%Y.%m.%d %H:%M %z" }}
-             {% else %}등록이 불필요한 행사입니다.{% endif %}
+             {% else %}등록이 불필요한 행사입니다.{% endif %}</span>
           </span>
           <a class="btn btn-lg btn-primary-ubuntu" href="{{ page.ticket_link }}" role="button" id="ticketBtn">
             <i class="fas fa-ticket-alt"></i> <b id="ticketBtnTxt">지금 신청하기</b></a>
@@ -68,6 +68,7 @@ layout: frame
 
           let ticketBtn = document.getElementById('ticketBtn');
           let ticketBtnTxt = document.getElementById('ticketBtnTxt');
+          let submitPeriodTxt = document.getElementById('submitPeriodTxt');
 
           if(now > submitEnd || now < submitStart || now > startTime || !isTicketLinkExists || !requiresRegistration){
             console.log("Disabling Button");
@@ -80,8 +81,12 @@ layout: frame
           }else if(requiresRegistration){
             if(now < submitStart || !isTicketLinkExists){
               ticketBtnTxt.innerHTML = "준비중"
+              submitPeriodTxt.innerHTML = "{{ page.submit_start | date: "%Y.%m.%d %H:%M %z" }} ~"
+            }else if(now > submitStart && now < submitEnd){
+              submitPeriodTxt.innerHTML = "~ {{ page.submit_end | date: "%Y.%m.%d %H:%M %z" }}"
             }else if(now > submitEnd && now < endTime){
               ticketBtnTxt.innerHTML = "신청 마감됨"
+              submitPeriodTxt.innerHTML = "참가 등록이 마감되었습니다."
             }
           }
 
@@ -89,6 +94,7 @@ layout: frame
             ticketBtnTxt.innerHTML = "행사 시작됨"
           }else if(now > endTime){
             ticketBtnTxt.innerHTML = "행사 종료됨"
+            submitPeriodTxt.innerHTML = "종료된 행사입니다."
           }
         }
 
