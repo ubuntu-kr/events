@@ -1,9 +1,9 @@
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="{{ site.baseurl }}/assets/js/jquery-3.2.1.min.js"></script>
+<!-- <script src="{{ site.baseurl }}/assets/js/jquery-3.2.1.min.js"></script>
 <script src="{{ site.baseurl }}/assets/js/popper.js"></script>
-<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script> -->
 <script src="{{ site.baseurl }}/assets/js/fontawesome-all.js"></script>
 
 <script>
@@ -15,4 +15,26 @@
   ga('create', '{{site.google_analytics}}', 'auto');
   ga('send', 'pageview');
 
+</script>
+<script>
+let dropdowns = document.getElementsByClassName("p-contextual-menu__toggle");
+function toggleDropdown() {
+
+  // Get toggle aria-control target
+  let target = document.querySelector(
+    this.getAttribute('aria-controls'));
+
+  // If target hidden is already true set to false and toggle
+  // control expanded to be true / false
+  if (target.getAttributeNode('aria-hidden').value == 'true') {
+    this.setAttribute('aria-expanded', true);
+    target.setAttribute('aria-hidden', false);
+  } else {
+    this.setAttribute('aria-expanded', false);
+    target.setAttribute('aria-hidden', true);
+  }
+}
+for (let i = 0; i < dropdowns.length; i++) {
+    dropdowns[i].addEventListener('click', toggleDropdown, false);
+}
 </script>

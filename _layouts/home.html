@@ -5,32 +5,41 @@ layout: frame
 
   {% for post in paginator.posts %}
   {% if forloop.index == 1 %}
-  <div class="jumbotron"
-    {% if post.image %}
-      style="background: linear-gradient( rgba(0, 0, 0, 0.4),
-      rgba(0, 0, 0, 0.4) ), url({{ post.image }})center / cover;
-      color: white;"
-    {% endif %}>
-    <div class="container">
-    <h1>{{ post.title }}</h1>
-    <p>
-      {{ post.summary }}
-    </p>
-    <p>
-      <i class="fas fa-calendar-check"></i>
-      {{ post.start_time | date: "%Y.%m.%d %H:%M %z" }} ~ {{ post.end_time | date: "%Y.%m.%d %H:%M %z" }}<br />
-      <i class="far fa-clock"></i>
-      {% if post.submit_start && post.submit_end %}
-      {{ post.submit_start | date: "%Y.%m.%d %H:%M %z" }} ~ {{ post.submit_end | date: "%Y.%m.%d %H:%M %z" }}
-      {% else %}등록 불필요{% endif %}<br />
-      <i class="fas fa-map-marker-alt"></i>
-      {{ post.location }}<br />
-      <i class="fas fa-ticket-alt"></i>
-      {{ post.price }}
-    </p>
-    <a class="btn btn-lg btn-primary-ubuntu" href="{{ site.baseurl }}{{ post.url }}" role="button">자세히 보기</a>
+  <section class="p-strip--image is-dark" style="background: linear-gradient( rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4) ), url({{ post.image }})center / cover;">
+  <div class="row">
+    <div class="col-12">
+      <h2>{{ post.title }}</h2>
+      </div>
   </div>
+  <div class="row">
+    <div class="col-6">
+      <ul>
+        <li>
+          {{ post.desc }}
+        </li>
+        <li>
+          <i class="fas fa-calendar-check"></i>
+          {{ post.start_time | date: "%Y.%m.%d %H:%M %z" }} ~ {{ post.end_time | date: "%Y.%m.%d %H:%M %z" }}
+        </li>
+        <li>
+          <i class="far fa-clock"></i>
+          {% if post.submit_start and post.submit_end %}
+          {{ post.submit_start | date: "%Y.%m.%d %H:%M %z" }} ~ {{ post.submit_end | date: "%Y.%m.%d %H:%M %z" }}
+          {% else %}등록 불필요{% endif %}
+        </li>
+        <li>
+          <i class="fas fa-map-marker-alt"></i> {{ post.location }}
+        </li>
+        <li>
+          <i class="fas fa-ticket-alt"></i> {{ post.price }}
+        </li>
+      </ul>
+      <a class="p-button--neutral" href="{{ site.baseurl }}{{ post.url }}" role="button">자세히 보기</a>
+    </div>
   </div>
+</section>
+
   {% endif %}
   {% endfor %}
 <div class="container">
@@ -38,38 +47,39 @@ layout: frame
   {% for post in paginator.posts %}
   {% if forloop.index > 1 %}
 
-  <div class="col-sm-4 home-card">
-    <div class="card">
-      <div class="card-body">
-        <h4 class="card-title">{{ post.title }}</h4>
-        <p class="card-text">
-          <i class="fas fa-map-marker-alt"></i>
-          {{ post.location }}<br />
-          <i class="fas fa-calendar-check"></i>
-          {{ post.start_time | date: "%Y.%m.%d %H:%M %z" }}<br />
-          <i class="fas fa-ticket-alt"></i>
-          {{ post.price }}
-        </p>
-        <a href="{{ site.baseurl }}{{ post.url }}" class="btn btn-primary-ubuntu">자세히 보기</a>
-      </div>
+  <div class="col-6 home-card">
+    <div class="p-card">
+        <h4 class="p-card__title">{{ post.title }}</h4>
+        <ul class="p-card__content">
+          <li>
+            <i class="fas fa-map-marker-alt"></i> {{ post.location }}
+          </li>
+          <li>
+            <i class="fas fa-calendar-check"></i> {{ post.start_time | date: "%Y.%m.%d %H:%M %z" }}
+          </li>
+          <li>
+            <i class="fas fa-ticket-alt"></i> {{ post.price }}
+          </li>
+        </ul>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="p-button--neutral">자세히 보기</a>
     </div>
   </div>
     {% endif %}
     {% endfor %}
+
+    <!-- Pagination -->
+
+    <footer class="p-pagination">
+      <a class="p-pagination__link" {% if paginator.previous_page %}
+       href="{{ site.baseurl }}{{ paginator.previous_page_path }}"{% else %}{% endif %}>
+        <span class="p-pagination__label">이전</span>
+        <span class="p-pagination__title">최근 행사 보기</span>
+      </a>
+      <a class="p-pagination__link" {% if paginator.next_page %}
+       href="{{ site.baseurl }}{{ paginator.next_page_path }}"{% else %}{% endif %}>
+        <span class="p-pagination__label">다음</span>
+        <span class="p-pagination__title">과거 행사 보기</span>
+      </a>
+    </footer>
+    {% include footer.html %}
   </div>
-  <!-- Pagination -->
-  <nav class="pagination-container">
-    <ul class="pagination">
-      <li class="page-item"><a class="page-link" {% if paginator.previous_page %}
-       href="{{ site.baseurl }}/{{ paginator.previous_page_path }}"{% else %}{% endif %}>
-       <i class="fas fa-arrow-left"></i>
-     </a></li>
-      <li class="page-item"><a class="page-link">{{ paginator.page }} / {{ paginator.total_pages }}</a></li>
-      <li class="page-item"><a class="page-link" {% if paginator.next_page %}
-       href="{{ site.baseurl }}/{{ paginator.next_page_path }}"{% else %}{% endif %}>
-       <i class="fas fa-arrow-right"></i>
-     </a></li>
-    </ul>
-  </nav>
-  </div>
-  {% include footer.html %}

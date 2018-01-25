@@ -5,52 +5,24 @@
   margin-top: 80px;
 }
 
+.ticket-info > ul{
+  margin: 0;
+}
+
 .home-card{
+  margin-left: 0;
   margin-bottom: 16px;
-}
-
-.pagination-container{
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 32px;
-}
-
-.footer{
   padding: 8px;
-  margin: 8px;
-  margin-top: 64px;
 }
 
-.bg-ubuntu{
-  background-color: #e95420;
-}
-
-.btn-primary-ubuntu{
-  color: white;
-  background-color: #e95420;
-  border-color: #e95420;
-}
-
-.btn-primary-ubuntu:hover{
-  color: white;
-  background-color: #d04116;
-  border-color: #d04116;
-}
-
-a{
-  color: #e95420;
+.p-strip--light p{
+  max-width: 100%;
 }
 
 table > thead > tr > th,
 table > tbody > tr > td{
   padding: 4px;
   border-bottom: thin dotted black;
-}
-
-div.media.profile{
-  margin-top: 8px;
-  margin-bottom: 8px;
-  padding: 4px;
 }
 
 footer{

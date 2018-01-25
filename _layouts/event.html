@@ -4,57 +4,77 @@ layout: frame
 
     {% include nav.html %}
 
-
-      <div class="jumbotron"
-        {% if page.image %}
-          style="background: linear-gradient( rgba(0, 0, 0, 0.4),
-          rgba(0, 0, 0, 0.4) ), url({{ page.image }})center / cover;
-          color: white;"
-        {% endif %}>
-        <div class="container event-main">
-        <h1>{{ page.title }}</h1>
-        <p>{{ page.desc }}</p>
-        <p><i class="fas fa-calendar-check"></i>
-        </i> {{ page.start_time | date: "%Y.%m.%d %H:%M %z" }}
-           ~ {{ page.end_time | date: "%Y.%m.%d %H:%M %z" }}</p>
-        <p><i class="fas fa-map-marker-alt"></i>
-        </i> {{ page.location }}</p>
+    <section class="p-strip--image is-dark" style="background: linear-gradient( rgba(0, 0, 0, 0.4),
+        rgba(0, 0, 0, 0.4) ), url({{ page.image }})center / cover;">
+    <div class="row">
+      <div class="col-12 event-main">
+        <h2>{{ page.title }}</h2>
         </div>
+    </div>
+    <div class="row">
+      <div class="col-6">
+        <ul>
+          <li>
+            {{ page.desc }}
+          </li>
+          <li>
+            <i class="fas fa-calendar-check"></i>
+            {{ page.start_time | date: "%Y.%m.%d %H:%M %z" }} ~ {{ page.end_time | date: "%Y.%m.%d %H:%M %z" }}
+          </li>
+          <li>
+            <i class="fas fa-map-marker-alt"></i> {{ page.location }}
+          </li>
+        </ul>
       </div>
+    </div>
+  </section>
+  <div class="p-strip--light is-bordered">
+    <div class="row u-vertically-center">
+  <div class="col-8 ticket-info">
+    <ul>
+      <li>
+        <i class="fas fa-ticket-alt"></i> {{ page.price }}
+      </li>
+      <li>
+        <i class="far fa-clock"></i>
+         <span id="submitPeriodTxt">{% if page.submit_start and page.submit_end %} {{ page.submit_start | date: "%Y.%m.%d %H:%M %z" }}
+          ~ {{ page.submit_end | date: "%Y.%m.%d %H:%M %z" }}
+          {% else %}등록이 불필요한 행사입니다.{% endif %}</span>
+      </li>
+    </ul>
+  </div>
+  <div class="col-4">
+    <a class="p-button--neutral" href="{{ page.ticket_link }}" role="button" id="ticketBtn">
+      <i class="fas fa-ticket-alt"></i> <b id="ticketBtnTxt">지금 신청하기</b></a>
+  </div>
+</div>
+</div>
+<div class="p-strip--light">
+  <div class="row">
+    <div class="col-12 content" id="contents">
+      {{ content }}
+      <hr />
 
-
-      <div class="container" id="contents">
-          {{ content }}
-          <hr />
-
-          {% if page.location_query %}
-          <h2>지도</h2>
-          <iframe
-            id="google_maps"
-            width="500" height="500"
-            frameborder="0" style="border:0"
-            src="https://www.google.com/maps/embed/v1/place?key={{site.gmaps_embed_api_key}}&q={{page.location_query}}" allowfullscreen>
-          </iframe>
-          <script>
-            var width = document.getElementById('contents').offsetWidth - 40;
-            var gmaps = document.getElementById('google_maps');
-            gmaps.width = width;
-            gmaps.height = width * (3/5);
-          </script>
-          {% endif %}
-        </div>
-        <nav class="navbar fixed-bottom navbar-light bg-light">
-          <span class="inline-text">
-            <i class="fas fa-ticket-alt"></i> {{ page.price }}<br />
-            <i class="far fa-clock"></i>
-            <span id="submitPeriodTxt">{% if page.submit_start && page.submit_end %} {{ page.submit_start | date: "%Y.%m.%d %H:%M %z" }}
-             ~ {{ page.submit_end | date: "%Y.%m.%d %H:%M %z" }}
-             {% else %}등록이 불필요한 행사입니다.{% endif %}</span>
-          </span>
-          <a class="btn btn-lg btn-primary-ubuntu" href="{{ page.ticket_link }}" role="button" id="ticketBtn">
-            <i class="fas fa-ticket-alt"></i> <b id="ticketBtnTxt">지금 신청하기</b></a>
-        </nav>
+      {% if page.location_query %}
+      <h2>지도</h2>
+      <iframe
+        id="google_maps"
+        width="500" height="500"
+        frameborder="0" style="border:0"
+        src="https://www.google.com/maps/embed/v1/place?key={{site.gmaps_embed_api_key}}&q={{page.location_query}}" allowfullscreen>
+      </iframe>
+      <script>
+        var width = document.getElementById('contents').offsetWidth - 40;
+        var gmaps = document.getElementById('google_maps');
+        gmaps.width = width;
+        gmaps.height = width * (3/5);
+      </script>
+      {% endif %}
       {% include footer.html %}
+    </div>
+  </div>
+</div>
+
       <script>
         function setBtnState(){
           console.log("Setting Button State");
@@ -72,8 +92,9 @@ layout: frame
 
           if(now > submitEnd || now < submitStart || now > startTime || !isTicketLinkExists || !requiresRegistration){
             console.log("Disabling Button");
-            ticketBtn.className += " disabled";
+            ticketBtn.className += " is--disabled";
             ticketBtn.setAttribute("aria-disabled", "true");
+            ticketBtn.setAttribute("href", "#");
           }
 
           if(now < startTime && !requiresRegistration){

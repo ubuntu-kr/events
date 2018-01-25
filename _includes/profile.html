@@ -1,12 +1,18 @@
-<div class="media profile">
-  <img class="d-flex mr-3 rounded-circle"
-  src="{{include.profile}}" width="70px" height="70px" alt=" "
-  style="background-color: #AEA79F;">
-  <div class="media-body">
-    <h5 class="mt-0">{{include.heading}}</h5>
-    <p>
-      <b>{{include.bold}}</b><br />
-      {% if include.desc %}{{include.desc}}{% endif %}
-    </p>
+
+
+<div class="p-media-object">
+  <img src="{{include.profile}}" class="p-media-object__image is-round">
+  <div class="p-media-object__details">
+    <h3 class="p-media-object__title">
+      {{include.heading}}
+    </h3>
+    <ul class="p-media-object__meta-list">
+      <li>
+        {{include.bold}}
+      </li>
+      {% if include.desc %}<li>
+        {{include.desc}}
+      </li>{% endif %}
+    </ul>
   </div>
 </div>
