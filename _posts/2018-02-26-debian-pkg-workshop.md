@@ -17,12 +17,12 @@ image: "https://lh3.googleusercontent.com/I9OGwLKVa5muJvlGSs1j3UgieyZ3UGoHpTWiPy
 ## 연사 정보
 
   {% include profile.html
-    profile=""
+    profile="https://avatars3.githubusercontent.com/u/9694022"
     heading="심경섭" bold="펜타시큐리티"
     desc="이번 데비안 패키징 워크샵 주 발표자 입니다." %}
 
   {% include profile.html
-    profile=""
+    profile="https://avatars1.githubusercontent.com/u/6753999"
     heading="김진석" bold="Ubuntu Korea Community - Packaging Manager"
     desc="이번 데비안 패키징 워크샵 보조 발표자 입니다." %}
 
