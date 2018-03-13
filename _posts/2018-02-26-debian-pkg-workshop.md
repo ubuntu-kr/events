@@ -59,5 +59,5 @@ image: "https://lh3.googleusercontent.com/I9OGwLKVa5muJvlGSs1j3UgieyZ3UGoHpTWiPy
 - 행사 관련 문의는 korea.ubuntu@gmail.com 으로 해주시기 바랍니다.
 
 ## 후원 및 협찬
-- 마이크로스프트웨어 - 장소 후원
+- Naver D2 - 장소 후원
 - Festa.io - 참가 등록 시스템 제공
