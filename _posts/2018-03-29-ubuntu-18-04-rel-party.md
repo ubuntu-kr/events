@@ -11,7 +11,7 @@ location: "D.CAMP(서울특별시 강남구 선릉로 551 새롬빌딩 3층 디�
 location_query: "디캠프"
 price: "0 KRW"
 # ticket_link: ""
-image: ""
+image: "https://lh3.googleusercontent.com/BQ1tFLuuvXb4LAM3frY2umUooBaT0_Oy7MJ78x7usxRXWGzP2ZmZ5qkn7BxQaQCOJb5Q3F0wj8jgEnzQsmNiL9wb6LtWUGX134WbRj1WCIf2RQgUiRjN-Szt4uphLeDrx10gZj6G1YFm_yV_jS-mGX3qZCcOQc0cSJ1XgJjVgRP2fIkGzJFctqWWdIkWU2iN-Keckcxb3R8xOkC0Tx6mJg7hXNtyXrbJBnh0mjWaInr-NI-DFcncBWVlpLZGtjBp-t1_GtZRzYZMIZtSO1MwWKT9QkJtK5gWJkjFQAykOOtXCM4vvPWTxhU7eigQSmyRUZahazOt223-FrANViNOYdhkCJ6Nx68F-lJJ8ucjXS2ii4O8OfEu_Uo651KTdwqemLlIK1F-9vuQ37qNWzDAp5hJhzmaU_f1GY-g4Hk2SEs8ufoJce3M3EsI7HSTnUuXirtxSzdt3ADJEQF-I5wKnpSnwHHNMwnNarKA8DoppdoLMLOqxGxdDAUK3OM7gMuZB5GBlWFRUJIA7tAtcs7CdGcHChu_6LIgPl7DuDG5dBDPwNknJum7exn24WkxKl8LzfDeexkEHldtvBjHrQd1vq2bZ2EUr5rsZjY1dS0TMCn9Rq9BECIRfGkx2gCLHGo1jsyT1U0oObf2r1SbM_tcHn0Mz1GA3ykt=w2856-h1606-no"
 ---
 
 우분투한국커뮤니티와 코딩이랑 무관합니다만, 에서 우분투 18.04 릴리즈 파티 행사를 준비했습니다.
