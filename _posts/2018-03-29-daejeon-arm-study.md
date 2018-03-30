@@ -72,9 +72,8 @@ arm MCU인 ARM Cortex-M을 이용한 센서제어와 LTE-M모듈을 이용한 �
 **14주**
 - 일부 센서의 원리와 작동 및 신호 수신에 대한 이해 (2)
 
-
+**기타**
 - 더 자세한 정보는 다음을 참고하시기 바랍니다.
-
 [Syllabus of the ARM Cortex.pdf](https://drive.google.com/file/d/1t3WNt4kexhDCxT6ZICd2XYTDeXK9yk6-/view?usp=sharing)
 
 ## 안내사항
