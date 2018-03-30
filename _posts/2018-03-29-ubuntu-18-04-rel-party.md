@@ -25,7 +25,7 @@ image: "https://lh3.googleusercontent.com/BQ1tFLuuvXb4LAM3frY2umUooBaT0_Oy7MJ78x
   desc="(추후 업데이트 예정)" %}
 
 {% include profile.html
-  profile=""
+  profile="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/12219529_754678197972184_1324775145064339152_n.jpg?_nc_cat=0&oh=dd775f79d07d5c9a8246bb6494d350fd&oe=5B3951E1"
   heading="VM이랑은 무관한 컨테이너 이야기" bold="윤성국 - 코딩이랑 무관합니다만,"
   desc="LXC - LXD - Docker비교해 보고, 소스코드화 함께 컨테이너가 어떻게 동작하는지 그리고 Docker 이미지 레이어 버전 관리 원리에 대해 알아봅니다." %}
 
