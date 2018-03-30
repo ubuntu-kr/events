@@ -35,7 +35,7 @@ image: "https://lh3.googleusercontent.com/BQ1tFLuuvXb4LAM3frY2umUooBaT0_Oy7MJ78x
   desc="작년 12월 부터 올해 1월까지 진행된 C++ 기초 스터디 진행 결과를 발표합니다." %}
 
 {% include profile.html
-  profile=""
+  profile="https://avatars2.githubusercontent.com/u/10670129?s=400&v=4"
   heading="Hanjp-IM 프로젝트 진행 현황 발표" bold="김광연 - 광운대학교"
   desc="Hanjp-IM 프로젝트는 한글로 일본어 발음을 입력하여 일본 가나 문자를 입력하는 입력기 엔진 프로젝트 입니다. 프로젝트에 대해 간단히 소개하고, 12월 부터 최근까지의 프로젝트 진행 상황에 대해 발표합니다." %}
 
