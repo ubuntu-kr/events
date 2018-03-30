@@ -9,7 +9,7 @@ submit_end: 2018-04-25 23:59:59 +0900
 location: "미정"
 price: "0 KRW (추가요금이 발생할 수 있습니다.)"
 # ticket_link: ""
-image: "https://drive.google.com/file/d/1HS2l0iO-8gAi0SLNqM4hWlm-PejpBHCM/view?usp=sharing"
+image: "https://wiki.ubuntu-kr.org/images/a/a7/CortexStudy.jpg"
 ---
 
 우분투한국커뮤니티 대전팀에서 arm스터디를 준비했습니다.
