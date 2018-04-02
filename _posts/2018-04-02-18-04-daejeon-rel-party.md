@@ -9,7 +9,7 @@ submit_start: 2018-04-02 00:00:00 +0900
 submit_end: 2018-04-27 23:59:59 +0900
 location: "사회적자본지원센터"
 location_query: "대전광역시+동구+선화로196번길+48"
-price: "함께 먹을 소량의 음식"
+price: "함께 나눠먹을 소량의 음식"
 # ticket_link: ""
 image: "https://lh3.googleusercontent.com/RkL4tZYS3ZKicGsrE1C8e_ycdnjebsGdZaieEdtw31ScEc8Sr9XVqAuHlSjBGAijHUX62Xgs6fb03VMHyiUMJMay3h7m-o5YBjd4kxEfsPDNhXmNMHdkVdMHNniOcspfo6agdpoytxRhYkk5QZIKl_caySP29VqTv6idajcfeGHnmBBa3mBma_8WqakABVKWUuX3kt8rLmFgcsAoRTxtiirEl4VbfSdJ5dyaFuHPF2P7tZ4fM3cXm7RYz4oI58toFXhMHzbVySV_KQESRlGEqj77-hNOMjw7y9ZqZRlNPCwdDQ00jeVuAB-O67CXFIe1uLPgu1E-H0qtw5M8tq4kpgYrgsaenuDDetzTmDufxScetit-hIN3mgb1Z7q13P_iMFQSm4_z_ryChH1-DeAX_CN67OWwEjJ2xz7H5qhpOMrvSGQ0wXckdgEjyZFLbRNrwQ8JALzPudAy-TzLj7Y8stVD5Bkk29kmSuKDmKjbVZ4VL3ZizZGib-mRaKgkjW4pHrC8NLLwIWwON9HTeM6GvHaftRanOR60OyfoBLzCiachA7jmOTAesCycEM5yyRT7WkiuuCYumBm71qTGD_M29Gyxtk9gA9HIpuVNV7Q=w3674-h2278-no"
 ---
@@ -36,7 +36,7 @@ image: "https://lh3.googleusercontent.com/RkL4tZYS3ZKicGsrE1C8e_ycdnjebsGdZaieEd
 - 라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.
 - 발표자별로 최대 5분간 발표를 하실 수 있으며, 시간 초과시 마이크가 다음 발표자에게 넘겨집니다.
 
-##Portluck Party
+## Portluck Party
 - 포트럭 파티는 참석자들이 소량의 음식을 준비해 나눠먹는 파티입니다.
 - 간단히 먹을 수 있는 음식부터 작은 사탕이나 과자류 등 어떤 음식이라도 괜찮습니다.
 
