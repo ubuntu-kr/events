@@ -32,7 +32,7 @@ image: "https://lh3.googleusercontent.com/BQ1tFLuuvXb4LAM3frY2umUooBaT0_Oy7MJ78x
 {% include profile.html
   profile="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/12219529_754678197972184_1324775145064339152_n.jpg?_nc_cat=0&oh=dd775f79d07d5c9a8246bb6494d350fd&oe=5B3951E1"
   heading="VM이랑은 무관한 컨테이너 이야기" bold="윤성국 - 코딩이랑 무관합니다만,"
-  desc="LXC, LXD, Docker를 비교해 보고. 소스코드화 함께 컨테이너가 어떻게 동작하는지 그리고 Docker 이미지 레이어 버전 관리 원리에 대해 알아봅니다." %}
+  desc="LXC, LXD, Docker를 비교해 보고. 소스코드화 함께 컨테이너가 어떻게 동작하는지 그리고 Docker 이미지 레이어 버전 관리 원리에 대해 알아봅니다." %}
 
 {% include profile.html
   profile="https://avatars1.githubusercontent.com/u/13493184?s=400&v=4"
@@ -72,11 +72,13 @@ image: "https://lh3.googleusercontent.com/BQ1tFLuuvXb4LAM3frY2umUooBaT0_Oy7MJ78x
 2:20 ~ 2:30 | 휴식
 2:30 ~ 3:10 | 윤성국 - VM이랑은 무관한 컨테이너 이야기
 3:10 ~ 3:20 | 휴식
-3:20 ~ 4:00 | 정회형 - 1분기 C++ 스터디 결과 보고 발표
-3:20 ~ 3:40 | 김광연 - Hanjp-IM 프로젝트 진행 현황 발표
-4:00 ~ 5:10 | 휴식
-5:10 ~ 5:30 | 라이트닝 토크
+3:20 ~ 3:40 | 정회형 - 1분기 C++ 스터디 결과 보고 발표
+3:40 ~ 4:00 | 김광연 - Hanjp-IM 프로젝트 진행 현황 발표
+4:00 ~ 4:10 | 휴식
+4:10 ~ 4:50 | Q&A Session
+4:50 ~ 5:30 | 라이트닝 토크
 5:30 ~ 6:00 | 마무리 및 행사장 정리
+6:00 ~ | 본행사(뒷풀이)
 
 ## 후원 및 협찬
 - WhaTap Labs - 세미나 장소 후원
