@@ -36,7 +36,7 @@ image: "https://lh3.googleusercontent.com/RkL4tZYS3ZKicGsrE1C8e_ycdnjebsGdZaieEd
 - 라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.
 - 발표자별로 최대 5분간 발표를 하실 수 있으며, 시간 초과시 마이크가 다음 발표자에게 넘겨집니다.
 
-##Portluck Party
+## Potluck Party
 - 포트럭 파티는 참석자들이 소량의 음식을 준비해 나눠먹는 파티입니다.
 - 간단히 먹을 수 있는 음식부터 작은 사탕이나 과자류 등 어떤 음식이라도 괜찮습니다.
 
@@ -52,7 +52,7 @@ image: "https://lh3.googleusercontent.com/RkL4tZYS3ZKicGsrE1C8e_ycdnjebsGdZaieEd
 13:40 ~ 14:00 | 커뮤니티 소개
 14:00 ~ 14:30 | 활동정리 및 안내
 14:30 ~ 15:00 | Ubuntu 18.04소개
-15:00 ~ | 라이닝토그 및 자유시간
+15:00 ~ | 라이트닝 토크 및 자유시간
 
 ## 안내사항
 - 부득이한 사정으로 참석하시지 못하게 되신 경우, korea.ubuntu@gmail.com으로 4월 27일까지 연락하셔야 합니다.
