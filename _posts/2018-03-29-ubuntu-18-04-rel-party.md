@@ -21,8 +21,13 @@ image: "https://lh3.googleusercontent.com/BQ1tFLuuvXb4LAM3frY2umUooBaT0_Oy7MJ78x
 
 {% include profile.html
   profile="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/10983159_648602088605489_4221303475439021180_n.jpg?oh=6e7ee9392640491ba684cdd42061793f&oe=5B730432"
-  heading="Byobu in Ubuntu" bold="배준현 - 코딩이랑 무관합니다만,"
-  desc="(추후 업데이트 예정)" %}
+  heading="미세먼지 같은 우분투 서버활용 팁" bold="배준현 - 코딩이랑 무관합니다만,"
+  desc="Tmux, SELINUX, crond, nohup 등의 미세먼지 같은 우분투 서버 활용에 있어서의 팁들을 다룹니다." %}
+
+{% include profile.html
+  profile="https://avatars3.githubusercontent.com/u/1916739?s=400&v=4"
+  heading="What's new in Ubuntu 18.04 LTS" bold="한영빈 - 우분투한국커뮤니티 대표"
+  desc="Gnome, Subiquity 등 Ubuntu 18.04 LTS 에서 새로 달라진 점에 대해 다뤄봅니다." %}
 
 {% include profile.html
   profile="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/12219529_754678197972184_1324775145064339152_n.jpg?_nc_cat=0&oh=dd775f79d07d5c9a8246bb6494d350fd&oe=5B3951E1"
@@ -35,13 +40,17 @@ image: "https://lh3.googleusercontent.com/BQ1tFLuuvXb4LAM3frY2umUooBaT0_Oy7MJ78x
   desc="작년 12월 부터 올해 1월까지 진행된 C++ 기초 스터디 진행 결과를 발표합니다." %}
 
 {% include profile.html
-  profile="https://avatars2.githubusercontent.com/u/10670129?s=400&v=4"
+  profile="https://ca.slack-edge.com/T068QEXT4-U7SFL4ZP0-3341eb1dd80f-1024"
   heading="Hanjp-IM 프로젝트 진행 현황 발표" bold="김광연 - 광운대학교"
   desc="Hanjp-IM 프로젝트는 한글로 일본어 발음을 입력하여 일본 가나 문자를 입력하는 입력기 엔진 프로젝트 입니다. 프로젝트에 대해 간단히 소개하고, 12월 부터 최근까지의 프로젝트 진행 상황에 대해 발표합니다." %}
 
 ## Lightning Talks
 - 라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.
 - 발표자별로 최대 5분간 발표를 하실 수 있으며, 시간 초과시 마이크가 다음 발표자에게 넘겨집니다.
+
+### 예정된 발표 목록
+- 최호경 - 국민대학교 / 코딩 시험에서 당황을 해버렸다.
+  - 본인이 학교 코딩 시험에서 예상치 못한 상황에 당황했던 이야기를 다루는 라이트닝 토크입니다.
 
 ## 안내사항
 - 참가 등록은 Festa.io 를 통해 이뤄집니다.
@@ -57,14 +66,14 @@ image: "https://lh3.googleusercontent.com/BQ1tFLuuvXb4LAM3frY2umUooBaT0_Oy7MJ78x
 --- | ---
 12:00 ~ 12:40 | 준비 및 등록확인
 12:40 ~ 12:50 | 일정 안내
-12:50 ~ 1:30 | Session 1
+12:50 ~ 1:30 | 배준현 - 미세먼지 같은 우분투 서버활용 팁
 1:30 ~ 1:40 | 휴식
-1:40 ~ 2:20 | Session 2
+1:40 ~ 2:20 | 한영빈 - What's new in Ubuntu 18.04 LTS
 2:20 ~ 2:30 | 휴식
-2:30 ~ 2:50 | 정회형 - C++ 스터디 결과 발표
-2:50 ~ 3:10 | 김광연 - Hanjp-IM 프로젝트 진행 현황 발표
+2:30 ~ 3:10 | 윤성국 - VM이랑은 무관한 컨테이너 이야기
 3:10 ~ 3:20 | 휴식
-3:20 ~ 4:00 | Session 3
+3:20 ~ 4:00 | 정회형 - 1분기 C++ 스터디 결과 보고 발표
+3:20 ~ 3:40 | 김광연 - 1분기 C++ 스터디 결과 보고 발표
 4:00 ~ 5:10 | 휴식
 5:10 ~ 5:30 | 라이트닝 토크
 5:30 ~ 6:00 | 마무리 및 행사장 정리
