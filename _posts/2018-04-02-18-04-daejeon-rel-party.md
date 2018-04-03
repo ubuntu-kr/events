@@ -10,7 +10,7 @@ submit_end: 2018-04-27 23:59:59 +0900
 location: "사회적자본지원센터"
 location_query: "대전광역시+동구+선화로196번길+48"
 price: "함께 먹을 소량의 음식"
-# ticket_link: "https://survey.ubuntu-kr.org/index.php/728397?lang=ko"
+ticket_link: "https://survey.ubuntu-kr.org/index.php/728397?lang=ko"
 image: "https://lh3.googleusercontent.com/RkL4tZYS3ZKicGsrE1C8e_ycdnjebsGdZaieEdtw31ScEc8Sr9XVqAuHlSjBGAijHUX62Xgs6fb03VMHyiUMJMay3h7m-o5YBjd4kxEfsPDNhXmNMHdkVdMHNniOcspfo6agdpoytxRhYkk5QZIKl_caySP29VqTv6idajcfeGHnmBBa3mBma_8WqakABVKWUuX3kt8rLmFgcsAoRTxtiirEl4VbfSdJ5dyaFuHPF2P7tZ4fM3cXm7RYz4oI58toFXhMHzbVySV_KQESRlGEqj77-hNOMjw7y9ZqZRlNPCwdDQ00jeVuAB-O67CXFIe1uLPgu1E-H0qtw5M8tq4kpgYrgsaenuDDetzTmDufxScetit-hIN3mgb1Z7q13P_iMFQSm4_z_ryChH1-DeAX_CN67OWwEjJ2xz7H5qhpOMrvSGQ0wXckdgEjyZFLbRNrwQ8JALzPudAy-TzLj7Y8stVD5Bkk29kmSuKDmKjbVZ4VL3ZizZGib-mRaKgkjW4pHrC8NLLwIWwON9HTeM6GvHaftRanOR60OyfoBLzCiachA7jmOTAesCycEM5yyRT7WkiuuCYumBm71qTGD_M29Gyxtk9gA9HIpuVNV7Q=w3674-h2278-no"
 ---
 
