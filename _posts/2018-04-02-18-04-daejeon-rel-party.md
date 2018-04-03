@@ -11,9 +11,12 @@ location: "사회적자본지원센터"
 location_query: "대전광역시+동구+선화로196번길+48"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 price: "함께 먹을 소량의 음식"
 # ticket_link: "https://survey.ubuntu-kr.org/index.php/728397?lang=ko"
 =======
+=======
+>>>>>>> d77e48fccae9e0bbc9e1dafef621493a9e86c786
 =======
 >>>>>>> d77e48fccae9e0bbc9e1dafef621493a9e86c786
 price: "함께 나눠먹을 소량의 음식"
