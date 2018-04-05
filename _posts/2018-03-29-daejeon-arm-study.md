@@ -47,7 +47,7 @@ arm MCU인 ARM Cortex-M을 이용한 센서제어와 LTE-M모듈을 이용한 �
 14주 | - LTE-M 통신 구현
 
 - 더 자세한 정보는 다음을 참고하시기 바랍니다.
-[Syllabus of the ARM Cortex.pdf](https://drive.google.com/file/d/1t3WNt4kexhDCxT6ZICd2XYTDeXK9yk6-/view?usp=sharing)
+[Syllabus of the ARM Cortex.pdf](https://drive.google.com/file/d/1y660wnIlBSpQC6bNdHFJZ5lzKoRTcPp-/view?usp=sharing)
 
 ## 안내사항
 - 부득이한 사정으로 참석하지 못하시는 경우, korea.ubuntu@gmail.com으로 4월 25일까지 취소연락을 하셔야 합니다.
