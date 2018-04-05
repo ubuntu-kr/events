@@ -54,6 +54,17 @@ image: "https://lh3.googleusercontent.com/RkL4tZYS3ZKicGsrE1C8e_ycdnjebsGdZaieEd
 14:30 ~ 15:00 | Ubuntu 18.04소개
 15:00 ~ | 라이닝토크 및 자유시간
 
+## 기념 티셔츠
+
+- 우분투 한국 커뮤니티에서는 18.04 LTS릴리즈를 기념하고자 기념티를 제작하였습니다!
+![전면](https://lh3.googleusercontent.com/cpMpCosZKQMBdzs7sqGOglMQgyRHS8OWvNpf0EUHwZ24Qam4FCxu0sGiSPFnH1gizPwWgBw3klDeFzGmRFDkaivWdqMc-_AkwfX2PMWVfdcSaR41YU3bB6IdPOAlPjALY5Wi_t0OBbrm4ZrNN5Enjg3hFP_MRN6cd1MuLbgb_nMCDA7MQwGHHe414_1rkFhs5jjZm-krqnO6Td3iSI8Y1fNU2bJJAvi7eBjZQkpPf4Popi5NM402KoxyzMlaRCxuzk3U_iFhTiE0vBKGfDFYdPV33DiyDiPTdY4cQUfxKPDI8P_HpA-jSfFPot2CzAOELWyV4Oq0Yr2STpybRyhlX6k0ZDx0w9M3jjA03obw-ZRaNM9_ag-ISh8CKBeDbtso1zl_Tlu-ScigmgvCR1z6DmuYvVSgd_eH_B1MO5EEAp-CSDheKVpqcKnOJLrVgHnJ0WnEbMMQcmtwUAMINIoSZY1Z4rkrOusllTPsaqKxzDss6tUj6jvRAlktxV7_5dCq0q6zXMYfvIbmn5_qB0-OtYCJ4BRbVxVeDHfflY2j1verKHkaooakYpv5wfARytc-kf8T237t5wQYcLu5Dfq7yqTnqOszAhmJc3VaXvZwfUVhqXh0uEvXGjKHTfzAcpgRwzV7MY2Oqxjsk_1eJGetOl-87rSwJmuH=w1204-h1278-no)
+![후면](https://lh3.googleusercontent.com/0ow69TfaB8TSFThxeF2W5igRep6Sfwbd7-2CXLzuLNpckkGC-dHUIPwhGW5oyoO1mCdz7zyDUIuSdG3xTMMnptsKMQluCOh068R-Yf7WMPRvzfnblMnGVvNa91qYcXybSBpCwyS9OSOFpDofVCffKCW1Vw4B7NIoftujME4m_i6HBi9AnlGJfz_ccnoPHLVY0zEHarIU9puKWsjhDI3FhA7tO1LRzneh7pzJ_8hHMjb6GotMJRvHCphSWrbms72-4hw0HHBI6SR2JtBKio3VUfFiiyRbnxZEX7ojL-ZYxtnLOOoIYgGc_xYgg9V8B9ToVtHYQQhjtGLJNM6g5hEgAIcAICn_GeKSRZ4Rr5Nm_mNMGzef7cge_rtrnDwH-1UvJ4YvwjPjw0y--cDSPYaU9c-l2jaO6SSqU4gn4NdQPVz7CQ-hBt_2tN9D3KCtTuyNM3c4c8XoqVH8SltI1lXKbRuymXW-5podeBv_Whq9GbsqyE3qeRzLXnHwwKh4jaC7yofKzRuLz9OBwZtkJE4yAo-fXs8Ynu3QkY-0sOmGRjLWRHRr6uIKA_1fCguGBFj8ctnhHkIPibcxXSstJkAaL_t8685m2NA0yxQ0uvLy07B7qe1rQMFg0zBFHJ4zz0fa-pKMD90-9bYmLZl17sqqmsymrYyvsFPA=w1200-h1226-no)
+
+- 해당 티셔츠는 따로 신청을 받아 릴리즈파티 당일에 드릴 예정입니다!
+- 신청은 다음 링크를 통해 신청 해 주세요
+<https://survey.ubuntu-kr.org/index.php/387149?lang=ko> 
+
+
 ## 안내사항
 - 부득이한 사정으로 참석하시지 못하게 되신 경우, korea.ubuntu@gmail.com으로 4월 27일까지 연락하셔야 합니다.
   - 등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되며, 추후 행사참석에 불이익을 받을 수 있습니다.
