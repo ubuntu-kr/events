@@ -36,6 +36,7 @@ image: "https://lh3.googleusercontent.com/RkL4tZYS3ZKicGsrE1C8e_ycdnjebsGdZaieEd
 - 라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.
 - 발표자별로 최대 5분간 발표를 하실 수 있으며, 시간 초과시 마이크가 다음 발표자에게 넘겨집니다.
 
+
 ## Portluck Party
 - 포트럭 파티는 참석자들이 소량의 음식을 준비해 나눠먹는 파티입니다.
 - 간단히 먹을 수 있는 음식부터 작은 사탕이나 과자류 등 어떤 음식이라도 괜찮습니다.
@@ -52,7 +53,7 @@ image: "https://lh3.googleusercontent.com/RkL4tZYS3ZKicGsrE1C8e_ycdnjebsGdZaieEd
 13:40 ~ 14:00 | 커뮤니티 소개
 14:00 ~ 14:30 | 활동정리 및 안내
 14:30 ~ 15:00 | Ubuntu 18.04소개
-15:00 ~ | 라이닝토크 및 자유시간
+15:00 ~ | 라이트닝 토크 및 자유시간
 
 ## 기념 티셔츠
 
@@ -64,10 +65,9 @@ image: "https://lh3.googleusercontent.com/RkL4tZYS3ZKicGsrE1C8e_ycdnjebsGdZaieEd
 - 신청은 다음 링크를 통해 신청 해 주세요
 <https://survey.ubuntu-kr.org/index.php/387149?lang=ko> 
 
-
 ## 안내사항
-- 부득이한 사정으로 참석하시지 못하게 되신 경우, korea.ubuntu@gmail.com으로 4월 27일까지 연락하셔야 합니다.
-  - 등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되며, 추후 행사참석에 불이익을 받을 수 있습니다.
+- 부득이한 사정으로 참석하시지 못하게 되신 경우, 4월 27일까지 korea.ubuntu@gmail.com으로 연락을 주셔야 합니다.
+  - 등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되며, 추후 행사참석에 불이익을 받을 수 있습니다.
 - 주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해주시기 바랍니다.
 - 참가관련 문의는 korea.ubuntu@gmail.com으로 연락 바랍니다.
 
