@@ -8,10 +8,10 @@ end_time: 2018-06-23 18:00:00 +0900
 submit_start: 2018-04-15 00:00:00 +0900
 submit_end: 2018-06-22 23:59:59 +0900
 location: "토즈 TSC대전탄방센터(대전광역시 서구 계룡로 586 KMT빌딩 7층) 정액25인 부스"
-location_query: "KMT빌딩"
+location_query: "대한민국+대전광역시+서구+괴정동+5-9"
 price: "0 KRW"
 ticket_link: ""
-image: "https://lh3.googleusercontent.com/jMAEfdIX3V4IzrIMAAXf7p_F92D4EO5COpRrlYYyUfqowM6cHFJcosdl43UPl94Abyu5dpj-f9Zj8i-V5Slc=w3840-h2278"
+image: "https://lh3.googleusercontent.com/IDXljI-yW01uTPOrwenXlhxAdu5Q7is9Unk7AmHQmTayGRJk27FSzm6dDKw9kg0Zl4OBoA-IYHyQi7x2pjRqig9U8Bkv3OPHMVV4anBD4AvTqQsmRTazZnLSfSBGPL9C3g1g_X9Y4DONn3ajtti7Icee04lDDa-uBWRILwZkQAMKUTT1Qroen7x_qGBKK5WdOtVLdCeksOVl8qMkXI6U2dSLw_Hxy8FVdmhgpgl_kfMj1N8WM5Be7qLvue2O84VGwzlf4ZMPZxdDZKmMqwT6TnVr_jO76uY4F8eJY1MxB92fH03lqcAEy1cpSu949_56UokshJ6ri8DuJnl69JTE-9Z2c_MlRS-jXiSv5mxvWZaL5o88yhhaF8w46BdSf9OGuAU7wTuDGQm8nL8zHQvNMAfziTxpG5t6rlx8ABBjYcj4YhdhsjIA1l75s-i81vSJ38M-G9qTl6mA56Rhz-toplvwi1KguCs-cw9LF-yrRJCWhoCZbRuLmXpboNyryMhAD205QFRv01u5WUuQKdTu0t0fxNHDEMDPCR_Vuuch9kMdaYDVi6Vo1q6oVdTnz1FGgWyu47Fv9cINMvl5LtxF2R-r9M0URe9ugPnRmlg=w3002-h1688-no"
 ---
 
 ## Main Sessions
