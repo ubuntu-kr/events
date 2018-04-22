@@ -9,7 +9,7 @@ submit_end: 2018-05-10 23:59:59 +0900
 location: "대전대학교 융합과학관 238호"
 location_query: "대전대학교+융합과학관"
 price: "0 KRW (추가요금이 발생할 수 있습니다.)"
-# ticket_link: "https://survey.ubuntu-kr.org/index.php/517667?lang=ko"
+ticket_link: "https://survey.ubuntu-kr.org/index.php/517667?lang=ko"
 image: "https://wiki.ubuntu-kr.org/images/a/a7/CortexStudy.jpg"
 ---
 
