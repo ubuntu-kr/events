@@ -1,6 +1,6 @@
 ---
 layout: event
-title:  "Ubuntu 18.04 Release party"
+title:  "Ubuntu 18.04 Release Party @ Seoul"
 desc: "우분투한국커뮤니티와 코딩이랑 무관합니다만, 이 함께 준비한 우분투 18.04 릴리스 파티 행사입니다."
 date: 2018-03-29 00:00:00 +0900
 start_time: 2018-04-28 13:10:00 +0900
@@ -56,6 +56,7 @@ image: "https://lh3.googleusercontent.com/BQ1tFLuuvXb4LAM3frY2umUooBaT0_Oy7MJ78x
 - 참가 등록은 Festa.io 를 통해 이뤄집니다.
 - 부득이한 사정으로 참석하지 못하시는 경우, Festa.io 에서 2018.04.27 23:59:59 까지 참가등록 취소해 주시기 바랍니다.
   - 등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되어, 추후 행사 참석에 불이익을 받을 수 있습니다.
+  - 직접 등록 취소에 어려움을 겪는 경우 korea.ubuntu@gmail.com 로 문의 주시면 바로 취소 처리 해 드립니다.
 - 주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해 주시기 바랍니다.
 - 참가 등록 시기를 놓쳐 사전에 등록을 못하셨어도, 현장에서 참가 등록을 하실 수 있습니다.
 - 행사 관련 문의는 korea.ubuntu@gmail.com 로 해 주세요.
@@ -82,4 +83,6 @@ image: "https://lh3.googleusercontent.com/BQ1tFLuuvXb4LAM3frY2umUooBaT0_Oy7MJ78x
 
 ## 후원 및 협찬
 - WhaTap Labs - 세미나 장소 후원
+- Canonical - 행사 기념품 지원
 - Festa.io - 참가 등록 시스템 제공
+- Microsoftware - 행사 홍보 지원
