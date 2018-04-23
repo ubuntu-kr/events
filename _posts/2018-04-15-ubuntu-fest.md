@@ -17,9 +17,19 @@ image: "https://lh3.googleusercontent.com/IDXljI-yW01uTPOrwenXlhxAdu5Q7is9Unk7Am
 ## Main Sessions
 
 {% include profile.html
-  profile=""
-  heading="" bold=""
-  desc="" %}
+	profile=""
+	heading="자동차게임 주행 데이터를 이용한 자율주행자동차" bold="김준태 - 대전대학교"
+	desc="자동차 게임에서 주행데이터를 얻어 학습을 시킨 모델을 Nvidia Tx2에 넣은 뒤 전동카에 부착한 뒤 실제 주행을 하는 방법에 대해 알아봅니다." %}
+
+{% include profile.html
+	profile="https://lh5.googleusercontent.com/-Q792JHNLOoM/AAAAAAAAAAI/AAAAAAAAALs/cL-ddHwZ6dA/w80-h80/photo.jpg"
+	heading="기계들의 소셜 미디어, MQTT" bold="신근수 - 테크플렉스"
+	desc="사물 인터넷 기기 관리 표준 프로토콜 중 간단하고 신뢰성이 확보된 MQTT에 대해 간단히 알아봅니다." %}
+
+{% include profile.html
+	profile="http://www.sweetfab.net/img/team/1.jpg"
+	heading="스타트업에서 하드웨어 개발 프로세스 도입하기" bold="신하륜 - SweetFab, Inc"
+	desc"소프트웨어 교육 스타트업 SweetFab 이야기. 그리고 SweetFab에서 하드웨어 개발을 하며 느낀 수많은 한계점들을 하드웨어 개발 프로세스 도입으로 보완하는 과정에 대해서 발표를 진행합니다." %}
 
 ## Lightning Talks
 - 라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.
@@ -38,11 +48,11 @@ image: "https://lh3.googleusercontent.com/IDXljI-yW01uTPOrwenXlhxAdu5Q7is9Unk7Am
 --- | ---
 13:00 ~ 14:10 | 준비 및 등록
 14:10 ~ 14:20 | 일정 안내
-14:20 ~ 15:00 | 발표1
+14:20 ~ 15:00 | 김준태 - 자동차게임 주행 데이터를 이용한 자율주행 자동차
 15:00 ~ 15:10 | 휴식
-15:10 ~ 15:40 | 발표2
+15:10 ~ 15:40 | 신근수 - 기계들의 소셜 미디어, MQTT
 15:40 ~ 15:50 | 휴식
-15:50 ~ 16:30 | 발표3
+15:50 ~ 16:30 | 신하륜 - 스타트업에서 하드웨어 개발 프로세스 도입하기
 16:30 ~ 16:40 | 휴식
 16:40 ~ 17:10 | 발표4
 17:10 ~ 17:20 | 휴식
