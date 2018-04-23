@@ -16,11 +16,13 @@ image: "https://lh3.googleusercontent.com/IDXljI-yW01uTPOrwenXlhxAdu5Q7is9Unk7Am
 
 ## Main Sessions
 
-{% include profile.html profile="" heading="자동차게임 주행 데이터를 이용한 자율주행자동차" bold="김준태 - 대전대학교" desc="자동차 게임에서 주행데이터를 얻어 학습을 시킨 모델을 Nvidia Tx2에 넣은 뒤 전동카에 부착한 뒤 실제 주행을 하는 방법에 대해 알아봅니다." %}
+{% include profile.html profile="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.15752-0/p480x480/31131179_1789480284442065_5227506649895272448_n.png?_nc_cat=0&_nc_ad=z-m&_nc_cid=0&oh=97ee9b8ab53d35a45e5cbdd6649c2507&oe=5B649584" heading="자동차게임 주행 데이터를 이용한 자율주행자동차" bold="김준태 - 대전대학교" desc="자동차 게임에서 주행데이터를 얻어 학습을 시킨 모델을 Nvidia Tx2에 넣은 뒤 전동카에 부착한 뒤 실제 주행을 하는 방법에 대해 알아봅니다." %}
 
 {% include profile.html profile="https://lh5.googleusercontent.com/-Q792JHNLOoM/AAAAAAAAAAI/AAAAAAAAALs/cL-ddHwZ6dA/w80-h80/photo.jpg" heading="기계들의 소셜 미디어, MQTT" bold="신근수 - 테크플렉스" desc="사물 인터넷 기기 관리 표준 프로토콜 중 간단하고 신뢰성이 확보된 MQTT에 대해 간단히 알아봅니다." %}
 
 {% include profile.html profile="http://www.sweetfab.net/img/team/1.jpg" heading="스타트업에서 하드웨어 개발 프로세스 도입하기" bold="신하륜 - SweetFab, Inc" desc="소프트웨어 교육 스타트업 SweetFab 이야기. 그리고 SweetFab에서 하드웨어 개발을 하며 느낀 수많은 한계점들을 하드웨어 개발 프로세스 도입으로 보완하는 과정에 대해서 발표를 진행합니다." %}
+
+{% include profile.html profile="" heading="미정 bold="김한욱 - 신우이엔디 desc="미정 %}"
 
 ## Lightning Talks
 - 라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.
