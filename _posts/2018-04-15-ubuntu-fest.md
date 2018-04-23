@@ -22,8 +22,6 @@ image: "https://lh3.googleusercontent.com/IDXljI-yW01uTPOrwenXlhxAdu5Q7is9Unk7Am
 
 {% include profile.html profile="http://www.sweetfab.net/img/team/1.jpg" heading="스타트업에서 하드웨어 개발 프로세스 도입하기" bold="신하륜 - SweetFab, Inc" desc="소프트웨어 교육 스타트업 SweetFab 이야기. 그리고 SweetFab에서 하드웨어 개발을 하며 느낀 수많은 한계점들을 하드웨어 개발 프로세스 도입으로 보완하는 과정에 대해서 발표를 진행합니다." %}
 
-{% include profile.html profile="" heading="미정 bold="김한욱 - 신우이엔디 desc="미정 %}"
-
 {% include profile.html heading="미정" bold="김한욱 - 신우이엔디" desc="미정" %}
 
 ## Lightning Talks
