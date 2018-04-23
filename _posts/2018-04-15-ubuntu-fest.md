@@ -24,6 +24,8 @@ image: "https://lh3.googleusercontent.com/IDXljI-yW01uTPOrwenXlhxAdu5Q7is9Unk7Am
 
 {% include profile.html profile="" heading="미정 bold="김한욱 - 신우이엔디 desc="미정 %}"
 
+{% include profile.html heading="미정" bold="김한욱 - 신우이엔디" desc="미정" %}
+
 ## Lightning Talks
 - 라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.
 - 발표자별로 최대 5분간 발표를 하실 수 있으며, 시간 초과시 마이크가 다음 발표자에게 넘겨집니다.
