@@ -22,7 +22,7 @@ image: "https://lh3.googleusercontent.com/IDXljI-yW01uTPOrwenXlhxAdu5Q7is9Unk7Am
 
 {% include profile.html profile="http://www.sweetfab.net/img/team/1.jpg" heading="스타트업에서 하드웨어 개발 프로세스 도입하기" bold="신하륜 - SweetFab, Inc" desc="소프트웨어 교육 스타트업 SweetFab 이야기. 그리고 SweetFab에서 하드웨어 개발을 하며 느낀 수많은 한계점들을 하드웨어 개발 프로세스 도입으로 보완하는 과정에 대해서 발표를 진행합니다." %}
 
-{% include profile.html heading="미정" bold="김한욱 - 신우이엔디" desc="미정" %}
+{% include profile.html heading="하드웨어 프로그래밍과 그 디버깅" bold="김한욱 - 신우이엔디" desc="미정" %}
 
 ## Lightning Talks
 - 라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.
@@ -39,7 +39,7 @@ image: "https://lh3.googleusercontent.com/IDXljI-yW01uTPOrwenXlhxAdu5Q7is9Unk7Am
 
 시간 | 일정
 --- | ---
-13:00 ~ 14:10 | 준비 및 등록
+13:00 ~ 14:10 | 등록
 14:10 ~ 14:20 | 일정 안내
 14:20 ~ 15:00 | 김준태 - 자동차게임 주행 데이터를 이용한 자율주행 자동차
 15:00 ~ 15:10 | 휴식
@@ -47,7 +47,7 @@ image: "https://lh3.googleusercontent.com/IDXljI-yW01uTPOrwenXlhxAdu5Q7is9Unk7Am
 15:40 ~ 15:50 | 휴식
 15:50 ~ 16:30 | 신하륜 - 스타트업에서 하드웨어 개발 프로세스 도입하기
 16:30 ~ 16:40 | 휴식
-16:40 ~ 17:10 | 발표4
+16:40 ~ 17:10 | 김한욱 - 하드웨어 프로그래밍과 그 디버깅
 17:10 ~ 17:20 | 휴식
 17:20 ~ 17:40 | 라이트닝 토크
 17:40 ~ 18:00 | 대전팀 운영내역 및 광고
