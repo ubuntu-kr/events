@@ -58,3 +58,4 @@ image: "https://lh3.googleusercontent.com/IDXljI-yW01uTPOrwenXlhxAdu5Q7is9Unk7Am
 
 ## 후원 및 협찬
 - TechPLEX - 장소 지원
+- SweetFab - 비용 지원
