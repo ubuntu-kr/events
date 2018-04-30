@@ -24,8 +24,6 @@ image: "https://lh3.googleusercontent.com/IDXljI-yW01uTPOrwenXlhxAdu5Q7is9Unk7Am
 
 {% include profile.html heading="하드웨어 프로그래밍과 그 디버깅" bold="김한욱 - 신우이엔디" desc="미정" %}
 
-## Q&A
-- 따로 준비되어있는 Q&A세션은 없습니다. 쉬는시간을 이용해 질문을 해 주세요 (최대 5분)
 
 ## Lightning Talks
 - 라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.
