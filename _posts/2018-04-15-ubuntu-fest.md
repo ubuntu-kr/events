@@ -7,7 +7,7 @@ start_time: 2018-06-23 13:00:00 +0900
 end_time: 2018-06-23 18:00:00 +0900
 submit_start: 2018-04-15 00:00:00 +0900
 submit_end: 2018-06-22 23:59:59 +0900
-location: "대전평생교육진흥원"
+location: "대전평생교육진흥원 보문산 컨퍼런스홀"
 location_query: "대전평생교육진흥원"
 price: "0 KRW"
 ticket_link: ""
