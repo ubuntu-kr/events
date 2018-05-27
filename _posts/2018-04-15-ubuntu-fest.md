@@ -10,7 +10,7 @@ submit_end: 2018-06-22 23:59:59 +0900
 location: "대전평생교육진흥원 보문산 컨퍼런스홀"
 location_query: "대전평생교육진흥원"
 price: "0 KRW"
-ticket_link: ""
+ticket_link: "https://festa.io/events/36"
 image: "https://lh3.googleusercontent.com/r0O2DQ_5RuozCzBr84VtpQP_il48C_1kivpdu_ZU8yKZeCkilj0jTCJiUQmEixEQWb_UDvcCwKU2eyoc9S4sfF2yR5M1w_1ru_ZuBKDiZumOY3ewGVamIpK2YqX9PYX5Ch7AI4TZwffF88DNTp1HGyJz9ZKoPkxjUp_xUSHaqZTvDYeraBH3Y5oFal5OXdASNY2604oUm8n0GBvk7cqzbf2hFQurhbEUCEgSvHD1JaSwy-pcW5Yd14-V8pNzh5M6DfkGTkQ3od3JYBvBalXinXq3fiAJjbrbIUZo_sUIU5DWJAJYT6Cq2ayQdRec7Tnc69IPJtKaUiQh2k-ELvY5I2T4gq8IsHSeRRumHZecCjgMSs0_6fC-kSHFJl8Eg25jfqj6iqfUi88KRi7wi4mVCsOQTdpjd39FDSmW_UKxiVkJXoSaAxKALAFUDK7mEEGrkMCTdhw4hWXzUz3W0JPCy-p-BKXssQDjRAg5sOZC6jx6EZwblLY0oTsoWfXmtmt-MpJVQPDh63i7Whi7GD_uL003o8r2GUGXqmYMjs4Lf2T1hbBr1-nSC_i_CO23RQSfDMEf8KewtSghCo6i7C_PbZ0a4leoNX_9X5puHGaIBMI-NxF--boaihUwtSKmC2FEAxlx8oagTHE0isdv6yEHoFzJRqZodjD7=w1950-h1098-no"
 ---
 
