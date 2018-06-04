@@ -16,7 +16,7 @@ image: "https://lh3.googleusercontent.com/r0O2DQ_5RuozCzBr84VtpQP_il48C_1kivpdu_
 
 ## Main Sessions
 
-{% include profile.html profile="https://lh3.googleusercontent.com/5DGG_ijoVTN4Y-VzMfvvRMJKjt6HAqpxDtmJ-5kFmAsSutjr_l9U9Vpyz0QaBSEdKQ1sfjqhEKTlUOYv1uhU5Uzn6Kq6qxUGVRI-d_MuYk4nl2nN2d3I3SbKK4See-zZDZti-fVJ8g3LZuqQPCGqe4hrUO8cEjTVrPEik2ZP0xoaoIqu0IjC1SHQARjuWHy4qBpSk0eQ7n9fOs8Ai7d7_N37pfh8_8_VwEvYxHlyxSIbKwWOhxpLFbiU3unvC9jEf3OjfiLSgxadzV1vzR3_43zUWRIHDKj0U-cmE_hWsBdgL_OOAsgN46RI5SPYl1olvyMhQByXyUa5QQX5QJEeJ9ElonOcgqiZGyNp8WKIplaSkOH2DSS7IxYF-PxHStJNNWjfEgbkVq-9UfjjuiyhuxMUt6WLf1eoJQechZic3EFRHGfPFiimhIoG9pyfOk_mdUUM3R5rfLqUQpGfU7VA6uXBMdwI8A7xovf13K1w635s_X9ay2snCR6H1tkeK2-fT_vqc_QieSnE6lfM_7aGrgIz5yw1EiKBH46SPAGNroKbE7WM1pZ6I7W440KREKTvMpor7KG8a42IyS0Vh8z9b5hWbq2A_QejcWmoKDeVEVjf3tfPHezHAAO1DYLE9O2vDq2XrZHWFQJJurd8V4alvLhEIzdRNPnn=s480-no" heading="자동차게임 주행 데이터를 이용한 자율주행자동차" bold="김준태 - 대전대학교" desc="자동차 게임에서 주행데이터를 얻어 학습을 시킨 모델을 Nvidia Tx2에 넣은 뒤 전동카에 부착한 뒤 실제 주행을 하는 방법에 대해 알아봅니다." %}
+{% include profile.html profile="" heading="모바일에 딥러닝 심기" bold="미정" desc="" %}
 
 {% include profile.html profile="https://lh5.googleusercontent.com/-Q792JHNLOoM/AAAAAAAAAAI/AAAAAAAAALs/cL-ddHwZ6dA/w80-h80/photo.jpg" heading="기계들의 소셜 미디어, MQTT" bold="신근수 - 테크플렉스" desc="사물 인터넷 기기 관리 표준 프로토콜 중 간단하고 신뢰성이 확보된 MQTT에 대해 간단히 알아봅니다." %}
 
