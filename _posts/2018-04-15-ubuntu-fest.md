@@ -22,7 +22,7 @@ image: "https://lh3.googleusercontent.com/r0O2DQ_5RuozCzBr84VtpQP_il48C_1kivpdu_
 
 {% include profile.html profile="http://www.sweetfab.net/img/team/1.jpg" heading="스타트업에서 하드웨어 개발 프로세스 도입하기" bold="신하륜 - SweetFab, Inc" desc="소프트웨어 교육 스타트업 SweetFab 이야기. 그리고 SweetFab에서 하드웨어 개발을 하며 느낀 수많은 한계점들을 하드웨어 개발 프로세스 도입으로 보완하는 과정에 대해서 발표를 진행합니다." %}
 
-{% include profile.html heading="하드웨어 프로그래밍과 그 디버깅" bold="김한욱 - 신우이엔디" desc="" %}
+{% include profile.html heading="하드웨어 프로그래밍과 그 디버깅" bold="김한욱 - 신우이엔디" desc="하드웨어 설계와 주변회로 제어를 위한 디버깅을 하면서 겪을 수 있을 삽질과 그 해결법에 대해 이야기 해 보는 시간을 가질것 입니다." %}
 
 
 ## Lightning Talks
