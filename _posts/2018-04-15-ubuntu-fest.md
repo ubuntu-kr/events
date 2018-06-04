@@ -16,7 +16,7 @@ image: "https://lh3.googleusercontent.com/r0O2DQ_5RuozCzBr84VtpQP_il48C_1kivpdu_
 
 ## Main Sessions
 
-{% include profile.html profile="https://scontent-icn1-1.xx.fbcdn.net/v/t31.0-1/12370909_932198066849482_2821454627997189211_o.jpg?_nc_cat=0&_nc_eui2=AeGXqumlDXlhjpJ5PTXi7p6jVmH3XN0o77hxJTaZ74Vjq-PIOkpRQqFzXb_sa8jVtO5r3EuioS6uAjq0Mw6VGnSvQld4WfBmWINF3lG_qMvUfg&oh=fc6680cb4021667612f122805e83204c&oe=5BB4CCC6" heading="모바일에 딥러닝 심기" bold="미정" desc="" %}
+{% include profile.html profile="https://scontent-icn1-1.xx.fbcdn.net/v/t31.0-1/12370909_932198066849482_2821454627997189211_o.jpg?_nc_cat=0&_nc_eui2=AeGXqumlDXlhjpJ5PTXi7p6jVmH3XN0o77hxJTaZ74Vjq-PIOkpRQqFzXb_sa8jVtO5r3EuioS6uAjq0Mw6VGnSvQld4WfBmWINF3lG_qMvUfg&oh=fc6680cb4021667612f122805e83204c&oe=5BB4CCC6" heading="모바일에 딥러닝 심기" bold="미정" desc="딥러닝과 케라스에 대해 소개하고, 실제로 케라스로 구현한 딥러닝 모델을 iOS 모바일 앱에 탑재한 개발 과정을 발표합니다." %}
 
 {% include profile.html profile="https://lh5.googleusercontent.com/-Q792JHNLOoM/AAAAAAAAAAI/AAAAAAAAALs/cL-ddHwZ6dA/w80-h80/photo.jpg" heading="기계들의 소셜 미디어, MQTT" bold="신근수 - 테크플렉스" desc="사물 인터넷 기기 관리 표준 프로토콜 중 간단하고 신뢰성이 확보된 MQTT에 대해 간단히 알아봅니다." %}
 
