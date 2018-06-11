@@ -22,7 +22,7 @@ image: "https://lh3.googleusercontent.com/r0O2DQ_5RuozCzBr84VtpQP_il48C_1kivpdu_
 
 {% include profile.html profile="http://www.sweetfab.net/img/team/1.jpg" heading="스타트업에서 하드웨어 개발 프로세스 도입하기" bold="신하륜 - SweetFab, Inc" desc="소프트웨어 교육 스타트업 SweetFab 이야기. 그리고 SweetFab에서 하드웨어 개발을 하며 느낀 수많은 한계점들을 하드웨어 개발 프로세스 도입으로 보완하는 과정에 대해서 발표를 진행합니다." %}
 
-{% include profile.html heading="하드웨어 프로그래밍과 그 디버깅" bold="김한욱 - 신우이엔디" desc="하드웨어 설계와 주변회로 제어를 위한 디버깅을 하면서 겪을 수 있을 삽질과 그 해결법에 대해 이야기 해 보는 시간을 가질것 입니다." %}
+{% include profile.html profile="https://lh3.googleusercontent.com/V23Hw6Og_3KCaogRFnhsWc2SZx_BoqGb0yoJvugNbKot_-Z9qqSoqMTOl0jGFY2_08fiIDMh1m7wIQAlHdglU56gwDXwZg01zfOp_wfENHt-OeO7CLAxJSH_AeixWxmcr3Ro3SQ1dnqqeDafVfEc_oyUmA_BaS7HT0KK7tHsWcmZg0EXlLyqgTmvvM3zT4dMM_MVNZ5Iyy_8qRTD5DGnAT77lrN3PCVZitt3XKwb2RK1M30QtfqSVuHVT1b4Uj2SpzkiSItWzFgf2vqP724wHp8NahsQCkf5l4S-qpg6g0rfPenRIaFIpPT1VMsijWMJWh8FTEWj7RR4_0gqTWbkSPvHQpVPEXz_LAtYA9-8jJtJ_n4T4MyTi4s385pBYFo2AxqrHQ0YbrKekeokRecdk296wn53h1lY0-OvyICldjBRKXFJdowxejIDaW-xG5VIgX4-6ZiJUNpC5JwwdZ-1cRgRrDZ3e0f1xq7nBsyxgxrSncsgHlmlhCF9lz89OyEN84ctV_1DOadOrGo2SIjq9wNPh-ZqoR0RU3gz8hcL0CXiwraYjkA03dkzI_n-fJxv51xYERQr4fnzQRYhw2jl2zEXNHlVTMMPYRkafyWWjEk_TWWLrqebZvhWLzbYcAxuPgjkDNxrW57rzP3xp3T5hWx0TCFD4n42MQ=s250-k-no" heading="Code-based design vs Model-based design" bold="김한욱 - 신우이엔디" desc="코드기반의 소프트웨어설계와 모델기반의 소프트웨어설계의 비교 : MATLAB과 FPGA를 중심으로" %}
 
 
 ## Lightning Talks
