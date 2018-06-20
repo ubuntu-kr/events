@@ -48,7 +48,7 @@ image: "https://lh3.googleusercontent.com/r0O2DQ_5RuozCzBr84VtpQP_il48C_1kivpdu_
 15:10 ~ 15:20 (10분) |	휴식
 15:20 ~ 16:00 (40분) |	신하륜 - 스타트업에서 하드웨어 개발 프로세스 도입하기
 16:00 ~ 16:10 (10분) |	휴식
-16:10 ~ 16:50 (40분) |	김한욱 - 하드웨어 프로그래밍과 그 디버깅
+16:10 ~ 16:50 (40분) |	김한욱 - Code-based design vs Model-based design
 16:50 ~ 17:00 (10분) |	휴식
 17:00 ~ 17:20 (20분) |	라이트닝 토크
 17:20 ~ 17:40 (20분) |	광고 및 경품 추첨
@@ -59,3 +59,4 @@ image: "https://lh3.googleusercontent.com/r0O2DQ_5RuozCzBr84VtpQP_il48C_1kivpdu_
 ## 후원 및 협찬
 - TechPLEX - 장소 지원
 - SweetFab - 비용 지원
+- 마이크로소프트웨어 - 행사 상품 지원
