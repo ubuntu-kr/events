@@ -14,11 +14,11 @@ ticket_link: ""
 image: "https://lh3.googleusercontent.com/I9OGwLKVa5muJvlGSs1j3UgieyZ3UGoHpTWiPyx4bg8K1aym5EgYA37X3Kbf4iILYtn5htEVgD91NMJJNiPOHghjYDEgy5uOxo_3YL2jf7wrRM3buBmv1zyo4fr_pSxKicDz7PTGEOsvwGBYnzI1TeRdKyOkxPqgW-Uxl3dmJYlDyPAv4KbyboBh_VrHqhvS0TOMvEiAcQ34pd0dHy4CdMoSe7eTjK-36Y85H_CITtH9Ld8ELaZvnAgdGcCIJpeQ5GtEMVY9hpR9DC1yYKAZLvvWxuOU9VXFCwC7QaQnzV_TRV1lsqHSwYiJLGN-VVDGaKyIJzclkZiiwUaAmks1iFXJ78prUlN22oSS0NjbiV022xNcFVgrlFjpIHwq0062leQwqKYMXFRZAQknbwE81OM9mXAuussiXgOXWVKCF19_D2TMqlP_Rwh6tUssgBVuWyElu0n-O5_QhTd_6ZOh9oIBSUBoG66IbGfqXV3AaxrakwgfX5bCVs6Qs548lUMoAMOPShUoNX5Bh0DyklQsNFWxmoS_n_hZgvI6B0NmVAnKU7ZdmJ8ZcINMZoRK53C9Vj7BJPVCjHjhvuzmBZX_PLAVRvFepXOrcMLQCxvvY90VRZxRoIPTPlh5fks4Z2jH7BRn0-rPNhDaHawhBu9LzTJtMa_LBPcj=s1606-no"
 ---
 
-우분투 설치부터 기초 사용법까지 배울 수 있는 워크샵 입니다.
+우분투 설치부터 기초 사용법까지 배울 수 있는 워크샵 입니다.<br/>
 
-참석 하시는 분들은 각자 우분투를 설치할 개인 노트북을 지참 하셔야 합니다.
+참석 하시는 분들은 각자 우분투를 설치할 개인 노트북을 지참 하셔야 합니다.<br/>
 
-컴퓨터를 포맷해야할 수 있으므로 **꼭 백업하시기 바랍니다.**
+컴퓨터를 포맷해야할 수 있으므로 **꼭 백업하시기 바랍니다.**<br/>
 
 ### 일정표
 
