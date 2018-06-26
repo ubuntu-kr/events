@@ -16,7 +16,6 @@ image: "https://lh3.googleusercontent.com/oQf5yeYwARFsWCdX67Nqk-nGDPvvh2BML4TviT
 
 우분투 설치부터 기초 사용법까지 배울 수 있는 워크샵 입니다.<br/>
 참석 하시는 분들은 각자 우분투를 설치할 개인 노트북을 지참 하셔야 합니다.<br/>
-컴퓨터를 포맷해야할 수 있으므로 **꼭 백업하시기 바랍니다.**<br/>
 
 ### 일정표
 
@@ -32,6 +31,6 @@ image: "https://lh3.googleusercontent.com/oQf5yeYwARFsWCdX67Nqk-nGDPvvh2BML4TviT
 
 ## 안내사항
 - 본 행사는 실습 행사이며, 아래와 같은 준비물을 준비해 오셔야 합니다.
-  - 우분투를 설치할 노트북 (컴퓨터를 포맷해야할 수 있으므로 **꼭 백업하시기 바랍니다.**
+  - 노트북
 - 등록 완료 한 상태에서, Festa.io 를 통해 취소 하지 않고 참석하지 않으시면 노쇼(No-Show) 로 간주하며, 추후 행사 참석에 불이익을 받을 수 있습니다. 부득이하게 참석을 못하시는 경우, 반드시 등록기간 안에 등록 취소를 해 주시기 바랍니다.
 - 행사 관련 문의는 korea.ubuntu@gmail.com 으로 해주시기 바랍니다.
