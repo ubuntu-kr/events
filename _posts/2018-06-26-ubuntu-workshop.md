@@ -19,6 +19,7 @@ image: "https://lh3.googleusercontent.com/I9OGwLKVa5muJvlGSs1j3UgieyZ3UGoHpTWiPy
 컴퓨터를 포맷해야할 수 있으므로 **꼭 백업하시기 바랍니다.**
 
 ### 시간표
+
 시간 | 일정
 --- | ---
 12:30 ~ 13:00 | 사전 참가 등록자 등록 확인 및 착석
