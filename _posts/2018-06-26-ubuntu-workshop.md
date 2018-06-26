@@ -18,7 +18,7 @@ image: "https://lh3.googleusercontent.com/I9OGwLKVa5muJvlGSs1j3UgieyZ3UGoHpTWiPy
 참석 하시는 분들은 각자 우분투를 설치할 개인 노트북을 지참 하셔야 합니다.
 컴퓨터를 포맷해야할 수 있으므로 **꼭 백업하시기 바랍니다.**
 
-### 시간표
+### 일정표
 
 시간 | 일정
 --- | ---
