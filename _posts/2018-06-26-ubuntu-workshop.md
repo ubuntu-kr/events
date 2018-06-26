@@ -15,7 +15,9 @@ image: "https://lh3.googleusercontent.com/I9OGwLKVa5muJvlGSs1j3UgieyZ3UGoHpTWiPy
 ---
 
 우분투 설치부터 기초 사용법까지 배울 수 있는 워크샵 입니다.
+
 참석 하시는 분들은 각자 우분투를 설치할 개인 노트북을 지참 하셔야 합니다.
+
 컴퓨터를 포맷해야할 수 있으므로 **꼭 백업하시기 바랍니다.**
 
 ### 일정표
