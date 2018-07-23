@@ -5,12 +5,12 @@ desc: "우분투 설치부터 기초 사용법까지 직접 실습해보는 시�
 date: 2018-06-26 00:00:00 +0900
 start_time: 2018-09-08 13:00:00 +0900
 end_time: 2018-09-08 16:00:00 +0900
-submit_start: 2018-08-01 12:00:00 +0900
+submit_start: 2018-08-23 00:00:00 +0900
 submit_end: 2018-09-07 16:00:00 +0900
 location: "대흥노마드"
 location_query: "대흥노마드"
 price: "무료"
-ticket_link: ""
+ticket_link: "https://festa.io/events/61"
 image: "https://lh3.googleusercontent.com/oQf5yeYwARFsWCdX67Nqk-nGDPvvh2BML4TviTG9e-yLUbKZti0yqqVPQpXFg09__qITBIYD63QLpdBUKKajjAkghd7RR9FGOiqYD-07fD9w-DBLGYYBmp-ZNtv9K97D_4CmQ0Li7XeJa7jU3UCWfGtAkWtBW4owK2fW2hZKFkDedIpbDFosPL5o2vhVjxGXxwWG_JezfUhTXBnxcPwpMgyn4ce7j-OCWZOa7zUusc01yRFnrzY_yQsv3wgC1lj-rJIYDd_ttEorV5Usj_pWpQV-M7-RRj9v9-x0ftm_KVuH8piLtaM8g0ZWdK5AlhcfZ9tzzlc5ssSDRkX_35i7xXdPAdtxgV8oYcLiLl_BsGsG5bBQPNGEqb0M6r0akG-r2RDrW2EegiyFkJI3xJ7h6FeuNY3KS3wiNAyNyF1cXdi79NmdooDcKCKnOcW_2Bv_FIBOPSaYVcOrXZtkhxUEmXAUrASzRBsj4bEBZfKjTdcG80XxRs77cwZ-yBaay0tWqZXKH0ADc5CMmxkWd2vWSXrcPJi4uNspjWkzbpw_XpE9qbfyHNhGzeJmzEjPCJVYwe1UgmpSUCmu-zBmsBfJ6mJ6yI-6Mf02uXo1v217EOn1ekaEOWOK3qnjVgGiwPHfBheOVa__Ytzss_3wd8H3dr--usa4EasM_Q=s1208-no"
 ---
 
