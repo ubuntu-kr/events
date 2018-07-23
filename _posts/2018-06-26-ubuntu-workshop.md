@@ -38,3 +38,6 @@ image: "https://lh3.googleusercontent.com/oQf5yeYwARFsWCdX67Nqk-nGDPvvh2BML4TviT
 - 행사 관련 문의는 korea.ubuntu@gmail.com 으로 해주시기 바랍니다.
 - 노쇼방지비용 KRW5000₩을 받습니다. 참석 확인 이후 환불될 예정입니다.
 
+## 후원
+- 프로그래머 재단
+
