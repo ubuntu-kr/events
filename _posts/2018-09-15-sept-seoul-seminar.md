@@ -45,7 +45,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 
 ## 안내사항
 - 참가 등록은 Festa.io 를 통해 이뤄집니다.
-- 부득이한 사정으로 참석하지 못하시는 경우, Festa.io 에서 2018.04.27 23:59:59 까지 참가등록 취소해 주시기 바랍니다.
+- 부득이한 사정으로 참석하지 못하시는 경우, Festa.io 에서 2018.09.14 23:59:59 까지 참가등록 취소해 주시기 바랍니다.
   - 등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되어, 추후 행사 참석에 불이익을 받을 수 있습니다.
   - 직접 등록 취소에 어려움을 겪는 경우 korea.ubuntu@gmail.com 로 문의 주시면 바로 취소 처리 해 드립니다.
 - 주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해 주시기 바랍니다.
@@ -56,7 +56,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 
 시간 | 일정
 --- | ---
-12:00 준비 및 등록확인
+12:00 | 준비 및 등록확인
 12:50  | 일정 안내
 1:00  | 배준현 - 미세먼지 같은 우분투 서버활용 팁
 1:50  | 휴식
@@ -65,7 +65,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 3:00  | 윤성국 - VM이랑은 무관한 컨테이너 이야기
 3:50  | GPG 키사이닝 파티겸 네트워킹 파티
 5:30 | 행사 마무리
-6:00  본행사(뒷풀이)
+6:00 | 본행사(뒷풀이)
 
 ## 후원 및 협찬
 - Festa.io - 참가 등록 시스템 제공
