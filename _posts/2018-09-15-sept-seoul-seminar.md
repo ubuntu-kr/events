@@ -7,8 +7,8 @@ start_time: 2018-09-15 13:00:00 +0900
 end_time: 2018-09-15 17:30:00 +0900
 submit_start: 2018-08-01 00:00:00 +0900
 submit_end: 2018-09-14 23:59:59 +0900
-location: "D.CAMP(서울특별시 강남구 선릉로 551 새롬빌딩 3층 디캠프) 6층 다목적홀"
-location_query: "디캠프"
+location: "아직 확정되지 않음."
+#location_query: ""
 price: "0 KRW"
 #ticket_link: "https://onoffmix.com/event/106038"
 image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0lLTme5k5ZQzi07e49uiYTCMMc7vWtivKvqfo3JN3s_D3Sl2G2AWwOqS7m56GwaVZ8fBZX5jwxJEEGCTFigxT0V3-1K1SwG-Z0LYnVX-zAKIYX2X-Q16qswevTHFWKi1iJXEZE75bSEVPMEJxdzLP0wmGtTwkOthI7LtRM0jVWlk98Qr87ciX9vK5eVM8G8mSJ0TlSkmvsogOMwh03NppZCcqr12S3SkDxQ8jn5XYOjHis_g4iJuUieHnAwEaJpx7u3BM21zoH4s86DH2afwxxyOV7xz-KxlkdQJN20ZJv4HkhupvGYJq6C5R9JGyE1F-FB9gZc_JhyTP336TSLz4AijRSIZlFzfq0hgBJkwBt7XINm7_lS1T9aA7HEI4gOaGO15y-yCIZc5DuvL40QeurTH0eD61lTfpxQjGnA9vnG6So1TtJ2b1BX4ij2k8PTG8dVzx-y7gLYg17y0OGYSSxkpIz7MOq6h_cQSap2h59TDBSB175BaL0GdaiEX9QWP42Z0xGSKngG4A8aQINc91hXKZe6ZkkI9_ozQNCaimjqq5MXy8lMEyX3kxJtE025fhuyx_FGb49pddYQTJkYuV6TRCN6jch6OisvtOeEkACr7oEI7zNVNJYYV8f8wtcLBk_kOnO9iwg=s642-no"
@@ -68,5 +68,4 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 6:00  본행사(뒷풀이)
 
 ## 후원 및 협찬
-- D.CAMP - 세미나 장소 후원
 - Festa.io - 참가 등록 시스템 제공
