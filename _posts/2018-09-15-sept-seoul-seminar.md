@@ -69,3 +69,4 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 
 ## 후원 및 협찬
 - Festa.io - 참가 등록 시스템 제공
+- KossLab - 장소 지원
