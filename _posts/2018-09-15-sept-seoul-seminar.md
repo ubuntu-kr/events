@@ -40,8 +40,8 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 ## GPG 키사이닝 파티 참가 안내
 이번 행사는 네트워킹 겸 키사이닝 파티의 비중이 앞의 메인세션보다 조금 큰 행사입니다.
 키사이닝 파티에 참여 하시려면, 사전에 준비를 철저히 해야 참여에 문제가 없으므로,
-참여 하시는 분들은 제공된 문서를 읽고 미리 준비해 주세요.
-https://github.com/ubuntu-kr/ksp-toolkits/tree/master/ksp/ksp-20180915
+참여 하시는 분들은 [**제공된 안내 문서(클릭하여 읽기)**](https://github.com/ubuntu-kr/ksp-toolkits/tree/master/ksp/ksp-20180915
+)를 읽고 미리 준비해 주세요.
 
 ## 안내사항
 - 참가 등록은 Festa.io 를 통해 이뤄집니다.
