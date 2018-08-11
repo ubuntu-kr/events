@@ -30,7 +30,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 {% include profile.html
   profile="https://avatars0.githubusercontent.com/u/12551635?s=400&v=4"
   heading="스타트업 신입 개발자로 살아남기" bold="신민욱 - 우분투한국커뮤니티 L10n"
-  desc="스타트업 개발자로 취직을 하고 일해본 경험을 공유합니다." %}
+  desc="학부생으로서 방학동안 스타트업 인턴을 다닌 이야기를 공유합니다" %}
 
 {% include profile.html
   profile="https://avatars3.githubusercontent.com/u/1916739?s=400&v=4"
