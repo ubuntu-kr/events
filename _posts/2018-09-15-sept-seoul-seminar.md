@@ -28,7 +28,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
   desc="Hanjp-IM 프로젝트는 한글로 일본어 발음을 입력하여 일본 가나 문자를 입력하는 입력기 엔진 프로젝트 입니다. 프로젝트에 대해 간단히 소개하고, 작년 12월 부터 최근까지의 프로젝트 진행 상황에 대해 발표합니다." %}
 
 {% include profile.html
-  profile=""
+  profile="https://avatars0.githubusercontent.com/u/12551635?s=400&v=4"
   heading="스타트업 신입 개발자로 살아남기" bold="신민욱 - 우분투한국커뮤니티 L10n"
   desc="스타트업 개발자로 취직을 하고 일해본 경험을 공유합니다." %}
 
@@ -38,6 +38,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
   desc="키사이닝 파티 진행 방식에 대해 안내한 후, 키사이닝 파티겸 네트워킹 파티를 바로 진행합니다." %}
 
 ## GPG 키사이닝 파티 참가 안내
+GPG 키사이닝 파티는 온라인 상에서 본인의 GPG 키에 대한 신뢰(Web of Trust)를 높이기 위해 하는 행사입니다.
 이번 행사는 네트워킹 겸 키사이닝 파티의 비중이 앞의 메인세션보다 조금 큰 행사입니다.
 키사이닝 파티에 참여 하시려면, 사전에 준비를 철저히 해야 참여에 문제가 없으므로,
 참여 하시는 분들은 [**제공된 안내 문서(클릭하여 읽기)**](https://github.com/ubuntu-kr/ksp-toolkits/tree/master/ksp/ksp-20180915
