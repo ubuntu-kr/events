@@ -24,8 +24,8 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 
 {% include profile.html
   profile="https://ca.slack-edge.com/T068QEXT4-U7SFL4ZP0-3341eb1dd80f-1024"
-  heading="Hanjp-IM 프로젝트 개발기" bold="김광연 - 광운대학교"
-  desc="Hanjp-IM 프로젝트는 한글로 일본어 발음을 입력하여 일본 가나 문자를 입력하는 입력기 엔진 프로젝트 입니다. 프로젝트에 대해 간단히 소개하고, 작년 12월 부터 최근까지의 프로젝트 진행 상황에 대해 발표합니다." %}
+  heading="Apache Airflow 를 이용한 Workflow 자동화" bold="배준현 - 우분투한국커뮤니티 서울지역팀"
+  desc="보통 많이 사용되는 Crontab 대신, Apache Airflow 로 Workflow 를 적용하여 일을 시키는 방법을 알아봅시다." %}
 
 {% include profile.html
   profile="https://avatars3.githubusercontent.com/u/2038544?s=400&v=4"
@@ -61,7 +61,7 @@ GPG 키사이닝 파티는 온라인 상에서 본인의 GPG 키에 대한 신�
 12:50  | 일정 안내
 1:00  | 한영빈 - DebConf18 참석 후기
 1:50  | 휴식
-2:00  | 김광연 - Hanjp-IM 프로젝트 개발기
+2:00  | 배준현 - Apache Airflow 를 이용한 Workflow 자동화
 2:50  | 휴식
 3:00  | 장태희 - 우분투를 이용한 이중화의 기초 이해하기
 3:50  | GPG 키사이닝 파티겸 네트워킹 파티
