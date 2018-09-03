@@ -28,9 +28,9 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
   desc="Hanjp-IM 프로젝트는 한글로 일본어 발음을 입력하여 일본 가나 문자를 입력하는 입력기 엔진 프로젝트 입니다. 프로젝트에 대해 간단히 소개하고, 작년 12월 부터 최근까지의 프로젝트 진행 상황에 대해 발표합니다." %}
 
 {% include profile.html
-  profile="https://avatars0.githubusercontent.com/u/12551635?s=400&v=4"
-  heading="스타트업 신입 개발자로 살아남기" bold="신민욱 - 우분투한국커뮤니티 L10n"
-  desc="학부생으로서 방학동안 스타트업 인턴을 다닌 이야기를 공유합니다" %}
+  profile="https://avatars3.githubusercontent.com/u/2038544?s=400&v=4"
+  heading="우분투를 이용한 이중화의 기초 이해하기" bold="장태희 - 우분투한국커뮤니티 고문"
+  desc="이중화를 위한 구성에는 무엇이 필요한지 알아보고, 부하 분산을 위한 네트워크 설정에 대해 알아봅니다." %}
 
 {% include profile.html
   profile="https://avatars3.githubusercontent.com/u/1916739?s=400&v=4"
@@ -63,7 +63,7 @@ GPG 키사이닝 파티는 온라인 상에서 본인의 GPG 키에 대한 신�
 1:50  | 휴식
 2:00  | 김광연 - Hanjp-IM 프로젝트 개발기
 2:50  | 휴식
-3:00  | 신민욱 - 스타트업에서 신입으로 살아남기
+3:00  | 장태희 - 우분투를 이용한 이중화의 기초 이해하기
 3:50  | GPG 키사이닝 파티겸 네트워킹 파티
 5:30 | 행사 마무리 및 뒷정리
 6:00 | 본행사(뒷풀이)
