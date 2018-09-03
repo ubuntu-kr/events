@@ -23,7 +23,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
   desc="우분투가 기반으로 하는 배포판인 데비안에 대해 다루는 컨퍼런스, DebConf18 후기를 공유합니다." %}
 
 {% include profile.html
-  profile="https://ca.slack-edge.com/T068QEXT4-U7SFL4ZP0-3341eb1dd80f-1024"
+  profile="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/10983159_648602088605489_4221303475439021180_n.jpg?_nc_cat=0&oh=89902efb68e34f209c2398b9f3031e42&oe=5C38C532"
   heading="Apache Airflow 를 이용한 Workflow 자동화" bold="배준현 - 우분투한국커뮤니티 서울지역팀"
   desc="보통 많이 사용되는 Crontab 대신, Apache Airflow 로 Workflow 를 적용하여 일을 시키는 방법을 알아봅시다." %}
 
