@@ -71,3 +71,4 @@ GPG 키사이닝 파티는 온라인 상에서 본인의 GPG 키에 대한 신�
 ## 후원 및 협찬
 - Festa.io - 참가 등록 시스템 제공
 - KossLab - 장소 지원
+- JetBrains Korea - 간식 지원
