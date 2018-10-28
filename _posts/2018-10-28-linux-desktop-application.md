@@ -18,12 +18,19 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 https://fest.ubuntu-kr.org/
 
 # 워크숍 소개
+
 <src img="https://www.gnome.org/wp-content/uploads/2013/06/gnome-logos.png"/>
+
 ## 주제
+
 linux desktop application 기초(python)
+
 ## 장소
+
 미정
+
 ## 일정
+
 12월 15일 오휴 1:00 ~ 5:00
 
 
