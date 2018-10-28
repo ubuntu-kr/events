@@ -23,7 +23,7 @@ https://fest.ubuntu-kr.org/
 
 ## 주제
 
-linux desktop application 기초(python)
+Linux Desktop Application 기초(python - gnome gtk, gobject 기반)
 
 ## 장소
 
