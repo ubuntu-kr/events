@@ -15,25 +15,25 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 ---
 행사에 대한 자세한 사항(행사 일정표 등)은 아래 링크를 참고해 주세요.
 
-https://fest.ubuntu-kr.org/
+[https://fest.ubuntu-kr.org/](https://fest.ubuntu-kr.org/)
 
 # 워크숍 소개
 
-<src img="https://www.gnome.org/wp-content/uploads/2013/06/gnome-logos.png"/>
+![gnome](https://www.gnome.org/wp-content/uploads/2013/06/gnome-logos.pngL)
 
-## 주제
+### 주제
 
 Linux Desktop Application 기초(python - gnome gtk, gobject 기반)
 
-## 장소
+### 장소
 
 미정
 
-## 일정
+### 일정
 
 12월 15일 오휴 1:00 ~ 5:00
 
 
-# 문의
+## 문의
 
 korea.ubuntu@gmail.com
