@@ -1,7 +1,7 @@
 ---
 layout: event
-title:  "Linux Desktop Application 기초(python)"
-desc: "리눅스 데스크톱 어플리케이션 기초 워크숍"
+title:  "Linux Desktop Applicgtation 기초(python)"
+desc: "리눅스 데스크톱 어플리케이션(GTK) 기초 워크숍"
 date: 2018-10-28 20:00:00 +0900
 start_time: 2018-12-15 13:00:00 +0900
 end_time: 2018-12-15 17:00:00 +0900
@@ -14,7 +14,7 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 ---
 행사에 대한 자세한 사항(행사 일정표 등)은 아래 링크를 참고해 주세요.
 
-[https://fest.ubuntu-kr.org/](https://fest.ubuntu-kr.org/)
+[https://festa.io/](https://festa.io/)
 
 ![gnome](https://www.gnome.org/wp-content/uploads/2013/06/gnome-logos.png)
 
@@ -25,7 +25,9 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 
 ### 주제
 
-Linux Desktop Application 기초(python - gnome gtk, gobject 기반)
+Linux Desktop Application(GTK) 기초
+- gnome - gtk, gobject
+- python 사용
 
 ### 장소
 
