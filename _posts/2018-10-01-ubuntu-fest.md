@@ -16,8 +16,7 @@ image: "https://lh3.googleusercontent.com/r0O2DQ_5RuozCzBr84VtpQP_il48C_1kivpdu_
 
 행사에 대한 자세한 사항(행사 일정표 등)은 아래 링크를 참고해 주세요.
 
-https://fest.ubuntu-kr.org/
-
+https://festa.io/events/94
 
 이번 Ubuntu Fest는 '우분투와 딥러닝'을 주제로 개최됩니다!
 
