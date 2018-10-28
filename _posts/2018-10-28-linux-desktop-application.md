@@ -16,11 +16,12 @@ image: "https://lh3.googleusercontent.com/imsPxBnT7QniuDhsiaywdkyKd8UTKuwYoxrg0l
 
 [https://fest.ubuntu-kr.org/](https://fest.ubuntu-kr.org/)
 
+![gnome](https://www.gnome.org/wp-content/uploads/2013/06/gnome-logos.png)
+
 # 워크숍 소개
 
 ---
 
-![gnome](https://www.gnome.org/wp-content/uploads/2013/06/gnome-logos.png)
 
 ### 주제
 
