@@ -3,10 +3,10 @@ layout: event
 title:  "Python을 이용한 Linux Desktop Application - 기초"
 desc: "GTK에 대해 알아보고 python을 이용한 Linux Desktop Application을 만들어보는 시간입니다."
 date: 2018-10-28 20:00:00 +0900
-start_time: 2018-1-13 13:00:00 +0900
-end_time: 2018-1-13 17:00:00 +0900
-submit_start: 2018-10-28 00:00:00 +0900
-submit_end: 2018-12-14 23:59:59 +0900
+start_time: 2019-1-13 13:00:00 +0900
+end_time: 2019-1-13 17:00:00 +0900
+submit_start: 2018-12-3 00:00:00 +0900
+submit_end: 2018-1-10 23:59:59 +0900
 location: "충남대학교 공대 5호관 410호"
 location_query: "충남대학교_공과대학5호관"
 price: "0 KRW"
