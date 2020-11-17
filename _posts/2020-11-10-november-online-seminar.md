@@ -23,8 +23,9 @@ NIPA 주관 행사이며, YouTube 라이브 스트리밍으로 진행됩니다.
   desc="올해 우분투한국커뮤니티 활동 내역과 앞으로의 계획을 안내하고 최근 출시한 Ubuntu 20.10 에 대해 알아봅니다." %}
 
 {% include profile.html  
-  heading="About Linux Netdevice " bold="서현호"
-  desc="" %}
+  profile="https://avatars0.githubusercontent.com/u/12669899?s=400"
+  heading="Fast Packet Processing in a Multicore Environment" bold="서현호"
+  desc="리눅스 기반 멀티 코어 환경에서의 '고속 네트워킹 엔진' 개발에 메인 개발자로 참여한 경험을 이야기 합니다." %}
 
 {% include profile.html  
   profile="https://avatars2.githubusercontent.com/u/47443508?s=400"
@@ -48,7 +49,7 @@ NIPA 주관 행사이며, YouTube 라이브 스트리밍으로 진행됩니다.
 14:00 ~ 14:10 (10분) | 행사 소개 및 오프닝 - 윤건영
 14:10 ~ 14:40 (30분) | 커뮤니티 현황 보고 및 Ubuntu 20.10 소개 - 윤건영
 14:40 ~ 14:50 (10분) | 휴식 및 다음 발표 준비
-14:50 ~ 15:20 (30분) | About Linux Netdevice - 서현호
+14:50 ~ 15:20 (30분) | Fast Packet Processing in a Multicore Environment - 서현호
 15:20 ~ 15:30 (10분) | 휴식 및 다음 발표 준비
 15:30 ~ 16:00 (30분) | 오픈소스 컨트리뷰톤 '우분투 한국어 번역' 참여 후기 - 정주원
 16:00 ~ 16:10 (10분) | 휴식 및 다음 발표 준비
