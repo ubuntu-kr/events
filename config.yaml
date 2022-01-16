@@ -8,6 +8,8 @@ disqusShortname: ubuntu-kr-blog
 paginate: 5
 permalinks: 
   events: /:2006/:01/:02/:filename
+outputs:
+  section: ["HTML", "RSS", "Calendar"]
 params:
   contact: contact@ubuntu-kr.org
   facebook: ubuntukorea
@@ -17,6 +19,8 @@ params:
   youtube: https://www.youtube.com/user/UbuntuKorea
   source_repo: https://github.com/ubuntu-kr/event.ubuntu-kr.org
   gmaps_embed_api_key: AIzaSyAlFGcj4Yqrvr2cvFh7-TSN1EfaO1OK53Y
+  calendarOrganizer: "Ubuntu Korea Community"
+  calendarUidSuffix: UbuntuKrEvents
 defaultContentLanguage: ko
 languages:
   ko:
@@ -39,10 +43,10 @@ languages:
         name: 행사
         weight: 1
         url: /
-      - identifier: subscribe
-        name: 구독(RSS)
-        weight: 3
-        url: /index.xml
+      - identifier: calendar
+        name: 일정 구독(ICS)
+        weight: 2
+        url: /events/index.ics
       link:
       - identifier: home
         name: 홈페이지
@@ -88,10 +92,10 @@ languages:
         name: Events
         weight: 1
         url: /
-      - identifier: subscribe
-        name: Subscribe(RSS)
-        weight: 3
-        url: /index.xml
+      - identifier: calendar
+        name: Subscribe(ICS)
+        weight: 2
+        url: /events/index.ics
       link:
       - identifier: home
         name: Homepage
