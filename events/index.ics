@@ -13,7 +13,12 @@ DTSTAMP:20220205T050000Z
 DTSTART:20220205T050000
 DTEND:20220205T080000
 LOCATION: YouTube 라이브 스트리밍
-DESCRIPTION:<p>2021년에 있었던 우분투 한국 커뮤니티 활동을 정리 해 보고, 올해 2022년은 어떤 활동을 할 지 알아보는 시간을 가질 예정입니다.</p>
+DESCRIPTION:
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/YMmqU7o2TTM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>2021년에 있었던 우분투 한국 커뮤니티 활동을 정리 해 보고, 올해 2022년은 어떤 활동을 할 지 알아보는 시간을 가질 예정입니다.</p>
 <h2 id="2021년-활동-회고">2021년 활동 회고</h2>
 <ul>
 <li>UbuCon Asia 2021
