@@ -4,6 +4,7 @@ title:  "Daejeon arm study"
 desc: "대전 arm스터디"
 date: 2018-03-29 00:00:00 +0900
 start_time: 2018-05-12 10:00:00 +0900
+end_time: 2018-05-12 10:00:00 +0900
 submit_start: 2018-04-22 00:00:00 +0900
 submit_end: 2018-05-10 23:59:59 +0900
 location: "대전대학교 융합과학관 238호"
