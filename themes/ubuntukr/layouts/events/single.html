@@ -144,6 +144,7 @@
     if(now < startTime && !requiresRegistration){
       ticketBtnTxt.innerHTML = "등록 불필요"
     }else if(requiresRegistration){
+      {{if .Params.submit_start}}
       if(now < submitStart || !isTicketLinkExists){
         ticketBtnTxt.innerHTML = "준비중"
         submitPeriodTxt.innerHTML = "{{dateFormat "2006-01-02T15:04:05-07:00" (time .Params.submit_start).UTC}} ~"
@@ -153,6 +154,7 @@
         ticketBtnTxt.innerHTML = "신청 마감됨"
         submitPeriodTxt.innerHTML = "참가 등록이 마감되었습니다."
       }
+      {{end}}
     }
 
     if(now > startTime && now < endTime){
