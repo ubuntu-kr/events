@@ -1,4 +1,4 @@
-[![Deploy Website](https://github.com/ubuntu-kr/events/actions/workflows/deploy.yml/badge.svg)](https://github.com/ubuntu-kr/events/actions/workflows/deploy.yml)
+[![Deploy Website](https://github.com/ubuntu-kr/events/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/ubuntu-kr/events/actions/workflows/deploy.yml)
 # event.ubuntu-kr.org
 
 The new Event list website of Ubuntu Korea Community. Built with [Hugo](https://gohugo.io) and vanillaframework.io
