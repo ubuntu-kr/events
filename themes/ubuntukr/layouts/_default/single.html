@@ -1,0 +1,32 @@
+{{ define "main" }}
+
+
+<main>
+  <section class="p-strip--{{if .Params.image}}image{{else}}suru{{end}} main-strip"
+    {{if .Params.image}}}
+    style="background-image:url('{{.Params.image}}'); background-position: center; background-repeat: no-repeat; background-size: cover;"
+    {{end}}>
+      <div class="row">
+        {{if .Params.image}}
+        <div class="col-6">
+          <div class="p-card--overlay">
+            <h2>{{.Title}}</h2>
+            <p class="p-card__content">{{.Params.description}}</p>
+          </div>
+        </div>
+        {{else}}
+        <div class="col-8 left-section">
+          <h1>{{.Title}}</h1>
+          <p>{{.Params.description}}</p>
+        </div>
+        {{end}}
+      </div>
+  </section>
+  <section class="p-strip">
+  <div class="row">
+  {{ .Content }}
+  </div>
+  </section>
+ 
+</main>
+{{ end }}
