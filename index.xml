@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>우분투 한국 커뮤니티 행사</title>
+    <link>https://event.ubuntu-kr.org/</link>
+    <description>Recent content on 우분투 한국 커뮤니티 행사</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 05 Feb 2022 14:00:00 +0900</lastBuildDate><atom:link href="https://event.ubuntu-kr.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022년 신년회</title>
+      <link>https://event.ubuntu-kr.org/2022/02/05/2022-new-year-greeting/</link>
+      <pubDate>Sat, 05 Feb 2022 14:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2022/02/05/2022-new-year-greeting/</guid>
+      <description>2021년에 있었던 우분투 한국 커뮤니티 활동을 정리 해 보고, 올해 2022년은 어떤 활동을 할 지 알아보는 시간을 가질 예정입니다.
+2021년 활동 회고  UbuCon Asia 2021  작년에 처음 진행한 UbuCon Asia 2021 은 어떻게 준비 되었는지 간단히 살펴보고, 컨퍼런스에 참여 했던 운영진 분들이 관심 있게 보신 세션 몇 가지를 간단히 소개 해 보는 시간을 가집니다.   오픈소스 컨트리뷰션 아카데미 - Hanjp Input Method  작년 오픈소스 컨트리뷰션 아카데미는 Hanjp 프로젝트 메인테이너이신 김광연님이 멘토로 참여 하셨는데요.</description>
+    </item>
+    
+    <item>
+      <title>11월 온라인 세미나</title>
+      <link>https://event.ubuntu-kr.org/2020/11/10/november-online-seminar/</link>
+      <pubDate>Tue, 10 Nov 2020 10:50:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2020/11/10/november-online-seminar/</guid>
+      <description>2020년 11월 우분투한국커뮤니티 온라인 라이브 세미나가 진행됩니다. NIPA 주관 행사이며, YouTube 라이브 스트리밍으로 진행됩니다.
+커뮤니티 현황 보고 및 Ubuntu 20.10 소개 윤건영 - 우분투한국커뮤니티 대표
+올해 우분투한국커뮤니티 활동 내역과 앞으로의 계획을 안내하고 최근 출시한 Ubuntu 20.10 에 대해 알아봅니다.
+  Fast Packet Processing in a Multicore Environment 서현호
+리눅스 기반 멀티 코어 환경에서의 &amp;#39;고속 네트워킹 엔진&amp;#39; 개발에 메인 개발자로 참여한 경험을 이야기 합니다.
+  오픈소스 컨트리뷰톤 &amp;#39;우분투 한국어 번역&amp;#39; 참여 후기 정주원</description>
+    </item>
+    
+    <item>
+      <title>2020 KCD (Korea Community Day)</title>
+      <link>https://event.ubuntu-kr.org/2020/02/13/2020-kcd/</link>
+      <pubDate>Thu, 13 Feb 2020 01:50:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2020/02/13/2020-kcd/</guid>
+      <description>2020 KCD (Korea Community Day)
+우분투한국커뮤니티 부스 운영 우분투 체험존, GPG Key Signing, 우분투 퀴즈 이벤드 등 운영
+  안내사항  이번 세미나는 KCD로 운영되며, 커뮤니티 연합 행사로 대체됩니다. 참가 등록은 Festa.io 를 통해 이뤄집니다. 부득이한 사정으로 참석하지 못하시는 경우, Festa.io 에서 2020.02.28 12:00:00 까지 참가등록 취소해 주시기 바랍니다.  등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되어, 추후 행사 참석에 불이익을 받을 수 있습니다.   주차 지원을 해 드리지 않습니다.</description>
+    </item>
+    
+    <item>
+      <title>우분투한국커뮤니티 2019년 상반기 서울지역 세미나</title>
+      <link>https://event.ubuntu-kr.org/2019/06/11/q2-seoul-seminar/</link>
+      <pubDate>Tue, 11 Jun 2019 10:50:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2019/06/11/q2-seoul-seminar/</guid>
+      <description>우분투한국커뮤니티 2019년 상반기 서울지역 세미나
+우분투한국커뮤니티 대표 선출 보고 윤건영 - 우분투한국커뮤니티 대표
+2019 우분투한국커뮤니티 대표 선출 보고 및 향후 일정에 대한 발표
+  Ubuntu 19.04 무엇이 달라졌나?  김영하 - 우분투한국커뮤니티 서울지역팀
+  우분투한국커뮤니티 서울지역 운영계획 배준현 - 우분투한국커뮤니티 서울지역팀
+우분투한국커뮤니티 서울지역 운영계획 논의, 질의 응답
+  안내사항  참가 등록은 Festa.io 를 통해 이뤄집니다. 부득이한 사정으로 참석하지 못하시는 경우, Festa.io 에서 2019.06.27 23:59:59 까지 참가등록 취소해 주시기 바랍니다.</description>
+    </item>
+    
+    <item>
+      <title>Python을 이용한 Linux Desktop Application - 기초</title>
+      <link>https://event.ubuntu-kr.org/2018/10/28/linux-desktop-application/</link>
+      <pubDate>Sun, 28 Oct 2018 20:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2018/10/28/linux-desktop-application/</guid>
+      <description>워크숍 소개  gtk 라이브러리를 이용하여 Linux Desktop 어플리케이션을 만들어 보는 시간을 가질 예정입니다.  일정 사전 지식  python 기초  개발환경 아래는 워크샵 동안 사용할 개발환경입니다. 실습시간에 앞서 설치 시간을 가질 예정입니다.
+ gnome builder gnome SDK gnome platform flatpak  안내사항  본 워크샵에는 우분투가 설치된 노트북이 필요합니다. 기타 문의는 korea.ubuntu@gmail.com 로 바랍니다.  </description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Fest</title>
+      <link>https://event.ubuntu-kr.org/2018/10/01/nov-ubuntu-fest/</link>
+      <pubDate>Mon, 01 Oct 2018 20:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2018/10/01/nov-ubuntu-fest/</guid>
+      <description>행사에 대한 자세한 사항(행사 일정표 등)은 아래 링크를 참고해 주세요.
+https://festa.io/events/94
+이번 Ubuntu Fest는 &amp;lsquo;우분투와 딥러닝&amp;rsquo;을 주제로 개최됩니다!
+세션 소개 발표세션 우분투에서 딥러닝 - 임근영 우분투에서 딥러닝을 한 경험을 공유합니다.
+딥러닝 세계에 끼어들기 위한 고등학생의 분투기 - 이수민 어떤 내용을 어떤 방법으로 공부했는지, 논문은 어떤 순서로 읽고 이해했는지에 대한 내용을 소개합니다.
+케라스와 함께하는 재미있는 딥러닝 활용사례들 - 김승태 오픈소스로 딥러닝과 관련한 컨트리뷰션은 무엇이 있고, 케라스를 활용해 일반인들도 쉽게 다가갈 수 있는 딥러닝에 대해 소개합니다.</description>
+    </item>
+    
+    <item>
+      <title>우분투한국커뮤니티 9월 서울지역 세미나</title>
+      <link>https://event.ubuntu-kr.org/2018/08/01/sept-seoul-seminar/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2018/08/01/sept-seoul-seminar/</guid>
+      <description>우분투한국커뮤니티 9월 서울지역 세미나 입니다.
+DebConf18 참가후기 한영빈 - 우분투한국커뮤니티 대표
+우분투가 기반으로 하는 배포판인 데비안에 대해 다루는 컨퍼런스, DebConf18 후기를 공유합니다.
+  Apache Airflow 를 이용한 Workflow 자동화 배준현 - 우분투한국커뮤니티 서울지역팀
+보통 많이 사용되는 Crontab 대신, Apache Airflow 로 Workflow 를 적용하여 일을 시키는 방법을 알아봅시다.
+  우분투를 이용한 이중화의 기초 이해하기 장태희 - 우분투한국커뮤니티 고문
+이중화를 위한 구성에는 무엇이 필요한지 알아보고, 부하 분산을 위한 네트워크 설정에 대해 알아봅니다.</description>
+    </item>
+    
+    <item>
+      <title>우분투 기초 사용법 워크샵</title>
+      <link>https://event.ubuntu-kr.org/2018/06/26/ubuntu-workshop/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2018/06/26/ubuntu-workshop/</guid>
+      <description>우분투 설치부터 기초 사용법까지 배울 수 있는 워크샵 입니다.참석 하시는 분들은 각자 우분투를 설치할 개인 노트북을 지참 하셔야 합니다.일정표    시간 일정     12:30 ~ 13:00 사전 참가 등록자 등록 확인 및 착석   13:00 ~ 13:30 우분투란   13:30 ~ 13:40 휴식   13:40 ~ 14:30 우분투 설치 및 설정법   14:30 ~ 14:40 휴식   14:40 ~ 15:30 기본 프로그램과 기본 명령어   15:30 ~ 15:40 휴식   15:40 ~ 16:00 추가 프로그램 설치방법   16:00 ~ 16:10 행사 마무리 및 종료    안내사항  본 행사는 실습 행사이며, 아래와 같은 준비물을 준비해 오셔야 합니다.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Fest</title>
+      <link>https://event.ubuntu-kr.org/2018/04/15/ubuntu-fest/</link>
+      <pubDate>Sun, 15 Apr 2018 20:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2018/04/15/ubuntu-fest/</guid>
+      <description>Main Sessions 모바일에 딥러닝 심기 미정
+딥러닝과 케라스에 대해 소개하고, 실제로 케라스로 구현한 딥러닝 모델을 iOS 모바일 앱에 탑재한 개발 과정을 발표합니다.
+  기계들의 소셜 미디어, MQTT 신근수 - 테크플렉스
+사물 인터넷 기기 관리 표준 프로토콜 중 간단하고 신뢰성이 확보된 MQTT에 대해 간단히 알아봅니다.
+  스타트업에서 하드웨어 개발 프로세스 도입하기 신하륜 - SweetFab, Inc
+소프트웨어 교육 스타트업 SweetFab 이야기. 그리고 SweetFab에서 하드웨어 개발을 하며 느낀 수많은 한계점들을 하드웨어 개발 프로세스 도입으로 보완하는 과정에 대해서 발표를 진행합니다.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 18.04 Release 축하! 부산 Tea Time</title>
+      <link>https://event.ubuntu-kr.org/2018/04/13/busan-18-04-teatime/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2018/04/13/busan-18-04-teatime/</guid>
+      <description>안내사항  커피값(5,000)원은 개인별로 지참하셔야 합니다. 커피값을 본인이 지참하시니, 당연히 주차도 본인이 부담하셔야 합니다. 별도의 신청없이 참석하시면 됩니다. 즉, 별도의 참가 등록이 불필요한 행사입니다. 관련 문의는 sigmadram@gmail.com으로 주세요.  우분투 18.04 설치관련  정말 설치만 진행합니다. 별도의 세팅이나 즐거운 환경설정은 진행하지 않습니다. 함께 설치를 진행하고 하고 싶으시면 노트북, USB, Ubuntu 18.04 ISO 파일을 가지고 오시면 됩니다. 기존에 사용하시던 노트북의 데이터는 반드시 백업하세요. 저희가 책임져드리지 않습니다. 네트워크 및 하드웨어 문제로 시간이 지체되더라도 16시에 모임을 종료하게 되오니 미리 준비해오시기 바랍니다.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 18.04 Release party in Daejeon</title>
+      <link>https://event.ubuntu-kr.org/2018/04/02/18-04-daejeon-rel-party/</link>
+      <pubDate>Mon, 02 Apr 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2018/04/02/18-04-daejeon-rel-party/</guid>
+      <description>Main Sessions 커뮤니티 소개 우분투 한국 커뮤니티가 무엇을 하는 커뮤니티인지에 대한 소개입니다
+  활동 정리 및 안내 대전에서 지금까지 진행된 행사들과 앞으로 진행될 행사들에 대한 소개입니다.
+  18.04소개 Ubuntu 18.04에서는 무엇이 바뀌었고 무엇이 새로 생겼는지 알아보는 시간 입니다.
+  라이트닝 토크 일정 시간동안 본인이 하고싶은 말을 자유롭게 발표하는 시간입니다.
+  Lightning Talks  라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다. 발표자별로 최대 5분간 발표를 하실 수 있으며, 시간 초과시 마이크가 다음 발표자에게 넘겨집니다.</description>
+    </item>
+    
+    <item>
+      <title>Daejeon arm study</title>
+      <link>https://event.ubuntu-kr.org/2018/03/29/daejeon-arm-study/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2018/03/29/daejeon-arm-study/</guid>
+      <description>우분투한국커뮤니티 대전팀에서 arm스터디를 준비했습니다. arm MCU인 ARM Cortex-M을 이용한 센서제어와 LTE-M모듈을 이용한 소물인터넷 사용에 대해 배울 예정입니다.
+Mentor 소물인터넷 통신분야 신근수 - 우분투한국커뮤니티
+LTE-M모듈을 이용하여 통신하는 부분에 대해 멘토링 할 예정입니다.
+  ARM 센서정보 수집담당 김한욱 - 신우이앤디
+ARM에서 센서정보 수집하는 부분에 대해 멘토링 할 예정입니다.
+  Syllabus    주차 스터디 주제     1주 - 컴퓨터 구조의 기초   2주 - 운영체제와 임베디드 시스템의 기초   3주 - ARM mbed설명 - ARM Cortex-M 크로세서 아키텍처 설명 - 연구자료 준비   4주 - GPIO(General Purpose Input/Output), 인터럽트 제어   5주 - 통신시스템 구현 (1)   6주 - 통신시스템 구현 (2)   7주 - ADC (A/D컨버터)의 원리 및 ADC데이터 시트 읽기 및 분석 방법 배우기   8주 - ADC컨트롤 연구   9주 - FPU의 이해 및 연구   10주 - 예외처리, Watchdog   11주 - USB시스템 구현 (1)   12주 - USB시스템 구현 (2)   13주 - LTE-M 모듈 이해   14주 - LTE-M 통신 구현     더 자세한 정보는 다음을 참고하시기 바랍니다.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 18.04 Release Party @ Seoul</title>
+      <link>https://event.ubuntu-kr.org/2018/03/29/ubuntu-18-04-rel-party/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2018/03/29/ubuntu-18-04-rel-party/</guid>
+      <description>우분투한국커뮤니티와 코딩이랑 무관합니다만, 에서 우분투 18.04 릴리즈 파티 행사를 준비했습니다. 행사를 통해 새로 출시된 우분투 18.04 에 대해서도 알아보는 시간을 가질 예정입니다.
+Main Sessions 미세먼지 같은 우분투 서버활용 팁 배준현 - 코딩이랑 무관합니다만,
+Tmux, SELINUX, crond, nohup 등의 미세먼지 같은 우분투 서버 활용에 있어서의 팁들을 다룹니다.
+  What&amp;#39;s new in Ubuntu 18.04 LTS 한영빈 - 우분투한국커뮤니티 대표
+Gnome, Subiquity 등 Ubuntu 18.04 LTS 에서 새로 달라진 점에 대해 다뤄봅니다.</description>
+    </item>
+    
+    <item>
+      <title>3월 데비안 패키징 워크샵</title>
+      <link>https://event.ubuntu-kr.org/2018/02/26/debian-pkg-workshop/</link>
+      <pubDate>Mon, 26 Feb 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2018/02/26/debian-pkg-workshop/</guid>
+      <description>연사 정보 심경섭 펜타시큐리티
+이번 데비안 패키징 워크샵 주 발표자 입니다.
+  김진석 Ubuntu Korea Community - Packaging Manager
+이번 데비안 패키징 워크샵 보조 발표자 입니다.
+  행사 일정    시간 일정     12:30PM ~ 01:20PM 사전 참가 등록자 등록 확인 및 착석   01:20PM ~ 03:00PM 데비안 패키징 개요 ~ 데비안 패키징 실습   03:00PM ~ 03:15PM 휴식   03:15PM ~ 05:50PM 생성된 패키지 검증 ~ Launchpad PPA 를 통한 배포   05:50PM ~ 06:00PM 행사 마무리 및 종료    실습 내용 런치패드 가입/GPG 키 등록 패키징 개요 debian 디렉토리 생성 및 내부 파일 설명 패키징할 프로그래밍 언어에 따른 세부 튜닝 방법 (C/C++ 와 Python 기준) 실습 (예제 코드에 debian 디렉토리와 파일을 만들어 패키징 전까지 만듬) 만들어진 코드를 기반으로 패키지 생성 및 생성된 패키지 검증 만들어진 패키지의 태그 생성 및 관리 PPA 에 업로드 하기 위한 방법 및 툴 설명 PPA 에 업로드 및 테스트 환경에 설치 및 설치 확인 방법  안내사항  본 행사는 실습 행사이며, 아래와 같은 준비물을 준비해 오셔야 합니다.</description>
+    </item>
+    
+    <item>
+      <title>CRON-a-thon</title>
+      <link>https://event.ubuntu-kr.org/2018/01/07/cron-a-thon-daejeon/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2018/01/07/cron-a-thon-daejeon/</guid>
+      <description>CRON-a-thon 행사는 매월 둘째주 토요일에 진행되는 행사입니다.대전지역에 거주하는 우분투 한국 커뮤니티 회원간 친목을 위한 행사이며,
+카페 등지에서 친목과 정보교류를 위한 자유로운 커뮤니케이션을 통해 대전지역 오프라인 커뮤니티를 활성화시키고,
+우분투 대전지역팀의 행사 진행 의견을 받을 수 있는 시간을 가집니다. ELEMENT LAB 카페는 건물 2층에 위치해 있습니다.</description>
+    </item>
+    
+    <item>
+      <title>우분투 한국 커뮤니티 대전 발대식 &amp; 신년회</title>
+      <link>https://event.ubuntu-kr.org/2017/12/07/year-start-party-in-daejeon/</link>
+      <pubDate>Thu, 07 Dec 2017 06:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2017/12/07/year-start-party-in-daejeon/</guid>
+      <description>우분투한국커뮤니티 대전 지부의 개설을 축하하는 행사 입니다.
+앞으로의 활동계획을 발표하고 3개의 라이트닝 토크세션과 네트워킹을 통해 앞으로 나아갔으면 하는 방향에 대해서도 정리해보는 방향으로 진행됩니다.
+이후에는 신청자에 한하여 자유롭게 식사 하시면서 네트워킹도 하는 시간을 가질 예정입니다.
+Main Sessions  대전팀 환영사 - 15:00 ~ 15:10 (10) 한영빈 대표 - 15:10 ~ 15:20 (10) 윤건영 부대표 - 15:20 ~ 15:30 (10) 신하륜 스폰서 대표 - 15:30 ~ 15:40 (10) 커뮤니티 소개 - 15:40 ~ 15:55 (15) 계획 발표 - 15:55 ~ 16:05 (10) 질의 응답 / 네트워킹 - 16:05 ~ 16:35 (30) 청자발표 - 16:35 ~ 16:50 (15) 정리 및 신년회 이동 - 16:50 ~ 17:00 (10)  참가비에 대해 기본으로 제공되는 음식 구성  고기 1인당 1만 원어치  후원 목록  코딩이랑 무관합니다만, 에서 간식을 후원 해 주셨습니다.</description>
+    </item>
+    
+    <item>
+      <title>2017년도 송년회</title>
+      <link>https://event.ubuntu-kr.org/2017/11/28/year-end-party/</link>
+      <pubDate>Tue, 28 Nov 2017 23:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2017/11/28/year-end-party/</guid>
+      <description>우분투한국커뮤니티의 2017년 12월 행사는 송년회로 대체합니다.
+이번 송년회는 서로서로 행사에서도 자주 뵈었고, 지속적으로 교류도 해온 오픈스택 한국 커뮤니티와 공동으로 열고자 합니다.
+올 한 해 동안의 활동을 간단히 정리해서 보고하는 시간을 가지고, 1~2개의 라이트닝 토크 세션(희망하는 발표자가 있는 경우에만.) 을 진행할 예정이며.
+이후에는 자유롭게 식사도 하고 술도 마시면서 네트워킹도 하는 시간을 가질 예정입니다.
+참가비에 대해 기본으로 제공되는 음식 구성  고기 1인당 2만원 상당 테이블(5인) 당 소주 2병(기본) 인원이 30명 가까이 모일 시 금액 변동 없이 추가로 제공되는 특전.</description>
+    </item>
+    
+    <item>
+      <title>MASOCON 2017</title>
+      <link>https://event.ubuntu-kr.org/2017/11/03/masocon2017/</link>
+      <pubDate>Fri, 03 Nov 2017 20:30:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2017/11/03/masocon2017/</guid>
+      <description>이번 2017년 11월 세미나는, 마이크로소프트웨어에서 주최하는 마소콘 2017과 함께 합니다. 우분투한국커뮤니티 소속 회원 25분을 대상으로 초청장을 드립니다. 초청장을 받아 무료로 참석 하시려면, 지금 신청하기 를 클릭하여 양식을 작성하고 제출하세요.
+행사 관련 자세한 정보는 MASOCON 2017 웹사이트 를 참고하세요.
+안내사항  총 25명 정원입니다. 정원에 들어 초청 확정된 상태에서, 취소 없이 참석하지 않으시면 노쇼(No-Show) 로 간주하며, 추후 행사 참석에 불이익을 받을 수 있습니다. 신청 취소로 충원이 필요한 경우 개별적으로 이메일로 연락 드립니다.</description>
+    </item>
+    
+    <item>
+      <title>우분투한국커뮤니티 11월 대전지역 세미나</title>
+      <link>https://event.ubuntu-kr.org/2017/09/19/november-daejeon-seminar/</link>
+      <pubDate>Tue, 19 Sep 2017 20:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2017/09/19/november-daejeon-seminar/</guid>
+      <description>Main Sessions 개발자를 위한, 윈도 10으로 시작하는 우분투 리눅스 남정현 - 한국 Azure 사용자 그룹, Microsoft MVP
+Windows 10 Fall Creators Update부터 정식 버전이 되는 Windows Subsystem for Linux와 이를 기반으로 하는 Ubuntu Linux 16.04 Xenial을 개발자의 관점에서 활용하는 방법과 상세한 내용을 설명합니다.
+  LTE-M을 이용한 IoT 통신 신근수 - (주)테크플렉스
+IoT에 대한 여러 기술 중 LTE-M에 대한 소개 및 라즈베리파이를 이용한 간단한 시연.
+  임베디드와 보안 박수현 - AhnLab</description>
+    </item>
+    
+    <item>
+      <title>우분투한국커뮤니티 * 한국Azure사용자그룹 9월 연합세미나</title>
+      <link>https://event.ubuntu-kr.org/2017/08/25/ubuntu-kr-krazure-joint-seminar/</link>
+      <pubDate>Fri, 25 Aug 2017 17:20:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2017/08/25/ubuntu-kr-krazure-joint-seminar/</guid>
+      <description>Main Sessions New &amp;amp; Change Ubuntu on Windows 10(Ver.1709) 박성기 - 한국Azure사용자그룹, 한국Surface사용자그룹, Microsoft MVP(Windows and Device for IT)
+곧 출시 될 Windows 10 Ver.1709 부터 정식버전이 되는 Windows Subsystem for Linux 의 Ubuntu 지원변경의 배경과 변경내역을 설명합니다. 또한 Client Hyper-V 의 변경사항을 통한 Ubuntu VM 생성 및 관리팁 그리고 Azure 환경에서의 Ubuntu 환경에 대한 최신정보 또한 정리하여 설명합니다.
+  닷넷 코어 2.0 실전 서비스 운용담 그리고... 남정현 - 한국 Azure 사용자 그룹, Microsoft MVP</description>
+    </item>
+    
+    <item>
+      <title>우분투한국커뮤니티 번역 워크샵</title>
+      <link>https://event.ubuntu-kr.org/2017/08/19/ubuntu-kr-l10n-workshop/</link>
+      <pubDate>Sat, 19 Aug 2017 00:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2017/08/19/ubuntu-kr-l10n-workshop/</guid>
+      <description>우분투한국커뮤니티 번역 워크샵 입니다. 우분투 번역에 기여하는 방법을 알아보고, 직접 번역에 참여도 해보는 실습 행사입니다. 소프트웨어 번역에 관심이 있고, 우분투 번역에 참여해 보고 싶으시다면 누구든지 참석할 수 있습니다. 참석 하시는 분들은 각자 개인 노트북을 지참 하셔야 합니다.
+ 일시 : 2017년 8월 19일 오후 12시 ~ 오후 6시 장소 : 토즈 강남토즈타워점 대형부스B 장소 지원 : 마이크로소프트 개발자 커뮤니티 지원 프로그램 멜팅팟  신민욱 우분투한국커뮤니티 Wiki Provider &amp;amp; l10n
+  일정  12:30 ~ 13:00 / 30분 : 신청자 확인 13:00 ~ 13:20 / 20분 : 커뮤니티 소개 / 번역팀 소개 / 번역팀 규정 소개 13:20 ~ 13:50 / 30분 : 런치패드에 대한 간단한 소개, 런치패드에 가입하기 13:50 ~ 14:05 / 15분 : 휴식 14:05 ~ 15:05 / 60분 : 런치패드 우분투 번역팀에 가입하기 GPG 키 생성하기 - 이미 등록한 참가자는 다른사람 돕기 Ubuntu Code of Conduct 에 서명하는 방법 로컬팀 / 번역팀에 가입 요청하기 메일링 가입하는 방법 15:05 ~ 15:20 / 15분 : 휴식 15:20 ~ 15:40 / 20분 : 번역에 참여하는 방법 런치패드 웹 인터페이스에서 번역하기 - 권장 파일 다운로드 받아서 직접 번역 - 간단히 설명만 15:40 ~ 16:00 / 20분 : 번역 할 때 주의해야 할 사항 항상 번역팀 규정 숙지 번역기 번역 결과를 붙여놓지 맙시다 - 일본 번역팀 사례 소개 번역 주기/일정 소개 16:00 ~ 16:10 / 10분 : 카르마 쌓는 방법 16:10 ~ 16:25 / 15분 : 휴식 16:25 ~ 17:05 / 40분 : 각자 직접 번역해보기 17:05 ~ 17:15 / 10분 : 쌓인 카르마 확인 17:30 : 일정 마무리  안내사항 :</description>
+    </item>
+    
+    <item>
+      <title>우분투한국커뮤니티 7월 정기세미나 - 정보보안과 사물인터넷</title>
+      <link>https://event.ubuntu-kr.org/2017/07/07/ubuntu-kr-july-seminar/</link>
+      <pubDate>Fri, 07 Jul 2017 00:30:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2017/07/07/ubuntu-kr-july-seminar/</guid>
+      <description>우분투한국커뮤니티 7월 정기 세미나 입니다. 이번달 세미나는 &amp;ldquo;정보보안과 사물인터넷&amp;quot;을 주제로 진행합니다.
+ 장소 : 토즈 강남토즈타워점 대형부스C 도로명 주소 : 서울시 강남구 강남대로84길 24-4 지번 주소 : 서울시 강남구 역삼동 827-3 일시 : 2017년 07월 29일 오후 1시30분 ~ 오후 6시00분 참여대상 : 우분투에 관심이 있는 사람이라면 누구나 참여 가능. 기념품 : 노트북 스티커 등 장소지원 : Microsoft Melting Pot 개발자 커뮤니티 지원 프로그램  Main Sessions 우분투 데스크탑을 이용한 Maker 활동기 이호민 - KossLab</description>
+    </item>
+    
+  </channel>
+</rss>

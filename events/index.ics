@@ -1,0 +1,1844 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//우분투 한국 커뮤니티 행사////EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:2022년 신년회
+UID:20220205T050000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20220205T050000Z
+DTSTART:20220205T050000
+DTEND:20220205T080000
+LOCATION: YouTube 라이브 스트리밍
+DESCRIPTION:<p>2021년에 있었던 우분투 한국 커뮤니티 활동을 정리 해 보고, 올해 2022년은 어떤 활동을 할 지 알아보는 시간을 가질 예정입니다.</p>
+<h2 id="2021년-활동-회고">2021년 활동 회고</h2>
+<ul>
+<li>UbuCon Asia 2021
+<ul>
+<li>작년에 처음 진행한 UbuCon Asia 2021 은 어떻게 준비 되었는지 간단히 살펴보고, 컨퍼런스에 참여 했던 운영진 분들이 관심 있게 보신 세션 몇 가지를 간단히 소개 해 보는 시간을 가집니다.</li>
+</ul>
+</li>
+<li>오픈소스 컨트리뷰션 아카데미 - Hanjp Input Method
+<ul>
+<li>작년 오픈소스 컨트리뷰션 아카데미는 Hanjp 프로젝트 메인테이너이신 김광연님이 멘토로 참여 하셨는데요. 어떤 활동을 했는지 알아보는 시간을 가질 예정입니다.</li>
+</ul>
+</li>
+<li>임의단체 등록
+<ul>
+<li>작년 말 부터 올해 초 까지 추진한 우분투 한국 커뮤니티의 &ldquo;법인으로 보는 단체&rdquo; 등록이 완료 되었습니다. 등록 과정에 대해 간단히 돌아보는 시간을 가져봅니다.</li>
+</ul>
+</li>
+<li>신규 운영진 소개
+<ul>
+<li>작년 말 3명의 운영진이 새로 합류 하였습니다. 새로 오신 운영진 분들을 간단히 소개 하는 시간을 가질 예정입니다.</li>
+</ul>
+</li>
+</ul>
+<h2 id="2022년-활동">2022년 활동</h2>
+<ul>
+<li>세미나, 컨퍼런스 활동: 22.04 LTS 출시 기념 행사, 위키 에디터톤 등 기획된 행사를 간단히 소개 합니다.</li>
+<li>그룹 스터디: 작년에는 하지 않았던 그룹 스터디, 어떤 주제로 기획 하고 있는지 소개합니다.</li>
+<li>웹서비스 개선 작업 계획: 우리 커뮤니티의 포럼이나 위키 같은 웹서비스를 개편할 예정입니다. 어떤 형태로 달라질 예정인지 간단히 소개합니다.</li>
+</ul>
+<h2 id="설문조사-이벤트">설문조사 이벤트</h2>
+<ul>
+<li>행사 중간이나 끝나기 전 쯤, 설문조사 이벤트를 할 예정입니다. 설문조사에 참여해 주신 분들은 추첨을 통해 &ldquo;처음 배우는 Azure&quot;도서를 드릴 예정입니다.
+<ul>
+<li>경품은 OpenStack Korea Community 최영락 님께서 후원 해 주셨습니다.</li>
+</ul>
+</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2022/02/05/2022-new-year-greeting/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:11월 온라인 세미나
+UID:20201128T050000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20201128T050000Z
+DTSTART:20201128T050000
+DTEND:20201128T075000
+LOCATION: YouTube 라이브 스트리밍
+DESCRIPTION:<p>2020년 11월 우분투한국커뮤니티 온라인 라이브 세미나가 진행됩니다.
+NIPA 주관 행사이며, YouTube 라이브 스트리밍으로 진행됩니다.</p>
+<div class="p-media-object--large">
+  <img src="https://avatars2.githubusercontent.com/u/5144422?s=400" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>커뮤니티 현황 보고 및 Ubuntu 20.10 소개</h3>
+    <p class="p-media-object__content">윤건영 - 우분투한국커뮤니티 대표</p>
+    <p class="p-media-object__content">올해 우분투한국커뮤니티 활동 내역과 앞으로의 계획을 안내하고 최근 출시한 Ubuntu 20.10 에 대해 알아봅니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars0.githubusercontent.com/u/12669899?s=400" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Fast Packet Processing in a Multicore Environment</h3>
+    <p class="p-media-object__content">서현호</p>
+    <p class="p-media-object__content">리눅스 기반 멀티 코어 환경에서의 &#39;고속 네트워킹 엔진&#39; 개발에 메인 개발자로 참여한 경험을 이야기 합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars2.githubusercontent.com/u/47443508?s=400" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>오픈소스 컨트리뷰톤 &#39;우분투 한국어 번역&#39; 참여 후기</h3>
+    <p class="p-media-object__content">정주원</p>
+    <p class="p-media-object__content">올해 여름부터 가을까지 진행한 2020 오픈소스 컨트리뷰톤의 &#39;우분투 한국어 번역&#39; 프로젝트에 멘티에 참여한 후기에 대해 이야기 합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars2.githubusercontent.com/u/1297346?s=400&amp;" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>윈도우 10의 리눅스 지원 3중주 맛보기 - Docker, WSL, VS Code</h3>
+    <p class="p-media-object__content">남정현 - 한국 WSL 사용자그룹 운영진</p>
+    <p class="p-media-object__content">Docker 컨테이너 이미지, WSL의 배포판을 위한 RootFS 이미지의 상호 교환 기능을 살펴보고, VS Code Remote의 기능을 통해 리눅스 기반의 개발 환경에 대한 새로운 패러다임을 살펴봅니다.</p>
+  </div>
+</div>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>참가 등록은 Festa.io 를 통해 이뤄집니다.</li>
+<li>티켓을 구매하신 분들께 이메일을 통해서 당일 오후 한시에 스트리밍 URL을 보내드릴 예정입니다.</li>
+<li>행사 관련 문의는 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 로 해 주세요.</li>
+</ul>
+<h2 id="일정표">일정표</h2>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>14:00 ~ 14:10 (10분)</td>
+<td>행사 소개 및 오프닝 - 윤건영</td>
+</tr>
+<tr>
+<td>14:10 ~ 14:40 (30분)</td>
+<td>커뮤니티 현황 보고 및 Ubuntu 20.10 소개 - 윤건영</td>
+</tr>
+<tr>
+<td>14:40 ~ 14:50 (10분)</td>
+<td>휴식 및 다음 발표 준비</td>
+</tr>
+<tr>
+<td>14:50 ~ 15:20 (30분)</td>
+<td>Fast Packet Processing in a Multicore Environment - 서현호</td>
+</tr>
+<tr>
+<td>15:20 ~ 15:30 (10분)</td>
+<td>휴식 및 다음 발표 준비</td>
+</tr>
+<tr>
+<td>15:30 ~ 16:00 (30분)</td>
+<td>오픈소스 컨트리뷰톤 &lsquo;우분투 한국어 번역&rsquo; 참여 후기 - 정주원</td>
+</tr>
+<tr>
+<td>16:00 ~ 16:10 (10분)</td>
+<td>휴식 및 다음 발표 준비</td>
+</tr>
+<tr>
+<td>16:10 ~ 16:40 (30분)</td>
+<td>윈도우 10의 리눅스 지원 3중주 맛보기 - Docker, WSL, VS Code - 남정현</td>
+</tr>
+<tr>
+<td>16:40 ~ 16:50 (10분)</td>
+<td>이벤트 및 클로징 - 윤건영</td>
+</tr>
+</tbody>
+</table>
+<h2 id="후원-및-협찬">후원 및 협찬</h2>
+<ul>
+<li>OpenUp(NIPA) - 주관, 발표자 지원</li>
+<li>Cloudmate - 라이브 스트리밍 장소, 장비 및 회선 제공</li>
+<li>Festa.io - 참가 등록 시스템 제공</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2020/11/10/november-online-seminar/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:2020 KCD (Korea Community Day)
+UID:20200229T013000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20200229T013000Z
+DTSTART:20200229T013000
+DTEND:20200629T110000
+LOCATION: 한국 마이크로소프트 11층 (서울 종로구 종로1길 50 중학오피스빌딩 A동)
+DESCRIPTION:<p>2020 KCD (Korea Community Day)</p>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>우분투한국커뮤니티 부스 운영</h3>
+    <p class="p-media-object__content"></p>
+    <p class="p-media-object__content">우분투 체험존, GPG Key Signing, 우분투 퀴즈 이벤드 등 운영</p>
+  </div>
+</div>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>이번 세미나는 KCD로 운영되며, 커뮤니티 연합 행사로 대체됩니다.</li>
+<li>참가 등록은 Festa.io 를 통해 이뤄집니다.</li>
+<li>부득이한 사정으로 참석하지 못하시는 경우, Festa.io 에서 2020.02.28 12:00:00 까지 참가등록 취소해 주시기 바랍니다.
+<ul>
+<li>등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되어, 추후 행사 참석에 불이익을 받을 수 있습니다.</li>
+</ul>
+</li>
+<li>주차 지원을 해 드리지 않습니다. 대중교통을 이용해 주시기 바랍니다.</li>
+<li>행사 관련 문의는 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 로 해 주세요.</li>
+</ul>
+<h2 id="일정표">일정표</h2>
+<ul>
+<li><a href="https://kcd2020.festa.io">https://kcd2020.festa.io</a> 참고</li>
+</ul>
+<h2 id="후원-및-협찬">후원 및 협찬</h2>
+<ul>
+<li><a href="https://kcd2020.festa.io">https://kcd2020.festa.io</a> 참고</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2020/02/13/2020-kcd/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:우분투한국커뮤니티 2019년 상반기 서울지역 세미나
+UID:20190629T050000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20190629T050000Z
+DTSTART:20190629T050000
+DTEND:20190629T083000
+LOCATION: 한빛빌딩 A동 2층 L40강의실 (서울특별시 서대문구 신촌동 연희로2길 62)
+DESCRIPTION:<p>우분투한국커뮤니티 2019년 상반기 서울지역 세미나</p>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>우분투한국커뮤니티 대표 선출 보고</h3>
+    <p class="p-media-object__content">윤건영 - 우분투한국커뮤니티 대표</p>
+    <p class="p-media-object__content">2019 우분투한국커뮤니티 대표 선출 보고 및 향후 일정에 대한 발표</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Ubuntu 19.04 무엇이 달라졌나? </h3>
+    <p class="p-media-object__content">김영하 - 우분투한국커뮤니티 서울지역팀</p>
+    <p class="p-media-object__content"></p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>우분투한국커뮤니티 서울지역 운영계획</h3>
+    <p class="p-media-object__content">배준현 - 우분투한국커뮤니티 서울지역팀</p>
+    <p class="p-media-object__content">우분투한국커뮤니티 서울지역 운영계획 논의, 질의 응답</p>
+  </div>
+</div>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>참가 등록은 Festa.io 를 통해 이뤄집니다.</li>
+<li>부득이한 사정으로 참석하지 못하시는 경우, Festa.io 에서 2019.06.27 23:59:59 까지 참가등록 취소해 주시기 바랍니다.
+<ul>
+<li>등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되어, 추후 행사 참석에 불이익을 받을 수 있습니다.</li>
+<li>직접 등록 취소에 어려움을 겪는 경우 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 로 문의 주시면 바로 취소 처리 해 드립니다.</li>
+</ul>
+</li>
+<li>주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해 주시기 바랍니다.</li>
+<li>참가 등록 시기를 놓쳐 사전에 등록을 못하셨어도, 현장에서 참가 등록을 하실 수 있습니다.</li>
+<li>행사 관련 문의는 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 로 해 주세요.</li>
+</ul>
+<h2 id="일정표">일정표</h2>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:00</td>
+<td>준비 및 등록확인</td>
+</tr>
+<tr>
+<td>13:50</td>
+<td>일정 안내</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>우분투한국커뮤니티 대표 선출 보고 - 윤건영(우분투한국커뮤니티 대표)</td>
+</tr>
+<tr>
+<td>14:50</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>Ubuntu 19.04 무엇이 달라졌나? -  김영하(우분투한국커뮤니티 서울지역팀)</td>
+</tr>
+<tr>
+<td>15:50</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>16:00</td>
+<td>우분투한국커뮤니티 서울지역 운영계획 - 배준현(우분투한국커뮤니티 서울지역팀)</td>
+</tr>
+<tr>
+<td>16:50</td>
+<td>네트워킹 파티</td>
+</tr>
+<tr>
+<td>17:30</td>
+<td>행사 마무리 및 뒷정리</td>
+</tr>
+<tr>
+<td>18:00</td>
+<td>본행사(뒷풀이)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="후원-및-협찬">후원 및 협찬</h2>
+<ul>
+<li>Festa.io - 참가 등록 시스템 제공</li>
+<li>한빛미디어 - 장소 지원</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2019/06/11/q2-seoul-seminar/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:Python을 이용한 Linux Desktop Application - 기초
+UID:20191113T040000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20191113T040000Z
+DTSTART:20191113T040000
+DTEND:20191113T080000
+LOCATION: 충남대학교 공대 5호관 410호
+DESCRIPTION:<p><img src="https://www.gnome.org/wp-content/uploads/2013/06/gnome-logos.png" alt="gnome"></p>
+<h1 id="워크숍-소개">워크숍 소개</h1>
+<ul>
+<li>gtk 라이브러리를 이용하여 Linux Desktop 어플리케이션을 만들어 보는 시간을 가질 예정입니다.</li>
+</ul>
+<h2 id="일정">일정</h2>
+<p><img src="https://cf.festa.io/img/2018-12-4/eb972e09-0c7f-449c-bfaf-5be555c0aae9-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7,%202018-12-03%2012-52-31.png" alt="일정표"></p>
+<h2 id="사전-지식">사전 지식</h2>
+<ul>
+<li>python 기초</li>
+</ul>
+<h2 id="개발환경">개발환경</h2>
+<p>아래는 워크샵 동안 사용할 개발환경입니다.
+실습시간에 앞서 설치 시간을 가질 예정입니다.</p>
+<ul>
+<li>gnome builder</li>
+<li>gnome SDK</li>
+<li>gnome platform</li>
+<li>flatpak</li>
+</ul>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>본 워크샵에는 우분투가 설치된 노트북이 필요합니다.</li>
+<li>기타 문의는 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 로 바랍니다.</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2018/10/28/linux-desktop-application/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:Ubuntu Fest
+UID:20181110T040000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20181110T040000Z
+DTSTART:20181110T040000
+DTEND:20181110T090000
+LOCATION: 충남대학교 공과대학1호관 취봉홀
+DESCRIPTION:<p>행사에 대한 자세한 사항(행사 일정표 등)은 아래 링크를 참고해 주세요.</p>
+<p><a href="https://festa.io/events/94">https://festa.io/events/94</a></p>
+<p>이번 Ubuntu Fest는 &lsquo;우분투와 딥러닝&rsquo;을 주제로 개최됩니다!</p>
+<h1 id="세션-소개">세션 소개</h1>
+<h2 id="발표세션">발표세션</h2>
+<h3 id="우분투에서-딥러닝---임근영">우분투에서 딥러닝 - 임근영</h3>
+<p>우분투에서 딥러닝을 한 경험을 공유합니다.</p>
+<h3 id="딥러닝-세계에-끼어들기-위한-고등학생의-분투기---이수민">딥러닝 세계에 끼어들기 위한 고등학생의 분투기 - 이수민</h3>
+<p>어떤 내용을 어떤 방법으로 공부했는지, 논문은 어떤 순서로 읽고 이해했는지에 대한 내용을 소개합니다.</p>
+<h3 id="케라스와-함께하는-재미있는-딥러닝-활용사례들---김승태">케라스와 함께하는 재미있는 딥러닝 활용사례들 - 김승태</h3>
+<p>오픈소스로 딥러닝과 관련한 컨트리뷰션은 무엇이 있고, 케라스를 활용해 일반인들도 쉽게 다가갈 수 있는 딥러닝에 대해 소개합니다.</p>
+<h3 id="나의-우분투-이야기---강천성">나의 우분투 이야기 - 강천성</h3>
+<p>우분투를 접하고 나서의 이야기를 할 예정입니다. 또한 데이터 사이언스에서 우분투가 얼마나 편리하고 다른 운영체제들보다 좋은지, 실제로 제가 데이터를 분석할 때 어떻게 우분투의 많은 기능들을 활용하는지에 대해서 이야기 합니다.</p>
+<h2 id="라이트닝-토크">라이트닝 토크</h2>
+<p>행사 참여자가 어떠한 주제로든지 잠깐의 발표시간동안 이야기 하는 세션입니다.</p>
+<p>발표자, 청자, 운영진 누구라도 발표가 가능하며, 발표자별로 최대 5분간 발표를 하실 수 있습니다.</p>
+<p>라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.</p>
+<p>발표를 원하시는 분은 홈페이지를 통해 등록 해 주시기 바랍니다.</p>
+<h1 id="다음-단체와-함께-합니다">다음 단체와 함께 합니다.</h1>
+<ul>
+<li>케라스코리아</li>
+<li>캐글코리아</li>
+<li>충남대학교 SW중심대학</li>
+</ul>
+<h1 id="문의">문의</h1>
+<p><a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a></p>
+
+URL:https://event.ubuntu-kr.org/2018/10/01/nov-ubuntu-fest/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:우분투한국커뮤니티 9월 서울지역 세미나
+UID:20180915T040000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20180915T040000Z
+DTSTART:20180915T040000
+DTEND:20180915T083000
+LOCATION: KossLab 대회의실(서울특별시 강남구 테헤란로 311 아남타워빌딩 7층)
+DESCRIPTION:<p>우분투한국커뮤니티 9월 서울지역 세미나 입니다.</p>
+<div class="p-media-object--large">
+  <img src="https://avatars3.githubusercontent.com/u/1916739?s=400&amp;v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>DebConf18 참가후기</h3>
+    <p class="p-media-object__content">한영빈 - 우분투한국커뮤니티 대표</p>
+    <p class="p-media-object__content">우분투가 기반으로 하는 배포판인 데비안에 대해 다루는 컨퍼런스, DebConf18 후기를 공유합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/10983159_648602088605489_4221303475439021180_n.jpg?_nc_cat=0&amp;oh=89902efb68e34f209c2398b9f3031e42&amp;oe=5C38C532" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Apache Airflow 를 이용한 Workflow 자동화</h3>
+    <p class="p-media-object__content">배준현 - 우분투한국커뮤니티 서울지역팀</p>
+    <p class="p-media-object__content">보통 많이 사용되는 Crontab 대신, Apache Airflow 로 Workflow 를 적용하여 일을 시키는 방법을 알아봅시다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars3.githubusercontent.com/u/2038544?s=400&amp;v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>우분투를 이용한 이중화의 기초 이해하기</h3>
+    <p class="p-media-object__content">장태희 - 우분투한국커뮤니티 고문</p>
+    <p class="p-media-object__content">이중화를 위한 구성에는 무엇이 필요한지 알아보고, 부하 분산을 위한 네트워크 설정에 대해 알아봅니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars3.githubusercontent.com/u/1916739?s=400&amp;v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>GPG 키사이닝 파티</h3>
+    <p class="p-media-object__content">한영빈 - 우분투한국커뮤니티 대표</p>
+    <p class="p-media-object__content">키사이닝 파티 진행 방식에 대해 안내한 후, 키사이닝 파티겸 네트워킹 파티를 바로 진행합니다.</p>
+  </div>
+</div>
+<h2 id="gpg-키사이닝-파티-참가-안내">GPG 키사이닝 파티 참가 안내</h2>
+<p>GPG 키사이닝 파티는 온라인 상에서 본인의 GPG 키에 대한 신뢰(Web of Trust)를 높이기 위해 하는 행사입니다.
+이번 행사는 네트워킹 겸 키사이닝 파티의 비중이 앞의 메인세션보다 조금 큰 행사입니다.
+키사이닝 파티에 참여 하시려면, 사전에 준비를 철저히 해야 참여에 문제가 없으므로,
+참여 하시는 분들은 <a href="https://github.com/ubuntu-kr/ksp-toolkits/tree/master/ksp/ksp-20180915"><strong>제공된 안내 문서(클릭하여 읽기)</strong></a>를 읽고 미리 준비해 주세요.</p>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>참가 등록은 Festa.io 를 통해 이뤄집니다.</li>
+<li>부득이한 사정으로 참석하지 못하시는 경우, Festa.io 에서 2018.09.14 23:59:59 까지 참가등록 취소해 주시기 바랍니다.
+<ul>
+<li>등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되어, 추후 행사 참석에 불이익을 받을 수 있습니다.</li>
+<li>직접 등록 취소에 어려움을 겪는 경우 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 로 문의 주시면 바로 취소 처리 해 드립니다.</li>
+</ul>
+</li>
+<li>주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해 주시기 바랍니다.</li>
+<li>참가 등록 시기를 놓쳐 사전에 등록을 못하셨어도, 현장에서 참가 등록을 하실 수 있습니다.</li>
+<li>행사 관련 문의는 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 로 해 주세요.</li>
+</ul>
+<h2 id="일정표">일정표</h2>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:00</td>
+<td>준비 및 등록확인</td>
+</tr>
+<tr>
+<td>12:50</td>
+<td>일정 안내</td>
+</tr>
+<tr>
+<td>1:00</td>
+<td>한영빈 - DebConf18 참석 후기</td>
+</tr>
+<tr>
+<td>1:50</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>2:00</td>
+<td>배준현 - Apache Airflow 를 이용한 Workflow 자동화</td>
+</tr>
+<tr>
+<td>2:50</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>3:00</td>
+<td>장태희 - 우분투를 이용한 이중화의 기초 이해하기</td>
+</tr>
+<tr>
+<td>3:50</td>
+<td>GPG 키사이닝 파티겸 네트워킹 파티</td>
+</tr>
+<tr>
+<td>5:30</td>
+<td>행사 마무리 및 뒷정리</td>
+</tr>
+<tr>
+<td>6:00</td>
+<td>본행사(뒷풀이)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="후원-및-협찬">후원 및 협찬</h2>
+<ul>
+<li>Festa.io - 참가 등록 시스템 제공</li>
+<li>KossLab - 장소 지원</li>
+<li>JetBrains Korea - 간식 지원</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2018/08/01/sept-seoul-seminar/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:우분투 기초 사용법 워크샵
+UID:20180922T040000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20180922T040000Z
+DTSTART:20180922T040000
+DTEND:20180922T070000
+LOCATION: 대흥노마드
+DESCRIPTION:<p>우분투 설치부터 기초 사용법까지 배울 수 있는 워크샵 입니다.<!-- raw HTML omitted -->
+참석 하시는 분들은 각자 우분투를 설치할 개인 노트북을 지참 하셔야 합니다.<!-- raw HTML omitted --></p>
+<h3 id="일정표">일정표</h3>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:30 ~ 13:00</td>
+<td>사전 참가 등록자 등록 확인 및 착석</td>
+</tr>
+<tr>
+<td>13:00 ~ 13:30</td>
+<td>우분투란</td>
+</tr>
+<tr>
+<td>13:30 ~ 13:40</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>13:40 ~ 14:30</td>
+<td>우분투 설치 및 설정법</td>
+</tr>
+<tr>
+<td>14:30 ~ 14:40</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>14:40 ~ 15:30</td>
+<td>기본 프로그램과 기본 명령어</td>
+</tr>
+<tr>
+<td>15:30 ~ 15:40</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>15:40 ~ 16:00</td>
+<td>추가 프로그램 설치방법</td>
+</tr>
+<tr>
+<td>16:00 ~ 16:10</td>
+<td>행사 마무리 및 종료</td>
+</tr>
+</tbody>
+</table>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>본 행사는 실습 행사이며, 아래와 같은 준비물을 준비해 오셔야 합니다.
+<ul>
+<li>노트북</li>
+</ul>
+</li>
+<li>등록 완료 한 상태에서, Festa.io 를 통해 취소 하지 않고 참석하지 않으시면 노쇼(No-Show) 로 간주하며, 추후 행사 참석에 불이익을 받을 수 있으며, 비용은 환불되지 않습니다. 부득이하게 참석을 못하시는 경우, 반드시 등록기간 안에 등록 취소를 해 주시기 바랍니다.</li>
+<li>행사 관련 문의는 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 으로 해주시기 바랍니다.</li>
+<li>노쇼방지비용 KRW5000₩을 받습니다. 참석 확인 이후 환불될 예정입니다.</li>
+</ul>
+<h2 id="후원">후원</h2>
+<ul>
+<li>프로그래머 재단</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2018/06/26/ubuntu-workshop/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:Ubuntu Fest
+UID:20180623T040000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20180623T040000Z
+DTSTART:20180623T040000
+DTEND:20180623T090000
+LOCATION: 대전평생교육진흥원 보문산 컨퍼런스홀
+DESCRIPTION:<h2 id="main-sessions">Main Sessions</h2>
+<div class="p-media-object--large">
+  <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t31.0-1/12370909_932198066849482_2821454627997189211_o.jpg?_nc_cat=0&amp;_nc_eui2=AeGXqumlDXlhjpJ5PTXi7p6jVmH3XN0o77hxJTaZ74Vjq-PIOkpRQqFzXb_sa8jVtO5r3EuioS6uAjq0Mw6VGnSvQld4WfBmWINF3lG_qMvUfg&amp;oh=fc6680cb4021667612f122805e83204c&amp;oe=5BB4CCC6" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>모바일에 딥러닝 심기</h3>
+    <p class="p-media-object__content">미정</p>
+    <p class="p-media-object__content">딥러닝과 케라스에 대해 소개하고, 실제로 케라스로 구현한 딥러닝 모델을 iOS 모바일 앱에 탑재한 개발 과정을 발표합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://lh5.googleusercontent.com/-Q792JHNLOoM/AAAAAAAAAAI/AAAAAAAAALs/cL-ddHwZ6dA/w80-h80/photo.jpg" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>기계들의 소셜 미디어, MQTT</h3>
+    <p class="p-media-object__content">신근수 - 테크플렉스</p>
+    <p class="p-media-object__content">사물 인터넷 기기 관리 표준 프로토콜 중 간단하고 신뢰성이 확보된 MQTT에 대해 간단히 알아봅니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="http://www.sweetfab.net/img/team/1.jpg" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>스타트업에서 하드웨어 개발 프로세스 도입하기</h3>
+    <p class="p-media-object__content">신하륜 - SweetFab, Inc</p>
+    <p class="p-media-object__content">소프트웨어 교육 스타트업 SweetFab 이야기. 그리고 SweetFab에서 하드웨어 개발을 하며 느낀 수많은 한계점들을 하드웨어 개발 프로세스 도입으로 보완하는 과정에 대해서 발표를 진행합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://lh3.googleusercontent.com/V23Hw6Og_3KCaogRFnhsWc2SZx_BoqGb0yoJvugNbKot_-Z9qqSoqMTOl0jGFY2_08fiIDMh1m7wIQAlHdglU56gwDXwZg01zfOp_wfENHt-OeO7CLAxJSH_AeixWxmcr3Ro3SQ1dnqqeDafVfEc_oyUmA_BaS7HT0KK7tHsWcmZg0EXlLyqgTmvvM3zT4dMM_MVNZ5Iyy_8qRTD5DGnAT77lrN3PCVZitt3XKwb2RK1M30QtfqSVuHVT1b4Uj2SpzkiSItWzFgf2vqP724wHp8NahsQCkf5l4S-qpg6g0rfPenRIaFIpPT1VMsijWMJWh8FTEWj7RR4_0gqTWbkSPvHQpVPEXz_LAtYA9-8jJtJ_n4T4MyTi4s385pBYFo2AxqrHQ0YbrKekeokRecdk296wn53h1lY0-OvyICldjBRKXFJdowxejIDaW-xG5VIgX4-6ZiJUNpC5JwwdZ-1cRgRrDZ3e0f1xq7nBsyxgxrSncsgHlmlhCF9lz89OyEN84ctV_1DOadOrGo2SIjq9wNPh-ZqoR0RU3gz8hcL0CXiwraYjkA03dkzI_n-fJxv51xYERQr4fnzQRYhw2jl2zEXNHlVTMMPYRkafyWWjEk_TWWLrqebZvhWLzbYcAxuPgjkDNxrW57rzP3xp3T5hWx0TCFD4n42MQ=s250-k-no" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Code-based design vs Model-based design</h3>
+    <p class="p-media-object__content">김한욱 - 신우이엔디</p>
+    <p class="p-media-object__content">코드기반의 소프트웨어설계와 모델기반의 소프트웨어설계의 비교 : MATLAB과 FPGA를 중심으로</p>
+  </div>
+</div>
+<h2 id="lightning-talks">Lightning Talks</h2>
+<ul>
+<li>라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.</li>
+<li>발표자별로 최대 5분간 발표를 하실 수 있으며, 시간 초과시 마이크가 다음 발표자에게 넘겨집니다.</li>
+</ul>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>참가 등록 취소를 원하시는 경우, 2018/06/22일까지 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 으로 취소 요청 메일을 보내주시기 바랍니다.
+<ul>
+<li>행사 당일에는 취소 처리를 해 드리지 않습니다.</li>
+</ul>
+</li>
+<li>주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해 주시기 바랍니다.</li>
+<li>참가 등록 시기를 놓쳐 사전에 등록을 못하셨어도, 현장에서 참가 등록을 하실 수 있습니다.</li>
+</ul>
+<h2 id="일정표">일정표</h2>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:00 ~ 13:10 (10분)</td>
+<td>등록</td>
+</tr>
+<tr>
+<td>13:10 ~ 13:20 (10분)</td>
+<td>일정안내</td>
+</tr>
+<tr>
+<td>13:20 ~ 13:40 (20분)</td>
+<td>커뮤니티 소개</td>
+</tr>
+<tr>
+<td>13:40 ~ 14:20 (40분)</td>
+<td>미정 - 모바일에 딥러닝 심기</td>
+</tr>
+<tr>
+<td>14:20 ~ 14:30 (10분)</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>14:30 ~ 15:10 (40분)</td>
+<td>신근수 - 기계들의 소셜 미디어, MQTT</td>
+</tr>
+<tr>
+<td>15:10 ~ 15:20 (10분)</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>15:20 ~ 16:00 (40분)</td>
+<td>신하륜 - 스타트업에서 하드웨어 개발 프로세스 도입하기</td>
+</tr>
+<tr>
+<td>16:00 ~ 16:10 (10분)</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>16:10 ~ 16:50 (40분)</td>
+<td>김한욱 - Code-based design vs Model-based design</td>
+</tr>
+<tr>
+<td>16:50 ~ 17:00 (10분)</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>17:00 ~ 17:20 (20분)</td>
+<td>라이트닝 토크</td>
+</tr>
+<tr>
+<td>17:20 ~ 17:40 (20분)</td>
+<td>광고 및 경품 추첨</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="후원-및-협찬">후원 및 협찬</h2>
+<ul>
+<li>TechPLEX - 장소 지원</li>
+<li>SweetFab - 비용 지원</li>
+<li>마이크로소프트웨어 - 행사 상품 지원</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2018/04/15/ubuntu-fest/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:Ubuntu 18.04 Release 축하! 부산 Tea Time
+UID:20180428T050000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20180428T050000Z
+DTSTART:20180428T050000
+DTEND:20180428T070000
+LOCATION: 패스파인더(부산시 금정구 금강로 271, 미주빌딩 3층)
+DESCRIPTION:<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>커피값(5,000)원은 개인별로 지참하셔야 합니다.</li>
+<li>커피값을 본인이 지참하시니, 당연히 주차도 본인이 부담하셔야 합니다.</li>
+<li>별도의 신청없이 참석하시면 됩니다. 즉, 별도의 참가 등록이 불필요한 행사입니다.</li>
+<li>관련 문의는 <code>sigmadram@gmail.com</code>으로 주세요.</li>
+</ul>
+<h2 id="우분투-1804-설치관련">우분투 18.04 설치관련</h2>
+<ul>
+<li>정말 설치<code>만</code> 진행합니다. 별도의 세팅이나 즐거운 환경설정은 진행하지 않습니다.</li>
+<li>함께 설치를 진행하고 하고 싶으시면 <code>노트북</code>, <code>USB</code>, Ubuntu 18.04 <code>ISO 파일</code>을 가지고 오시면 됩니다.</li>
+<li>기존에 사용하시던 노트북의 데이터는 반드시 백업하세요. 저희가 책임져드리지 않습니다.</li>
+<li>네트워크 및 하드웨어 문제로 시간이 지체되더라도 16시에 모임을 종료하게 되오니 미리 준비해오시기 바랍니다.</li>
+<li>노트북 수리는 해당 A/S 센터에서 진행하셔야 합니다. 해당 장소에서 노트북 A/S 부탁하셔도 해드릴 수 있는 분이 없습니다.</li>
+<li>회사에서 사용하는 서비스의 호환성 문제는 저희가 확답을 드릴 수 없습니다. 서비스의 호환성 문제는 우분투 포럼을 활용하세요.</li>
+</ul>
+<h2 id="티셔츠-안내">티셔츠 안내</h2>
+<ul>
+<li>우분투 18.04 출시 기념 티셔츠를 공동구매를 통해 배부합니다.</li>
+<li>티셔츠는 사전에 신청과 금액 입금을 하신 분만 받아가실 수 있습니다.</li>
+<li><a href="https://survey.ubuntu-kr.org/index.php/387149?lang=ko">여기</a> 에서 티셔츠 신청/결제 를 하실 수 있습니다.</li>
+<li>티셔츠를 주문하신 분들은 4월 28일 14시 ~ 16시까지 티타임 하는 곳으로 오셔야 합니다. 4월 28일 16시까지 가져가지 않은 티셔츠는 처분하도록 하겠습니다.</li>
+</ul>
+<h2 id="일정표">일정표</h2>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>2:00 ~ 3:00</td>
+<td>우분투 18.04 설치!</td>
+</tr>
+<tr>
+<td>3:00 ~ 3:50</td>
+<td>담소 및 아무말 대잔치!</td>
+</tr>
+<tr>
+<td>4:00 ~</td>
+<td>집으로&hellip;</td>
+</tr>
+</tbody>
+</table>
+
+URL:https://event.ubuntu-kr.org/2018/04/13/busan-18-04-teatime/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:Ubuntu 18.04 Release party in Daejeon
+UID:20180429T040000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20180429T040000Z
+DTSTART:20180429T040000
+DTEND:20180429T080000
+LOCATION: 사회적자본지원센터
+DESCRIPTION:<h2 id="main-sessions">Main Sessions</h2>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>커뮤니티 소개</h3>
+    <p class="p-media-object__content"></p>
+    <p class="p-media-object__content">우분투 한국 커뮤니티가 무엇을 하는 커뮤니티인지에 대한 소개입니다</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>활동 정리 및 안내</h3>
+    <p class="p-media-object__content"></p>
+    <p class="p-media-object__content">대전에서 지금까지 진행된 행사들과 앞으로 진행될 행사들에 대한 소개입니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>18.04소개</h3>
+    <p class="p-media-object__content"></p>
+    <p class="p-media-object__content">Ubuntu 18.04에서는 무엇이 바뀌었고 무엇이 새로 생겼는지 알아보는 시간 입니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>라이트닝 토크</h3>
+    <p class="p-media-object__content"></p>
+    <p class="p-media-object__content">일정 시간동안 본인이 하고싶은 말을 자유롭게 발표하는 시간입니다.</p>
+  </div>
+</div>
+<h2 id="lightning-talks">Lightning Talks</h2>
+<ul>
+<li>라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.</li>
+<li>발표자별로 최대 5분간 발표를 하실 수 있으며, 시간 초과시 마이크가 다음 발표자에게 넘겨집니다.</li>
+</ul>
+<h2 id="portluck-party">Portluck Party</h2>
+<ul>
+<li>포트럭 파티는 참석자들이 소량의 음식을 준비해 나눠먹는 파티입니다.</li>
+<li>간단히 먹을 수 있는 음식부터 작은 사탕이나 과자류 등 어떤 음식이라도 괜찮습니다.</li>
+</ul>
+<h3 id="예정된-발표-목록">예정된 발표 목록</h3>
+<h2 id="일정표">일정표</h2>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:00 ~ 13:30</td>
+<td>등록</td>
+</tr>
+<tr>
+<td>13:30 ~ 13:40</td>
+<td>파티 준비</td>
+</tr>
+<tr>
+<td>13:40 ~ 14:00</td>
+<td>커뮤니티 소개</td>
+</tr>
+<tr>
+<td>14:00 ~ 14:30</td>
+<td>활동정리 및 안내</td>
+</tr>
+<tr>
+<td>14:30 ~ 15:00</td>
+<td>Ubuntu 18.04소개</td>
+</tr>
+<tr>
+<td>15:00 ~</td>
+<td>라이트닝 토크 및 자유시간</td>
+</tr>
+</tbody>
+</table>
+<h2 id="기념-티셔츠">기념 티셔츠</h2>
+<ul>
+<li>
+<p>우분투 한국 커뮤니티에서는 18.04 LTS릴리즈를 기념하고자 기념티를 제작하였습니다!
+<img src="https://lh3.googleusercontent.com/cpMpCosZKQMBdzs7sqGOglMQgyRHS8OWvNpf0EUHwZ24Qam4FCxu0sGiSPFnH1gizPwWgBw3klDeFzGmRFDkaivWdqMc-_AkwfX2PMWVfdcSaR41YU3bB6IdPOAlPjALY5Wi_t0OBbrm4ZrNN5Enjg3hFP_MRN6cd1MuLbgb_nMCDA7MQwGHHe414_1rkFhs5jjZm-krqnO6Td3iSI8Y1fNU2bJJAvi7eBjZQkpPf4Popi5NM402KoxyzMlaRCxuzk3U_iFhTiE0vBKGfDFYdPV33DiyDiPTdY4cQUfxKPDI8P_HpA-jSfFPot2CzAOELWyV4Oq0Yr2STpybRyhlX6k0ZDx0w9M3jjA03obw-ZRaNM9_ag-ISh8CKBeDbtso1zl_Tlu-ScigmgvCR1z6DmuYvVSgd_eH_B1MO5EEAp-CSDheKVpqcKnOJLrVgHnJ0WnEbMMQcmtwUAMINIoSZY1Z4rkrOusllTPsaqKxzDss6tUj6jvRAlktxV7_5dCq0q6zXMYfvIbmn5_qB0-OtYCJ4BRbVxVeDHfflY2j1verKHkaooakYpv5wfARytc-kf8T237t5wQYcLu5Dfq7yqTnqOszAhmJc3VaXvZwfUVhqXh0uEvXGjKHTfzAcpgRwzV7MY2Oqxjsk_1eJGetOl-87rSwJmuH=w1204-h1278-no" alt="전면">{: width=&ldquo;50%&rdquo; height=&ldquo;50%&quot;}
+<img src="https://lh3.googleusercontent.com/0ow69TfaB8TSFThxeF2W5igRep6Sfwbd7-2CXLzuLNpckkGC-dHUIPwhGW5oyoO1mCdz7zyDUIuSdG3xTMMnptsKMQluCOh068R-Yf7WMPRvzfnblMnGVvNa91qYcXybSBpCwyS9OSOFpDofVCffKCW1Vw4B7NIoftujME4m_i6HBi9AnlGJfz_ccnoPHLVY0zEHarIU9puKWsjhDI3FhA7tO1LRzneh7pzJ_8hHMjb6GotMJRvHCphSWrbms72-4hw0HHBI6SR2JtBKio3VUfFiiyRbnxZEX7ojL-ZYxtnLOOoIYgGc_xYgg9V8B9ToVtHYQQhjtGLJNM6g5hEgAIcAICn_GeKSRZ4Rr5Nm_mNMGzef7cge_rtrnDwH-1UvJ4YvwjPjw0y--cDSPYaU9c-l2jaO6SSqU4gn4NdQPVz7CQ-hBt_2tN9D3KCtTuyNM3c4c8XoqVH8SltI1lXKbRuymXW-5podeBv_Whq9GbsqyE3qeRzLXnHwwKh4jaC7yofKzRuLz9OBwZtkJE4yAo-fXs8Ynu3QkY-0sOmGRjLWRHRr6uIKA_1fCguGBFj8ctnhHkIPibcxXSstJkAaL_t8685m2NA0yxQ0uvLy07B7qe1rQMFg0zBFHJ4zz0fa-pKMD90-9bYmLZl17sqqmsymrYyvsFPA=w1200-h1226-no" alt="후면">{: width=&ldquo;50%&rdquo; height=&ldquo;50%&quot;}</p>
+</li>
+<li>
+<p>해당 티셔츠는 따로 신청을 받아 릴리즈파티 당일에 드릴 예정입니다!</p>
+</li>
+<li>
+<p>신청은 다음 링크를 통해 신청 해 주세요
+<a href="https://survey.ubuntu-kr.org/index.php/387149?lang=ko">https://survey.ubuntu-kr.org/index.php/387149?lang=ko</a></p>
+</li>
+</ul>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>부득이한 사정으로 참석하시지 못하게 되신 경우, 4월 27일까지 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a>으로 연락을 주셔야 합니다.
+ - 등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되며, 추후 행사참석에 불이익을 받을 수 있습니다.</li>
+<li>주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해주시기 바랍니다.</li>
+<li>참가관련 문의는 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a>으로 연락 바랍니다.</li>
+</ul>
+<h2 id="후원">후원</h2>
+
+URL:https://event.ubuntu-kr.org/2018/04/02/18-04-daejeon-rel-party/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:Daejeon arm study
+UID:20180512T010000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20180512T010000Z
+DTSTART:20180512T010000
+DTEND:20180512T010000
+LOCATION: 대전대학교 융합과학관 238호
+DESCRIPTION:<p>우분투한국커뮤니티 대전팀에서 arm스터디를 준비했습니다.
+arm MCU인 ARM Cortex-M을 이용한 센서제어와 LTE-M모듈을 이용한 소물인터넷 사용에 대해 배울 예정입니다.</p>
+<h2 id="mentor">Mentor</h2>
+<div class="p-media-object--large">
+  <img src="https://lh5.googleusercontent.com/-Q792JHNLOoM/AAAAAAAAAAI/AAAAAAAAALs/cL-ddHwZ6dA/w80-h80/photo.jpg" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>소물인터넷 통신분야</h3>
+    <p class="p-media-object__content">신근수 - 우분투한국커뮤니티</p>
+    <p class="p-media-object__content">LTE-M모듈을 이용하여 통신하는 부분에 대해 멘토링 할 예정입니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>ARM 센서정보 수집담당</h3>
+    <p class="p-media-object__content">김한욱 - 신우이앤디</p>
+    <p class="p-media-object__content">ARM에서 센서정보 수집하는 부분에 대해 멘토링 할 예정입니다.</p>
+  </div>
+</div>
+<h2 id="syllabus">Syllabus</h2>
+<table>
+<thead>
+<tr>
+<th>주차</th>
+<th>스터디 주제</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1주</td>
+<td>- 컴퓨터 구조의 기초</td>
+</tr>
+<tr>
+<td>2주</td>
+<td>- 운영체제와 임베디드 시스템의 기초</td>
+</tr>
+<tr>
+<td>3주</td>
+<td>- ARM mbed설명 <!-- raw HTML omitted --> - ARM Cortex-M 크로세서 아키텍처 설명 <!-- raw HTML omitted --> - 연구자료 준비</td>
+</tr>
+<tr>
+<td>4주</td>
+<td>- GPIO(General Purpose Input/Output), 인터럽트 제어</td>
+</tr>
+<tr>
+<td>5주</td>
+<td>- 통신시스템 구현 (1)</td>
+</tr>
+<tr>
+<td>6주</td>
+<td>- 통신시스템 구현 (2)</td>
+</tr>
+<tr>
+<td>7주</td>
+<td>- ADC (A/D컨버터)의 원리 및 ADC데이터 시트 읽기 및 분석 방법 배우기</td>
+</tr>
+<tr>
+<td>8주</td>
+<td>- ADC컨트롤 연구</td>
+</tr>
+<tr>
+<td>9주</td>
+<td>- FPU의 이해 및 연구</td>
+</tr>
+<tr>
+<td>10주</td>
+<td>- 예외처리, Watchdog</td>
+</tr>
+<tr>
+<td>11주</td>
+<td>- USB시스템 구현 (1)</td>
+</tr>
+<tr>
+<td>12주</td>
+<td>- USB시스템 구현 (2)</td>
+</tr>
+<tr>
+<td>13주</td>
+<td>- LTE-M 모듈 이해</td>
+</tr>
+<tr>
+<td>14주</td>
+<td>- LTE-M 통신 구현</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>더 자세한 정보는 다음을 참고하시기 바랍니다.
+<a href="https://drive.google.com/file/d/1y660wnIlBSpQC6bNdHFJZ5lzKoRTcPp-/view?usp=sharing">Syllabus of the ARM Cortex.pdf</a></li>
+</ul>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>부득이한 사정으로 참석하지 못하시는 경우, <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a>으로 5월 10일까지 취소연락을 하셔야 합니다.
+<ul>
+<li>등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되어, 추후 행사 참석에 불이익을 받을 수 있습니다.</li>
+</ul>
+</li>
+<li>행사 사정에 따라 소정의 참가비가 발생될 . 있습니다.</li>
+<li>주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해 주시기 바랍니다.</li>
+<li>참가 관련 문의는 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a>으로 연락 바랍니다.</li>
+</ul>
+<h2 id="후원">후원</h2>
+<ul>
+<li>대전대 - 장소지원</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2018/03/29/daejeon-arm-study/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:Ubuntu 18.04 Release Party @ Seoul
+UID:20180428T041000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20180428T041000Z
+DTSTART:20180428T041000
+DTEND:20180428T090000
+LOCATION: D.CAMP(서울특별시 강남구 선릉로 551 새롬빌딩 3층 디캠프) 6층 다목적홀
+DESCRIPTION:<p>우분투한국커뮤니티와 코딩이랑 무관합니다만, 에서 우분투 18.04 릴리즈 파티 행사를 준비했습니다.
+행사를 통해 새로 출시된 우분투 18.04 에 대해서도 알아보는 시간을 가질 예정입니다.</p>
+<h2 id="main-sessions">Main Sessions</h2>
+<div class="p-media-object--large">
+  <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/10983159_648602088605489_4221303475439021180_n.jpg?oh=6e7ee9392640491ba684cdd42061793f&amp;oe=5B730432" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>미세먼지 같은 우분투 서버활용 팁</h3>
+    <p class="p-media-object__content">배준현 - 코딩이랑 무관합니다만,</p>
+    <p class="p-media-object__content">Tmux, SELINUX, crond, nohup 등의 미세먼지 같은 우분투 서버 활용에 있어서의 팁들을 다룹니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars3.githubusercontent.com/u/1916739?s=400&amp;v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>What&#39;s new in Ubuntu 18.04 LTS</h3>
+    <p class="p-media-object__content">한영빈 - 우분투한국커뮤니티 대표</p>
+    <p class="p-media-object__content">Gnome, Subiquity 등 Ubuntu 18.04 LTS 에서 새로 달라진 점에 대해 다뤄봅니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://scontent-hkg3-1.xx.fbcdn.net/v/t1.0-9/12219529_754678197972184_1324775145064339152_n.jpg?_nc_cat=0&amp;oh=dd775f79d07d5c9a8246bb6494d350fd&amp;oe=5B3951E1" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>VM이랑은 무관한 컨테이너 이야기</h3>
+    <p class="p-media-object__content">윤성국 - 코딩이랑 무관합니다만,</p>
+    <p class="p-media-object__content">LXC, LXD, Docker를 비교해 보고. 소스코드화 함께 컨테이너가 어떻게 동작하는지 그리고 Docker 이미지 레이어 버전 관리 원리에 대해 알아봅니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars1.githubusercontent.com/u/13493184?s=400&amp;v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>1분기 C&#43;&#43; 스터디 결과 보고 발표</h3>
+    <p class="p-media-object__content">정회형 - 우분투한국커뮤니티</p>
+    <p class="p-media-object__content">작년 12월 부터 올해 1월까지 진행된 C&#43;&#43; 기초 스터디 진행 결과를 발표합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://ca.slack-edge.com/T068QEXT4-U7SFL4ZP0-3341eb1dd80f-1024" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Hanjp-IM 프로젝트 진행 현황 발표</h3>
+    <p class="p-media-object__content">김광연 - 광운대학교</p>
+    <p class="p-media-object__content">Hanjp-IM 프로젝트는 한글로 일본어 발음을 입력하여 일본 가나 문자를 입력하는 입력기 엔진 프로젝트 입니다. 프로젝트에 대해 간단히 소개하고, 12월 부터 최근까지의 프로젝트 진행 상황에 대해 발표합니다.</p>
+  </div>
+</div>
+<h2 id="lightning-talks">Lightning Talks</h2>
+<ul>
+<li>라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.</li>
+<li>발표자별로 최대 5분간 발표를 하실 수 있으며, 시간 초과시 마이크가 다음 발표자에게 넘겨집니다.</li>
+</ul>
+<h3 id="예정된-발표-목록">예정된 발표 목록</h3>
+<ul>
+<li>최호경 - 국민대학교 / 코딩 시험에서 당황을 해버렸다.
+<ul>
+<li>본인이 학교 코딩 시험에서 예상치 못한 상황에 당황했던 이야기를 다루는 라이트닝 토크입니다.</li>
+</ul>
+</li>
+</ul>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>참가 등록은 Festa.io 를 통해 이뤄집니다.</li>
+<li>부득이한 사정으로 참석하지 못하시는 경우, Festa.io 에서 2018.04.27 23:59:59 까지 참가등록 취소해 주시기 바랍니다.
+<ul>
+<li>등록 취소 없이 참석하지 않으시는 경우, 노쇼(No Show)로 간주되어, 추후 행사 참석에 불이익을 받을 수 있습니다.</li>
+<li>직접 등록 취소에 어려움을 겪는 경우 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 로 문의 주시면 바로 취소 처리 해 드립니다.</li>
+</ul>
+</li>
+<li>주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해 주시기 바랍니다.</li>
+<li>참가 등록 시기를 놓쳐 사전에 등록을 못하셨어도, 현장에서 참가 등록을 하실 수 있습니다.</li>
+<li>행사 관련 문의는 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 로 해 주세요.</li>
+</ul>
+<h2 id="일정표">일정표</h2>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:00 ~ 12:40</td>
+<td>준비 및 등록확인</td>
+</tr>
+<tr>
+<td>12:40 ~ 12:50</td>
+<td>일정 안내</td>
+</tr>
+<tr>
+<td>12:50 ~ 1:30</td>
+<td>배준현 - 미세먼지 같은 우분투 서버활용 팁</td>
+</tr>
+<tr>
+<td>1:30 ~ 1:40</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>1:40 ~ 2:20</td>
+<td>한영빈 - What&rsquo;s new in Ubuntu 18.04 LTS</td>
+</tr>
+<tr>
+<td>2:20 ~ 2:30</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>2:30 ~ 3:10</td>
+<td>윤성국 - VM이랑은 무관한 컨테이너 이야기</td>
+</tr>
+<tr>
+<td>3:10 ~ 3:20</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>3:20 ~ 3:40</td>
+<td>정회형 - 1분기 C++ 스터디 결과 보고 발표</td>
+</tr>
+<tr>
+<td>3:40 ~ 4:00</td>
+<td>김광연 - Hanjp-IM 프로젝트 진행 현황 발표</td>
+</tr>
+<tr>
+<td>4:00 ~ 4:10</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>4:10 ~ 4:50</td>
+<td>Q&amp;A Session</td>
+</tr>
+<tr>
+<td>4:50 ~ 5:30</td>
+<td>라이트닝 토크</td>
+</tr>
+<tr>
+<td>5:30 ~ 6:00</td>
+<td>마무리 및 행사장 정리</td>
+</tr>
+<tr>
+<td>6:00 ~</td>
+<td>본행사(뒷풀이)</td>
+</tr>
+</tbody>
+</table>
+<h2 id="후원-및-협찬">후원 및 협찬</h2>
+<ul>
+<li>WhaTap Labs - 세미나 장소 후원</li>
+<li>Canonical - 행사 기념품 지원</li>
+<li>Festa.io - 참가 등록 시스템 제공</li>
+<li>Microsoftware - 행사 홍보 지원</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2018/03/29/ubuntu-18-04-rel-party/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:3월 데비안 패키징 워크샵
+UID:20180331T041000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20180331T041000Z
+DTSTART:20180331T041000
+DTEND:20180331T090000
+LOCATION: NAVER D2 STARTUP FACTORY(서울특별시 강남구 강남대로 382 메리츠타워 16층)
+DESCRIPTION:<h2 id="연사-정보">연사 정보</h2>
+<div class="p-media-object--large">
+  <img src="https://avatars3.githubusercontent.com/u/9694022" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>심경섭</h3>
+    <p class="p-media-object__content">펜타시큐리티</p>
+    <p class="p-media-object__content">이번 데비안 패키징 워크샵 주 발표자 입니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars1.githubusercontent.com/u/6753999" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>김진석</h3>
+    <p class="p-media-object__content">Ubuntu Korea Community - Packaging Manager</p>
+    <p class="p-media-object__content">이번 데비안 패키징 워크샵 보조 발표자 입니다.</p>
+  </div>
+</div>
+<h2 id="행사-일정">행사 일정</h2>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:30PM ~ 01:20PM</td>
+<td>사전 참가 등록자 등록 확인 및 착석</td>
+</tr>
+<tr>
+<td>01:20PM ~ 03:00PM</td>
+<td>데비안 패키징 개요 ~ 데비안 패키징 실습</td>
+</tr>
+<tr>
+<td>03:00PM ~ 03:15PM</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>03:15PM ~ 05:50PM</td>
+<td>생성된 패키지 검증 ~ Launchpad PPA 를 통한 배포</td>
+</tr>
+<tr>
+<td>05:50PM ~ 06:00PM</td>
+<td>행사 마무리 및 종료</td>
+</tr>
+</tbody>
+</table>
+<h2 id="실습-내용">실습 내용</h2>
+<ol start="0">
+<li>런치패드 가입/GPG 키 등록</li>
+<li>패키징 개요</li>
+<li><code>debian</code> 디렉토리 생성 및 내부 파일 설명</li>
+<li>패키징할 프로그래밍 언어에 따른 세부 튜닝 방법 (C/C++ 와 Python 기준)</li>
+<li>실습 (예제 코드에 <code>debian</code> 디렉토리와 파일을 만들어 패키징 전까지 만듬)</li>
+<li>만들어진 코드를 기반으로 패키지 생성 및 생성된 패키지 검증</li>
+<li>만들어진 패키지의 태그 생성 및 관리</li>
+<li>PPA 에 업로드 하기 위한 방법 및 툴 설명</li>
+<li>PPA 에 업로드 및 테스트 환경에 설치 및 설치 확인 방법</li>
+</ol>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>본 행사는 실습 행사이며, 아래와 같은 준비물을 준비해 오셔야 합니다.
+<ul>
+<li>우분투가 설치된 노트북(VirtualBox 등 가상머신으로도 가능.)</li>
+<li><a href="https://launchpad.net">Launchpad</a> 계정</li>
+<li>권장 : 네트워크 연결을 위한 장비(휴대전화 핫스팟, 포켓 WiFi 등)</li>
+</ul>
+</li>
+<li>본 행사는 노쇼(No Show) 방지를 위해, 참가 등록시 5000원의 보증금을 받습니다. 보증금은 행사 당일 출석 확인시 행사 종료 후 환급됩니다.</li>
+<li>등록 완료 한 상태에서, Festa.io 를 통해 취소 하지 않고 참석하지 않으시면 노쇼(No-Show) 로 간주하며, 추후 행사 참석에 불이익을 받을 수 있습니다. 부득이하게 참석을 못하시는 경우, 반드시 등록기간 안에 등록 취소를 해 주시기 바랍니다.</li>
+<li>행사 참가 등록은 Festa.io 를 통해 진행합니다.</li>
+<li>행사 관련 문의는 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 으로 해주시기 바랍니다.</li>
+</ul>
+<h2 id="후원-및-협찬">후원 및 협찬</h2>
+<ul>
+<li>Naver D2 - 장소 후원</li>
+<li>Festa.io - 참가 등록 시스템 제공</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2018/02/26/debian-pkg-workshop/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:CRON-a-thon
+UID:20180113T040000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20180113T040000Z
+DTSTART:20180113T040000
+DTEND:20180113T070000
+LOCATION: ELEMENT LAB
+DESCRIPTION:<p>CRON-a-thon 행사는 매월 둘째주 토요일에 진행되는 행사입니다.대전지역에 거주하는 우분투 한국 커뮤니티 회원간 친목을 위한 행사이며,<br>
+카페 등지에서 친목과 정보교류를 위한 자유로운 커뮤니케이션을 통해 대전지역 오프라인 커뮤니티를 활성화시키고,<br>
+우분투 대전지역팀의 행사 진행 의견을 받을 수 있는 시간을 가집니다.
+ELEMENT LAB 카페는 건물 2층에 위치해 있습니다.</p>
+
+URL:https://event.ubuntu-kr.org/2018/01/07/cron-a-thon-daejeon/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:우분투 한국 커뮤니티 대전 발대식 & 신년회
+UID:20180106T060000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20180106T060000Z
+DTSTART:20180106T060000
+DTEND:20180106T080000
+LOCATION: 대흥노마드
+DESCRIPTION:<p>우분투한국커뮤니티 대전 지부의 개설을 축하하는 행사 입니다.</p>
+<p>앞으로의 활동계획을 발표하고 3개의 라이트닝 토크세션과 네트워킹을 통해 앞으로 나아갔으면
+하는 방향에 대해서도 정리해보는 방향으로 진행됩니다.</p>
+<p>이후에는 신청자에 한하여 자유롭게 식사 하시면서 네트워킹도 하는 시간을 가질 예정입니다.</p>
+<h2 id="main-sessions">Main Sessions</h2>
+<ul>
+<li>대전팀 환영사 - 15:00 ~ 15:10 (10)</li>
+<li>한영빈 대표 - 15:10 ~ 15:20 (10)</li>
+<li>윤건영 부대표 - 15:20 ~ 15:30 (10)</li>
+<li>신하륜 스폰서 대표 - 15:30 ~ 15:40 (10)</li>
+<li>커뮤니티 소개 - 15:40 ~ 15:55 (15)</li>
+<li>계획 발표 - 15:55 ~ 16:05 (10)</li>
+<li>질의 응답 / 네트워킹 - 16:05 ~ 16:35 (30)</li>
+<li>청자발표 - 16:35 ~ 16:50 (15)</li>
+<li>정리 및 신년회 이동 - 16:50 ~ 17:00 (10)</li>
+</ul>
+<h2 id="참가비에-대해-기본으로-제공되는-음식-구성">참가비에 대해 기본으로 제공되는 음식 구성</h2>
+<ul>
+<li>고기 1인당 1만 원어치</li>
+</ul>
+<h2 id="후원-목록">후원 목록</h2>
+<ul>
+<li>코딩이랑 무관합니다만, 에서 간식을 후원 해 주셨습니다.</li>
+<li>마이크로 소프트웨어에서 잡지를 후원해 주셨습니다.</li>
+<li>테크플랙스에서 행사 장소를 후원해 주셨습니다.</li>
+</ul>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>신년회 참가비는 1인당 1만원 이며, 발대식 참가비는 없습니다.</li>
+<li>신년회 참가자는 계좌이체를 통해 참가비 지불까지 완료 하신 후 참가등록양식을 작성해야 신청이 완료된 것입니다.</li>
+<li>신년회 참가자가 많을경우 참여신청이 조기 종료될 수 있습니다.</li>
+<li>음식을 준비 해야하기 때문에 등록과 취소 절차가 비교적 까다로운 점 양해 바랍니다.</li>
+<li>참가 등록와 참가비 입금과 등록취소/환불은 12월 30일 까지만 가능합니다.</li>
+<li>사전에 참가 등록을 완료 하신 분들만 신년회에 참석 가능하십니다.</li>
+<li>기본 구성 외에 참가비를 초과하여 주문한 것에 대한 금액은 우분투한국커뮤니티에서 대신 결제해 주지 않습니다.
+<ul>
+<li>각 테이블 별로 나온 추가 금액은 해당 테이블 구성원 분들이 결제 하셔야 합니다.</li>
+</ul>
+</li>
+<li>참가 등록 관련 문의사항은 <a href="mailto:kimuj5090@gmail.com">kimuj5090@gmail.com</a> 으로 연락 바랍니다.</li>
+<li>신년회 참석을 희망하는 운영진 분들도 예외 없이 사전에 신청과 참가비 결제를 하셔서 등록 완료 하셔야 당일에 입장이 가능합니다.</li>
+<li>장소는 현지 사정에 따라 변동 될 수 있습니다. 변동시 메일로 공지 하겠습니다.</li>
+<li>주차공간은 지원되지 않습니다 이점 양해부탁드립니다.</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2017/12/07/year-start-party-in-daejeon/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:2017년도 송년회
+UID:20171216T090000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20171216T090000Z
+DTSTART:20171216T090000
+DTEND:20171216T130000
+LOCATION: 웰컴투합정골
+DESCRIPTION:<p>우분투한국커뮤니티의 2017년 12월 행사는 송년회로 대체합니다.<br>
+이번 송년회는 서로서로 행사에서도 자주 뵈었고, 지속적으로 교류도 해온 오픈스택 한국 커뮤니티와 공동으로 열고자 합니다.<br>
+올 한 해 동안의 활동을 간단히 정리해서 보고하는 시간을 가지고, 1~2개의 라이트닝 토크 세션(희망하는 발표자가 있는 경우에만.) 을 진행할 예정이며.<br>
+이후에는 자유롭게 식사도 하고 술도 마시면서 네트워킹도 하는 시간을 가질 예정입니다.</p>
+<h2 id="참가비에-대해-기본으로-제공되는-음식-구성">참가비에 대해 기본으로 제공되는 음식 구성</h2>
+<ul>
+<li>고기 1인당 2만원 상당</li>
+<li>테이블(5인) 당 소주 2병(기본)</li>
+<li>인원이 30명 가까이 모일 시 금액 변동 없이 추가로 제공되는 특전.
+<ul>
+<li>테이블당 소주 한병 추가</li>
+<li>테이블당 음료 두병 추가</li>
+<li>테이블당 새송이버섯 추가</li>
+</ul>
+</li>
+</ul>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>참가비는 1인당 3만원 이며, 정원은 30명 입니다.</li>
+<li>참가 등록 양식을 작성 하셔서 제출을 완료하신 후, 계좌이체를 통해 참가비 지불까지 완료 하셔야 신청이 완료된 것입니다.</li>
+<li>음식점 하나를 통째로 빌려서 진행하며, 음식을 준비 해야하기 때문에 등록과 취소 절차가 비교적 까다로운 점 양해 바랍니다.</li>
+<li>참가 등록와 참가비 입금은 12월 14일 까지 가능하며, 참가 등록 취소와 환불은 12월 8일 까지만 가능합니다.
+<ul>
+<li>12월 8일 이후 등록하신 분들은 취소가 불가능 합니다.</li>
+</ul>
+</li>
+<li>사전에 참가 등록을 완료 하였거나, 현장에서 참가비를 지불하신 분들만 입장하실 수 있습니다.</li>
+<li>기본 구성 외에 참가비를 초과하여 주문한 것에 대한 금액은 우분투한국커뮤니티에서 또는 오픈스택 한국 커뮤니티에서 대신 결제해 주지 않습니다.
+<ul>
+<li>각 테이블 별로 나온 추가 금액은 해당 테이블 구성원 분들이 결제 하셔야 합니다.</li>
+</ul>
+</li>
+<li>입금 시각 순서대로 등록 완료 처리됩니다.</li>
+<li>참가 등록 관련 문의사항은 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 으로 연락 바랍니다.</li>
+<li>각 커뮤니티(우분투한국커뮤니티, 오픈스택한국커뮤니티) 운영진 분들도 예외 없이 사전에 신청과 참가비 결제를 하셔서 등록 완료 하셔야 당일에 입장이 가능합니다!</li>
+<li>현장 등록이 가능합니다. 문 앞에서 참가비를 지불 해야만 입장 가능하며, 토스/카카오페이/계좌이체/현금 으로 지불이 가능합니다. 토스와 계좌이체를 권장합니다
+<ul>
+<li>토스 또는 카카오페이로 지불시, 운영진이 보여주는 QR 코드를 앱으로 스캔하여 지불하면 됩니다.</li>
+</ul>
+</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2017/11/28/year-end-party/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:MASOCON 2017
+UID:20171125T013000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20171125T013000Z
+DTSTART:20171125T013000
+DTEND:20171125T093000
+LOCATION: 누리꿈스퀘어 국제회의실
+DESCRIPTION:<p>이번 2017년 11월 세미나는, 마이크로소프트웨어에서 주최하는 마소콘 2017과 함께 합니다.
+우분투한국커뮤니티 소속 회원 25분을 대상으로 초청장을 드립니다.
+초청장을 받아 무료로 참석 하시려면, <strong>지금 신청하기</strong> 를 클릭하여 양식을 작성하고 제출하세요.</p>
+<p>행사 관련 자세한 정보는 <a href="http://www.imaso.co.kr/masocon2017/"><strong>MASOCON 2017 웹사이트</strong></a> 를 참고하세요.</p>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>총 25명 정원입니다.</li>
+<li>정원에 들어 초청 확정된 상태에서, 취소 없이 참석하지 않으시면 노쇼(No-Show) 로 간주하며, 추후 행사 참석에 불이익을 받을 수 있습니다.</li>
+<li>신청 취소로 충원이 필요한 경우 개별적으로 이메일로 연락 드립니다.</li>
+<li>초청장 신청 후 별도로 마소콘 웹사이트에서 등록을 하지 않으셔도 됩니다.</li>
+<li>초청 관련 문의사항이 있으시거나, 초청 신청 취소가 필요한 경우 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 으로 연락 바랍니다.</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2017/11/03/masocon2017/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:우분투한국커뮤니티 11월 대전지역 세미나
+UID:20171104T041000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20171104T041000Z
+DTSTART:20171104T041000
+DTEND:20171104T090000
+LOCATION: 토즈 TSC대전탄방센터(대전광역시 서구 계룡로 586 KMT빌딩 7층) 정액25인 부스
+DESCRIPTION:<h2 id="main-sessions">Main Sessions</h2>
+<div class="p-media-object--large">
+  <img src="https://avatars0.githubusercontent.com/u/1297346?v=4&amp;s=400" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>개발자를 위한, 윈도 10으로 시작하는 우분투 리눅스</h3>
+    <p class="p-media-object__content">남정현 - 한국 Azure 사용자 그룹, Microsoft MVP</p>
+    <p class="p-media-object__content">Windows 10 Fall Creators Update부터 정식 버전이 되는 Windows Subsystem for Linux와 이를 기반으로 하는 Ubuntu Linux 16.04 Xenial을 개발자의 관점에서 활용하는 방법과 상세한 내용을 설명합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://lh5.googleusercontent.com/-Q792JHNLOoM/AAAAAAAAAAI/AAAAAAAAALs/cL-ddHwZ6dA/w80-h80/photo.jpg" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>LTE-M을 이용한 IoT 통신</h3>
+    <p class="p-media-object__content">신근수 - (주)테크플렉스</p>
+    <p class="p-media-object__content">IoT에 대한 여러 기술 중 LTE-M에 대한 소개 및 라즈베리파이를 이용한 간단한 시연.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://media.licdn.com/media/AAEAAQAAAAAAAAMAAAAAJDE5Y2ZlMGU4LTJhNDItNDUzYi1iMDgwLTU1OTJhZjgzMTAzNQ.jpg" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>임베디드와 보안</h3>
+    <p class="p-media-object__content">박수현 - AhnLab</p>
+    <p class="p-media-object__content">임베디드 SW 와 임베디드 리눅스, 임베디드 디바이스와 펌웨어 개발, 임베디드 보안과 취약점 사례 등에 대해서 알아봅니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>FPGA 기반의 SoC 설계 이야기</h3>
+    <p class="p-media-object__content">김한욱 - 신우이앤디</p>
+    <p class="p-media-object__content">FPGA 기반의 SoC를 설계하면서 겪은 스토리와 그 해결 방안 노하우에 대한 이야기 / 디지털 논리 회로, HDL 기본서 관련 지식이 있으면 좋습니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>OpenWRT를 이용한 인터넷 공유기 개발방법</h3>
+    <p class="p-media-object__content">황재용 - 모비다임</p>
+    <p class="p-media-object__content">OpenWRT의 역사, OS 포팅 방법, 리눅스에서 공유기 기능 설명 및 포팅방법, 공유기 기능 이외에 다른 네트워크 어플리케이션 소개 및 설치 방법을 소개합니다.</p>
+  </div>
+</div>
+<h2 id="lightning-talks">Lightning Talks</h2>
+<ul>
+<li>라이트닝 토크는 사전에 발표자를 받지만, 당일 현장에서도 발표자 신청을 하실 수 있습니다.</li>
+<li>발표자별로 최대 5분간 발표를 하실 수 있으며, 시간 초과시 마이크가 다음 발표자에게 넘겨집니다.</li>
+</ul>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>참가 등록 취소를 원하시는 경우, 2017/11/03 오후 11시 59분 59초 까지 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 으로 취소 요청 메일을 보내주세요.
+<ul>
+<li>참가 등록시 입력하신 성함과 이메일 주소를 알려 주시기 바랍니다.</li>
+<li>행사 당일에는 취소 처리를 해 드리지 않습니다.</li>
+</ul>
+</li>
+<li>주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해 주시기 바랍니다.</li>
+<li>참가 등록 시기를 놓쳐 사전에 등록을 못하셨어도, 현장에서 참가 등록을 하실 수 있습니다.</li>
+<li>행사 공간이 최대 30명 쯤까지 수용 가능합니다. 꼭 참석하고 싶으시면, 빠르게 신청해 주세요. :)</li>
+</ul>
+<h2 id="일정표">일정표</h2>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:30 ~ 1:10</td>
+<td>준비 및 등록</td>
+</tr>
+<tr>
+<td>1:10 ~ 1:20</td>
+<td>일정 안내</td>
+</tr>
+<tr>
+<td>1:20 ~ 2:00</td>
+<td>남정현 - 개발자를 위한, 윈도 10으로 시작하는 우분투 리눅스</td>
+</tr>
+<tr>
+<td>2:00 ~ 2:10</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>2:10 ~ 2:40</td>
+<td>신근수 - LTE-M을 이용한 IoT 통신</td>
+</tr>
+<tr>
+<td>2:40 ~ 2:50</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>2:50 ~ 3:30</td>
+<td>박수현 - 임베디드와 보안</td>
+</tr>
+<tr>
+<td>3:30 ~ 3:40</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>3:40 ~ 4:10</td>
+<td>김한욱 - FPGA 기반의 SoC 설계 이야기</td>
+</tr>
+<tr>
+<td>4:10 ~ 4:20</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>4:20 ~ 5:00</td>
+<td>황재용 - OpenWRT를 이용한 인터넷 공유기 개발방법</td>
+</tr>
+<tr>
+<td>5:00 ~ 5:10</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>5:10 ~ 5:40</td>
+<td>Q&amp;A Session</td>
+</tr>
+<tr>
+<td>5:40 ~ 6:00</td>
+<td>라이트닝 토크</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="후원-및-협찬">후원 및 협찬</h2>
+<ul>
+<li>Microsoft Korea - 장소 및 연사 지원</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2017/09/19/november-daejeon-seminar/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:우분투한국커뮤니티 * 한국Azure사용자그룹 9월 연합세미나
+UID:20170916T050000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20170916T050000Z
+DTSTART:20170916T050000
+DTEND:20170916T090000
+LOCATION: 한국마이크로소프트 (서울특별시 종로구 종로1길 50 더케이트윈타워 A동 11층)
+DESCRIPTION:<h2 id="main-sessions">Main Sessions</h2>
+<div class="p-media-object--large">
+  <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/21432861_1646439345380103_4204884710733016493_n.jpg?oh=191f80ebd661f522ef2d7fd03cfc3dbd&amp;oe=5A4CB23F" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>New &amp; Change Ubuntu on Windows 10(Ver.1709)</h3>
+    <p class="p-media-object__content">박성기 - 한국Azure사용자그룹, 한국Surface사용자그룹, Microsoft MVP(Windows and Device for IT)</p>
+    <p class="p-media-object__content">곧 출시 될 Windows 10 Ver.1709 부터 정식버전이 되는 Windows Subsystem for Linux 의 Ubuntu 지원변경의 배경과 변경내역을 설명합니다. 또한 Client Hyper-V 의 변경사항을 통한 Ubuntu VM 생성 및 관리팁 그리고 Azure 환경에서의 Ubuntu 환경에 대한 최신정보 또한 정리하여 설명합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars0.githubusercontent.com/u/1297346?v=4&amp;s=400" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>닷넷 코어 2.0 실전 서비스 운용담 그리고...</h3>
+    <p class="p-media-object__content">남정현 - 한국 Azure 사용자 그룹, Microsoft MVP</p>
+    <p class="p-media-object__content">마이크로소프트가 닷넷 에코 시스템에 변화를 주기 위하여 새롭게 꺼내든 카드 닷넷 코어의 최신 버전인 닷넷 코어 2.0으로 처음 상용 서비스를 런칭한 경험담을 소개합니다. 그리고 15년간 검증된 오래된 새로운 기술인 닷넷 기술이 어떻게 리눅스 환경에서 사용될 수 있는지에 대한 인사이트를 전달합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars3.githubusercontent.com/u/2038544?v=4&amp;s=400" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Bash, Azure CLI, Juju 로 Azure 관리해보기</h3>
+    <p class="p-media-object__content">장태희 - 우분투한국커뮤니티 Adviser, Microsoft MVP(Cloud and Datacenter Management)</p>
+    <p class="p-media-object__content">Bash의 많은 명령어 중 grep을 중심으로 간단하게 활용법에 대하여 알아봅니다. Azure CLI 2.0의 설치 변경 사항과 기본적인 사용법을 간략하게 안내 해 드립니다. Open source orchestration tool인 Juju에 대하여 알아보고, 개념과 기본적인 활용법을 시연합니다. 작년에 가장 많이 나온 질문사항인 Bash on Ubuntu on Windows에서 Docker 구동방법에 대하여 말씀드립니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars2.githubusercontent.com/u/553900?v=4&amp;s=400" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Ubuntu 17.10 의 새로운 변화</h3>
+    <p class="p-media-object__content">한상곤 - 우분투한국커뮤니티 Contents Creator, Microsoft MVP(Visual Studio and Development Technologies)</p>
+    <p class="p-media-object__content">우분투 17.10의 대표적인 변화에 대해서 조금 자세히 소개하고 설명합니다. 이번 17.10에서 변화된 내용을 통해서 우리가 함께 주목해야 할 점과 새로운 변화가 가져올 의미를 함께 나눠 볼 수 있도록 준비하였습니다. 새롭게 출시될 LTS(18.04)와 새로운 변화를 기대하는 모든 분들과 함께 하길 기원합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars3.githubusercontent.com/u/1916739?v=4&amp;s=400" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Snaps on Ubuntu Desktop</h3>
+    <p class="p-media-object__content">한영빈 - 우분투한국커뮤니티 대표</p>
+    <p class="p-media-object__content">Snap 패키지에 대해 알아보고, 기존 리눅스 패키지와 비교해보는 시간을 가집니다. 최근 우분투 데스크탑 에서의 Snap 의 근황도 함께 알아봅니다.</p>
+  </div>
+</div>
+<hr>
+<h2 id="lightning-talks">Lightning Talks</h2>
+<ul>
+<li>예정된 발표자 : 최영락, 최원석</li>
+<li>라이트닝 토크는 행사 당일에도 발표자로 접수할 수 있습니다.</li>
+</ul>
+<hr>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>참가 등록 취소를 원하시는 경우, 2017/09/15 오후 11시 59분 59초 까지 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 으로 취소 요청 메일을 보내주세요.
+<ul>
+<li>참가 등록시 입력하신 성함과 이메일 주소를 알려 주시기 바랍니다.</li>
+<li>행사 당일 아침에는, 참가 등록자 명단을 확정하여 행사 스태프 분들과 공유해야 하기 때문에 취소 처리를 해 드리기 어렵습니다.</li>
+</ul>
+</li>
+<li>주차 지원을 해 드리지 않습니다. 되도록이면 대중교통을 이용해 주시기 바랍니다.</li>
+<li>유선 밎 무선 네트워크를 제공하지 않습니다.</li>
+<li>참가 등록 시기를 놓쳐 사전에 등록을 못하셨어도, 현장에서 참가 등록을 하실 수 있습니다.</li>
+</ul>
+<hr>
+<h2 id="일정표">일정표</h2>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>Track A</th>
+<th>Track B</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:30 ~ 14:00</td>
+<td>참가 등록 확인</td>
+<td></td>
+</tr>
+<tr>
+<td>14:00 ~ 14:10</td>
+<td>행사 일정 안내</td>
+<td></td>
+</tr>
+<tr>
+<td>14:10 ~ 14:50</td>
+<td>New &amp; Change Ubuntu on Windows 10(Ver.1709) - 박성기</td>
+<td></td>
+</tr>
+<tr>
+<td>14:50 ~ 15:00</td>
+<td>휴식 및 공간 분리</td>
+<td></td>
+</tr>
+<tr>
+<td>15:00 ~ 15:40</td>
+<td>닷넷 코어 2.0 실전 서비스 운용담 그리고&hellip; - 남정현</td>
+<td>Ubuntu 17.10의 새로운 변화 - 한상곤</td>
+</tr>
+<tr>
+<td>15:40 ~ 15:50</td>
+<td>휴식</td>
+<td></td>
+</tr>
+<tr>
+<td>15:50 ~ 16:30</td>
+<td>Bash, Azure Cli, Juju로 Azure 관리해보기 - 장태희</td>
+<td>Snap on Ubuntu Desktop - 한영빈</td>
+</tr>
+<tr>
+<td>16:30 ~ 16:40</td>
+<td>휴식 및 공간 병합</td>
+<td></td>
+</tr>
+<tr>
+<td>16:40 ~ 17:10</td>
+<td>라이트닝 토크</td>
+<td></td>
+</tr>
+<tr>
+<td>17:10 ~ 17:20</td>
+<td>휴식</td>
+<td></td>
+</tr>
+<tr>
+<td>17:20 ~ 17:50</td>
+<td>Q&amp;A Session</td>
+<td></td>
+</tr>
+<tr>
+<td>17:50 ~ 18:00</td>
+<td>행사 마무리</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="후원-및-협찬">후원 및 협찬</h2>
+<ul>
+<li>한국마이크로소프트 개발자 커뮤니티 지원 프로그램 멜팅팟 - 장소 지원</li>
+<li>Jabra Korea &amp; JCS - 장비지원</li>
+<li>한빛미디어 - 도서협찬</li>
+<li>마이크로소프트웨어 - 도서협찬</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2017/08/25/ubuntu-kr-krazure-joint-seminar/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:우분투한국커뮤니티 번역 워크샵
+UID:20170819T040000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20170819T040000Z
+DTSTART:20170819T040000
+DTEND:20170819T090000
+LOCATION: 토즈 강남토즈타워점 (서울특별시 강남구 강남대로84길 24-4) 대형부스B
+DESCRIPTION:<p>우분투한국커뮤니티 번역 워크샵 입니다.
+우분투 번역에 기여하는 방법을 알아보고, 직접 번역에 참여도 해보는 실습 행사입니다.
+소프트웨어 번역에 관심이 있고, 우분투 번역에 참여해 보고 싶으시다면 누구든지 참석할 수 있습니다.
+참석 하시는 분들은 각자 개인 노트북을 지참 하셔야 합니다.</p>
+<ul>
+<li>일시 : 2017년 8월 19일 오후 12시 ~ 오후 6시</li>
+<li>장소 : 토즈 강남토즈타워점 대형부스B</li>
+<li>장소 지원 : 마이크로소프트 개발자 커뮤니티 지원 프로그램 멜팅팟</li>
+</ul>
+<div class="p-media-object--large">
+  <img src="https://avatars0.githubusercontent.com/u/12551635?v=4&amp;s=400" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>신민욱</h3>
+    <p class="p-media-object__content">우분투한국커뮤니티 Wiki Provider &amp; l10n</p>
+    <p class="p-media-object__content"></p>
+  </div>
+</div>
+<h3 id="일정">일정</h3>
+<ul>
+<li>12:30 ~ 13:00 / 30분 : 신청자 확인</li>
+<li>13:00 ~ 13:20 / 20분 : 커뮤니티 소개 / 번역팀 소개 / 번역팀 규정 소개</li>
+<li>13:20 ~ 13:50 / 30분 : 런치패드에 대한 간단한 소개, 런치패드에 가입하기</li>
+<li>13:50 ~ 14:05 / 15분 : 휴식</li>
+<li>14:05 ~ 15:05 / 60분 : 런치패드 우분투 번역팀에 가입하기</li>
+<li>GPG 키 생성하기 - 이미 등록한 참가자는 다른사람 돕기</li>
+<li>Ubuntu Code of Conduct 에 서명하는 방법</li>
+<li>로컬팀 / 번역팀에 가입 요청하기</li>
+<li>메일링 가입하는 방법</li>
+<li>15:05 ~ 15:20 / 15분 : 휴식</li>
+<li>15:20 ~ 15:40 / 20분 : 번역에 참여하는 방법</li>
+<li>런치패드 웹 인터페이스에서 번역하기 - 권장</li>
+<li>파일 다운로드 받아서 직접 번역 - 간단히 설명만</li>
+<li>15:40 ~ 16:00 / 20분 : 번역 할 때 주의해야 할 사항</li>
+<li>항상 번역팀 규정 숙지</li>
+<li>번역기 번역 결과를 붙여놓지 맙시다 - 일본 번역팀 사례 소개</li>
+<li>번역 주기/일정 소개</li>
+<li>16:00 ~ 16:10 / 10분 : 카르마 쌓는 방법</li>
+<li>16:10 ~ 16:25 / 15분 : 휴식</li>
+<li>16:25 ~ 17:05 / 40분 : 각자 직접 번역해보기</li>
+<li>17:05 ~ 17:15 / 10분 : 쌓인 카르마 확인</li>
+<li>17:30 : 일정 마무리</li>
+</ul>
+<p>안내사항 :</p>
+<ul>
+<li>노쇼 방지를 위해 보증금 명목으로 참가비 5천원을 받습니다. 카드로만 결제 가능하며, 당일 행사 출석시 행사 종료 후 1~3 영업일 안으로 결제 취소를 통해 환불 처리 됩니다.</li>
+<li>참가 확정 상태에서, 참가 취소 없이 참석하지 않으시는 경우, 참가비를 환불해 드리지 않습니다.</li>
+<li>행사 종료 때 까지 참가 확정자로 선정되지 못해 참석하지 못한 대기자 분들은, 마찬가지로 행사 종료 후 1~3 영업일 내로 결제 취소를 통해 환불 처리 됩니다.</li>
+<li>신청기간중 신청 취소를 원하시는 분들은 <a href="http://onoffmix.com/service/guide/eventAttend/cancel">여기를 클릭하면 나오는 안내</a>를 참고하셔서 취소해주시기 바랍니다.</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2017/08/19/ubuntu-kr-l10n-workshop/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:우분투한국커뮤니티 7월 정기세미나 - 정보보안과 사물인터넷
+UID:20170729T040000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20170729T040000Z
+DTSTART:20170729T040000
+DTEND:20170729T090000
+LOCATION: 토즈 강남토즈타워점 (서울특별시 강남구 강남대로84길 24-4) 대형부스C
+DESCRIPTION:<p>우분투한국커뮤니티 7월 정기 세미나 입니다.
+이번달 세미나는 &ldquo;정보보안과 사물인터넷&quot;을 주제로 진행합니다.</p>
+<ul>
+<li>장소 : 토즈 강남토즈타워점 대형부스C</li>
+<li>도로명 주소 : 서울시 강남구 강남대로84길 24-4</li>
+<li>지번 주소 : 서울시 강남구 역삼동 827-3</li>
+<li>일시 : 2017년 07월 29일 오후 1시30분 ~ 오후 6시00분</li>
+<li>참여대상 : 우분투에 관심이 있는 사람이라면 누구나 참여 가능.</li>
+<li>기념품 : 노트북 스티커 등</li>
+<li>장소지원 : Microsoft Melting Pot 개발자 커뮤니티 지원 프로그램</li>
+</ul>
+<h2 id="main-sessions">Main Sessions</h2>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>우분투 데스크탑을 이용한 Maker 활동기</h3>
+    <p class="p-media-object__content">이호민 - KossLab</p>
+    <p class="p-media-object__content">Maker 활동에 우분투만을 이용한 후기 공유. eaglel, librecad, cura 등 사용하고 있는 프로그램 소개</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Msp430을 활용한 마이크로마우스</h3>
+    <p class="p-media-object__content">김준호 - 동국대학교</p>
+    <p class="p-media-object__content">Maker 활동에 우분투만을 이용한 후기 공유. eaglel, librecad, cura 등 사용하고 있는 프로그램 소개</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Basic Webhacking</h3>
+    <p class="p-media-object__content">이예랑 - Ultraindex</p>
+    <p class="p-media-object__content">PHP 환경의 다양한 웹해킹 공격 방법을 소개하려고 합니다. 첫번째로 SQL Injection의 다양한 환경에서 발생하는 취약점의 원리와 상황의 따른 SQL INJECTION 공격 방법 예제등 포괄적인 공격 기법을 발표 후 php LFI 및 RFI의 공격 기법 설명 후 와일드 카드 및 php 래퍼를 이용한 LFI or RFI 를 이용한 Remote code Execution을 시연하도록 하겠습니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>2분기 스터디 결과 보고</h3>
+    <p class="p-media-object__content">김수영, 최용</p>
+    <p class="p-media-object__content">Mail Server &amp; DNS Server Building Study, Basic Mathematics Study</p>
+  </div>
+</div>
+<h2 id="lighting-talks">Lighting Talks</h2>
+<ul>
+<li>윤건영 - Git 알못의 Git 더 잘쓰기</li>
+<li>한영빈 - Slack 과 IRC 연동하기</li>
+<li>정희형 - 변태적인 터미널 사용 방법</li>
+</ul>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>라이트닝 토크의 경우, 당일 발표를 원하시면 현장에서 발표자로 접수 가능합니다.</li>
+<li>세미나 일정은 당일 사정에 따라 변경될 수 있습니다.</li>
+<li>주차를 따로 지원해 드리지 않습니다. 대중교통 이용을 권장합니다.</li>
+<li>세미나 이후 본행사(뒷풀이) 가 있습니다. 회비는 성인 2만원, 중/고등학생 5천원 입니다. 당일 현금으로 걷으니 뒷풀이 까지 참석하시는 분들은 준비해 주시기 바랍니다.</li>
+</ul>
+
+URL:https://event.ubuntu-kr.org/2017/07/07/ubuntu-kr-july-seminar/
+END:VEVENT
+END:VCALENDAR

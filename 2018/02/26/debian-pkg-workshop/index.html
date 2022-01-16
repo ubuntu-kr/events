@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="apple-touch-icon" sizes="180x180" href='/img/favicon/apple-touch-icon.png'>
+    <link rel="icon" type="image/png" sizes="32x32" href='/img/favicon/favicon-32x32.png'>
+    <link rel="icon" type="image/png" sizes="16x16" href='/img/favicon/favicon-16x16.png'>
+    <title>3월 데비안 패키징 워크샵 | 우분투 한국 커뮤니티 행사</title>
+    
+    <meta property="og:site_name" content="우분투 한국 커뮤니티 행사" />
+    <meta property="og:title" content="3월 데비안 패키징 워크샵" />
+
+    
+    <link rel="stylesheet" href="https://event.ubuntu-kr.org/sass/theme.min.1eea6cc90470128ca8ed34d2551624c845b5a822ec11b5bf023b8d6b94fa3dd3.css">
+</head><body>
+
+<header id="navigation" class="p-navigation is-dark">
+  <div class="p-navigation__row">
+    <div class="p-navigation__banner">
+      <div class="p-navigation__logo">
+        <a class="p-navigation__item" href="/">
+          <img class="p-navigation__image" src="/img/logo.svg" alt="우분투 한국 커뮤니티 행사">
+        </a>
+      </div>
+      <a href="#navigation" class="p-navigation__toggle--open" title="menu">Menu</a>
+      <a href="#navigation-closed" class="p-navigation__toggle--close" title="close menu">Close menu</a>
+    </div>
+    <nav class="p-navigation__nav" aria-label="Example sub navigation">
+      <ul class="p-navigation__items">
+        
+          
+          <li class="p-navigation__item">
+            <a class="p-navigation__link" href="/">행사</a>
+          </li>
+          
+        
+          
+          <li class="p-navigation__item">
+            <a class="p-navigation__link" href="/events/index.ics">일정 구독(ICS)</a>
+          </li>
+          
+        
+      </ul>
+     
+     <ul class="p-navigation__items">
+        <li class="p-navigation__item--dropdown-toggle" id="link-4">
+          <a class="p-navigation__link" aria-controls="account-menu">
+            🌏
+          </a>
+          <ul class="p-navigation__dropdown--right" id="account-menu" aria-hidden="true">
+            
+            
+            <li>
+              <a href="https://event.ubuntu-kr.org/2018/02/26/debian-pkg-workshop/" class="p-navigation__dropdown-item">📄 한국어</a>
+            </li>
+            
+            
+            <li>
+              <a href="https://event.ubuntu-kr.org/" class="p-navigation__dropdown-item">🏠 한국어</a>
+            </li>
+            
+            <li>
+              <a href="https://event.ubuntu-kr.org/en/" class="p-navigation__dropdown-item">🏠 English</a>
+            </li>
+            
+            
+          </ul>
+        </li>
+        <li class="p-navigation__item--dropdown-toggle" id="link-4">
+          <a class="p-navigation__link" aria-controls="account-menu">
+            🔗
+          </a>
+          <ul class="p-navigation__dropdown--right" id="account-menu" aria-hidden="true">
+            
+            <li>
+              <a href="https://ubuntu-kr.org" class="p-navigation__dropdown-item">홈페이지</a>
+            </li>
+            
+            <li>
+              <a href="https://forum.ubuntu-kr.org" class="p-navigation__dropdown-item">포럼</a>
+            </li>
+            
+            <li>
+              <a href="https://wiki.ubuntu-kr.org" class="p-navigation__dropdown-item">위키</a>
+            </li>
+            
+            <li>
+              <a href="https://ubuntu-kr.github.io/workshops/" class="p-navigation__dropdown-item">튜토리얼</a>
+            </li>
+            
+            <li>
+              <a href="https://blog.ubuntu-kr.org" class="p-navigation__dropdown-item">블로그</a>
+            </li>
+            
+            <li>
+              <a href="https://ask.ubuntu-kr.org" class="p-navigation__dropdown-item">Ask Ubuntu KR</a>
+            </li>
+            
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<div id="content">
+
+
+<main>
+  <section class="p-strip--image main-strip"
+    }
+    style="background-image:url('https://lh3.googleusercontent.com/I9OGwLKVa5muJvlGSs1j3UgieyZ3UGoHpTWiPyx4bg8K1aym5EgYA37X3Kbf4iILYtn5htEVgD91NMJJNiPOHghjYDEgy5uOxo_3YL2jf7wrRM3buBmv1zyo4fr_pSxKicDz7PTGEOsvwGBYnzI1TeRdKyOkxPqgW-Uxl3dmJYlDyPAv4KbyboBh_VrHqhvS0TOMvEiAcQ34pd0dHy4CdMoSe7eTjK-36Y85H_CITtH9Ld8ELaZvnAgdGcCIJpeQ5GtEMVY9hpR9DC1yYKAZLvvWxuOU9VXFCwC7QaQnzV_TRV1lsqHSwYiJLGN-VVDGaKyIJzclkZiiwUaAmks1iFXJ78prUlN22oSS0NjbiV022xNcFVgrlFjpIHwq0062leQwqKYMXFRZAQknbwE81OM9mXAuussiXgOXWVKCF19_D2TMqlP_Rwh6tUssgBVuWyElu0n-O5_QhTd_6ZOh9oIBSUBoG66IbGfqXV3AaxrakwgfX5bCVs6Qs548lUMoAMOPShUoNX5Bh0DyklQsNFWxmoS_n_hZgvI6B0NmVAnKU7ZdmJ8ZcINMZoRK53C9Vj7BJPVCjHjhvuzmBZX_PLAVRvFepXOrcMLQCxvvY90VRZxRoIPTPlh5fks4Z2jH7BRn0-rPNhDaHawhBu9LzTJtMa_LBPcj=s1606-no'); background-position: center; background-repeat: no-repeat; background-size: cover;"
+    >
+      <div class="row">
+        
+        <div class="col-6">
+          <div class="p-card--overlay">
+            <div class="p-media-object">
+              <div class="p-media-object__details">
+                <h2>3월 데비안 패키징 워크샵</h2>
+                <p class="p-media-object__content">우분투 환경에서 소프트웨어를 데비안 패키지로 만들어 보고, 개인 PPA 에 직접 올려보기도 하는 실습을 합니다</p>
+                <ul class="p-media-object__meta-list">
+                  <li class="p-media-object__meta-list-item--date">
+                    <span class="u-off-screen">일시: </span>
+                    <u class="timedisplay" style="text-decoration-style: dotted;">2018-03-31T04:10:00&#43;00:00</u>
+                    
+                    <span>~</span>
+                    <u class="timedisplay" style="text-decoration-style: dotted;">2018-03-31T09:00:00&#43;00:00</u>
+                    
+                  </li>
+                  <li class="p-media-object__meta-list-item--venue">
+                    <span class="u-off-screen">위치: </span>NAVER D2 STARTUP FACTORY(서울특별시 강남구 강남대로 382 메리츠타워 16층)
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+  </section>
+  <div class="p-strip--light">
+    <div class="row">
+      <div class="row u-vertically-center">
+        <div class="col-8 ticket-info">
+          <ul>
+            <li>
+              <i class="fas fa-ticket-alt"></i> 5000 KRW(보증금)
+            </li>
+            <li>
+              <i class="far fa-clock"></i>
+               <span id="submitPeriodTxt">
+                
+                <u class="timedisplay" style="text-decoration-style: dotted;">2018-02-28T15:00:00&#43;00:00</u>
+                ~ <u class="timedisplay" style="text-decoration-style: dotted;">2018-03-30T14:59:59&#43;00:00</u>
+                </span>
+            </li>
+          </ul>
+        </div>
+        <div class="col-4">
+          <a class="p-button--neutral" href="https://festa.io/events/15" role="button" id="ticketBtn">
+            <i class="fas fa-ticket-alt"></i> <b id="ticketBtnTxt">지금 신청하기</b></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <section class="p-strip">
+  <div class="row">
+  <h2 id="연사-정보">연사 정보</h2>
+<div class="p-media-object--large">
+  <img src="https://avatars3.githubusercontent.com/u/9694022" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>심경섭</h3>
+    <p class="p-media-object__content">펜타시큐리티</p>
+    <p class="p-media-object__content">이번 데비안 패키징 워크샵 주 발표자 입니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars1.githubusercontent.com/u/6753999" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>김진석</h3>
+    <p class="p-media-object__content">Ubuntu Korea Community - Packaging Manager</p>
+    <p class="p-media-object__content">이번 데비안 패키징 워크샵 보조 발표자 입니다.</p>
+  </div>
+</div>
+<h2 id="행사-일정">행사 일정</h2>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:30PM ~ 01:20PM</td>
+<td>사전 참가 등록자 등록 확인 및 착석</td>
+</tr>
+<tr>
+<td>01:20PM ~ 03:00PM</td>
+<td>데비안 패키징 개요 ~ 데비안 패키징 실습</td>
+</tr>
+<tr>
+<td>03:00PM ~ 03:15PM</td>
+<td>휴식</td>
+</tr>
+<tr>
+<td>03:15PM ~ 05:50PM</td>
+<td>생성된 패키지 검증 ~ Launchpad PPA 를 통한 배포</td>
+</tr>
+<tr>
+<td>05:50PM ~ 06:00PM</td>
+<td>행사 마무리 및 종료</td>
+</tr>
+</tbody>
+</table>
+<h2 id="실습-내용">실습 내용</h2>
+<ol start="0">
+<li>런치패드 가입/GPG 키 등록</li>
+<li>패키징 개요</li>
+<li><code>debian</code> 디렉토리 생성 및 내부 파일 설명</li>
+<li>패키징할 프로그래밍 언어에 따른 세부 튜닝 방법 (C/C++ 와 Python 기준)</li>
+<li>실습 (예제 코드에 <code>debian</code> 디렉토리와 파일을 만들어 패키징 전까지 만듬)</li>
+<li>만들어진 코드를 기반으로 패키지 생성 및 생성된 패키지 검증</li>
+<li>만들어진 패키지의 태그 생성 및 관리</li>
+<li>PPA 에 업로드 하기 위한 방법 및 툴 설명</li>
+<li>PPA 에 업로드 및 테스트 환경에 설치 및 설치 확인 방법</li>
+</ol>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>본 행사는 실습 행사이며, 아래와 같은 준비물을 준비해 오셔야 합니다.
+<ul>
+<li>우분투가 설치된 노트북(VirtualBox 등 가상머신으로도 가능.)</li>
+<li><a href="https://launchpad.net">Launchpad</a> 계정</li>
+<li>권장 : 네트워크 연결을 위한 장비(휴대전화 핫스팟, 포켓 WiFi 등)</li>
+</ul>
+</li>
+<li>본 행사는 노쇼(No Show) 방지를 위해, 참가 등록시 5000원의 보증금을 받습니다. 보증금은 행사 당일 출석 확인시 행사 종료 후 환급됩니다.</li>
+<li>등록 완료 한 상태에서, Festa.io 를 통해 취소 하지 않고 참석하지 않으시면 노쇼(No-Show) 로 간주하며, 추후 행사 참석에 불이익을 받을 수 있습니다. 부득이하게 참석을 못하시는 경우, 반드시 등록기간 안에 등록 취소를 해 주시기 바랍니다.</li>
+<li>행사 참가 등록은 Festa.io 를 통해 진행합니다.</li>
+<li>행사 관련 문의는 <a href="mailto:korea.ubuntu@gmail.com">korea.ubuntu@gmail.com</a> 으로 해주시기 바랍니다.</li>
+</ul>
+<h2 id="후원-및-협찬">후원 및 협찬</h2>
+<ul>
+<li>Naver D2 - 장소 후원</li>
+<li>Festa.io - 참가 등록 시스템 제공</li>
+</ul>
+
+  </div>
+  </section>
+  
+  <section class="p-strip">
+    <div class="row">
+      
+      <h2>지도</h2>
+      <iframe
+        id="google_maps"
+        width="500" height="500"
+        frameborder="0" style="border:0"
+        src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAlFGcj4Yqrvr2cvFh7-TSN1EfaO1OK53Y&q=%eb%a9%94%eb%a6%ac%ec%b8%a0%ed%83%80%ec%9b%8c" allowfullscreen>
+      </iframe>
+      <script>
+        var width = document.getElementById('contents').offsetWidth - 40;
+        var gmaps = document.getElementById('google_maps');
+        gmaps.width = width;
+        gmaps.height = width * (3/5);
+      </script>
+      
+    </div>
+    </section>
+    
+  <section class="p-strip">
+    <div class="row">
+      <footer class="p-article-pagination">
+        
+        <a class="p-article-pagination__link--previous" href="/2018/01/07/cron-a-thon-daejeon/">
+          <span class="p-article-pagination__label">이전</span>
+          <span class="p-article-pagination__title">CRON-a-thon</span>
+        </a>
+        
+        
+        <a class="p-article-pagination__link--next" href="/2018/03/29/ubuntu-18-04-rel-party/">
+          <span class="p-article-pagination__label">다음</span>
+          <span class="p-article-pagination__title">Ubuntu 18.04 Release Party @ Seoul</span>
+        </a>
+        
+      </footer>
+    </div>
+  </section>
+</main>
+<script>
+  window.addEventListener('load', setBtnState());
+  function setBtnState(){
+    console.log("Setting Button State");
+    let requiresRegistration =  true ;
+    let isTicketLinkExists =  true ;
+    let submitStart =  Date.parse("2018-02-28T15:00:00\u002b00:00"); 
+    let submitEnd =  Date.parse("2018-03-30T14:59:59\u002b00:00"); 
+    let startTime =  Date.parse("2018-03-31T04:10:00\u002b00:00"); 
+    let endTime =  Date.parse("2018-03-31T09:00:00\u002b00:00"); 
+    let now = new Date(Date.now());
+
+    let ticketBtn = document.getElementById('ticketBtn');
+    let ticketBtnTxt = document.getElementById('ticketBtnTxt');
+    let submitPeriodTxt = document.getElementById('submitPeriodTxt');
+
+    if(now > submitEnd || now < submitStart || now > startTime || !isTicketLinkExists || !requiresRegistration){
+      console.log("Disabling Button");
+      ticketBtn.className += " is--disabled";
+      ticketBtn.setAttribute("aria-disabled", "true");
+      ticketBtn.setAttribute("href", "#");
+    }
+
+    if(now < startTime && !requiresRegistration){
+      ticketBtnTxt.innerHTML = "등록 불필요"
+    }else if(requiresRegistration){
+      
+      if(now < submitStart || !isTicketLinkExists){
+        ticketBtnTxt.innerHTML = "준비중"
+        submitPeriodTxt.innerHTML = "2018-02-28T15:00:00\u002b00:00 ~"
+      }else if(now > submitStart && now < submitEnd){
+        submitPeriodTxt.innerHTML = "~ 2018-03-30T14:59:59\u002b00:00"
+      }else if(now > submitEnd && now < endTime){
+        ticketBtnTxt.innerHTML = "신청 마감됨"
+        submitPeriodTxt.innerHTML = "참가 등록이 마감되었습니다."
+      }
+      
+    }
+
+    if(now > startTime && now < endTime){
+      ticketBtnTxt.innerHTML = "행사 시작됨"
+    }else if(now > endTime){
+      ticketBtnTxt.innerHTML = "행사 종료됨"
+      submitPeriodTxt.innerHTML = "종료된 행사입니다."
+    }
+  }
+
+  window.onload = setBtnState;
+</script>
+
+        </div><section class="p-strip--accent">
+  <div class="row">
+    <div class="col-12">
+      <h2>우분투 한국 커뮤니티 행사</h2>
+      <ul class="p-inline-list--middot is-dark">
+        <li class="p-inline-list__item">
+          <a href="mailto:contact@ubuntu-kr.org">운영진과 연락하기(이메일)</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://fb.com/ubuntukorea">Facebook</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://twitter.com/UbuntuKrOrg">Twitter</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://www.youtube.com/user/UbuntuKorea">YouTube</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://github.com/ubuntu-kr">GitHub</a>
+        </li>
+        <li class="p-inline-list__item">
+          <a href="https://launchpad.net/~ubuntu-ko">Launchpad</a>
+        </li>
+      </ul>
+      <p>© 2021 우분투 한국 커뮤니티 (우분투 한국 로컬 커뮤니티 팀). 별도 고지가 있는 경우를 제외하고, 웹 사이트 소스코드는 MIT, 웹 사이트의 컨텐츠는 CC BY-SA 4.0 라이선스로 이용 가능합니다. Ubuntu 및 Canonical 은 Canonical Ltd. 의 등록 상표입니다.</p>
+      <a href="https://github.com/ubuntu-kr/event.ubuntu-kr.org">GitHub에서 소스코드 보기</a>
+    </div>
+  </div><script type="text/javascript" src='/js/ubuntukr.js'></script>
+<script type="text/javascript" src='/js/timedisplay.js'></script>
+<script>
+
+let slides = document.getElementsByClassName("main-slide");
+let index = 0;
+let count = slides.length;
+function setSlideIndex(destination) {
+    index = destination % count;
+    index = index < 0 ? index * -1 : index;
+    for (let i = 0; i < count; i++) {
+        if(i == index) {
+            slides[i].style.display = "block";
+        } else {
+            slides[i].style.display = "none";
+        }
+    }
+}
+function nextSlide() {
+    setSlideIndex(index + 1);
+}
+function prevSlide() {
+    setSlideIndex(index - 1);
+}
+setSlideIndex(0);
+setInterval(nextSlide, 5000);
+</script>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-65961752-7', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script></body>
+</html>
