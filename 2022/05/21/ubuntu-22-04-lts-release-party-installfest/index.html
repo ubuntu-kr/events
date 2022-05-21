@@ -129,7 +129,7 @@
                     
                   </li>
                   <li class="p-media-object__meta-list-item--venue">
-                    <span class="u-off-screen">위치: </span>(오프라인 행사, 추후 공지)
+                    <span class="u-off-screen">위치: </span>OpenUP 컨퍼런스룸
                   </li>
                 </ul>
               </div>
@@ -150,12 +150,15 @@
             <li>
               <i class="far fa-clock"></i>
                <span id="submitPeriodTxt">
-                등록이 불필요한 행사입니다.</span>
+                
+                <u class="timedisplay" style="text-decoration-style: dotted;">2022-05-20T15:00:00&#43;00:00</u>
+                ~ <u class="timedisplay" style="text-decoration-style: dotted;">2022-06-04T14:59:59&#43;00:00</u>
+                </span>
             </li>
           </ul>
         </div>
         <div class="col-4">
-          <a class="p-button--neutral" href="" role="button" id="ticketBtn">
+          <a class="p-button--neutral" href="https://festa.io/events/2313" role="button" id="ticketBtn">
             <i class="fas fa-ticket-alt"></i> <b id="ticketBtnTxt">지금 신청하기</b></a>
         </div>
       </div>
@@ -219,6 +222,26 @@
   
   <section class="p-strip">
     <div class="row">
+      
+      <h2>지도</h2>
+      <iframe
+        id="google_maps"
+        width="500" height="500"
+        frameborder="0" style="border:0"
+        src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAlFGcj4Yqrvr2cvFh7-TSN1EfaO1OK53Y&q=Open%2bUP%28%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4%2bSW%2b%ed%86%b5%ed%95%a9%ec%a7%80%ec%9b%90%2b%ec%84%bc%ed%84%b0%29" allowfullscreen>
+      </iframe>
+      <script>
+        var width = document.getElementById('contents').offsetWidth - 40;
+        var gmaps = document.getElementById('google_maps');
+        gmaps.width = width;
+        gmaps.height = width * (3/5);
+      </script>
+      
+    </div>
+    </section>
+    
+  <section class="p-strip">
+    <div class="row">
       <footer class="p-article-pagination">
         
         <a class="p-article-pagination__link--previous" href="/2022/02/05/2022-new-year-greeting/">
@@ -235,10 +258,10 @@
   window.addEventListener('load', setBtnState());
   function setBtnState(){
     console.log("Setting Button State");
-    let requiresRegistration =  false ;
-    let isTicketLinkExists =  false ;
-    let submitStart =  "" 
-    let submitEnd =  "" 
+    let requiresRegistration =  true ;
+    let isTicketLinkExists =  true ;
+    let submitStart =  Date.parse("2022-05-20T15:00:00\u002b00:00"); 
+    let submitEnd =  Date.parse("2022-06-04T14:59:59\u002b00:00"); 
     let startTime =  Date.parse("2022-06-04T05:00:00\u002b00:00"); 
     let endTime =  Date.parse("2022-06-04T09:00:00\u002b00:00"); 
     let now = new Date(Date.now());
@@ -257,6 +280,16 @@
     if(now < startTime && !requiresRegistration){
       ticketBtnTxt.innerHTML = "등록 불필요"
     }else if(requiresRegistration){
+      
+      if(now < submitStart || !isTicketLinkExists){
+        ticketBtnTxt.innerHTML = "준비중"
+        submitPeriodTxt.innerHTML = "2022-05-20T15:00:00\u002b00:00 ~"
+      }else if(now > submitStart && now < submitEnd){
+        submitPeriodTxt.innerHTML = "~ 2022-06-04T14:59:59\u002b00:00"
+      }else if(now > submitEnd && now < endTime){
+        ticketBtnTxt.innerHTML = "신청 마감됨"
+        submitPeriodTxt.innerHTML = "참가 등록이 마감되었습니다."
+      }
       
     }
 
