@@ -23,7 +23,7 @@ image: "jammy.jpg"
     heading="한상곤" bold="우분투한국커뮤니티 운영진"
     desc="Ubuntu 22.04 LTS - 데스크톱 버전 설치해 보고 달라진 점 알아보기" >}}
   {{<profile
-    profile="https://avatars.githubusercontent.com/u/1916739?v=4"
+    profile="kwangyeon_kim.jpg"
     heading="김광연" bold="우분투한국커뮤니티 운영진"
     desc="Ubuntu 22.04 LTS - 우분투 코어 설치 및 시연" >}}
   {{<profile
@@ -36,4 +36,10 @@ image: "jammy.jpg"
     desc="Ubuntu 22.04 LTS - 서버 버전 설치하고 달라진 점 알아보기" >}}
 
 ## 기념품 증정
-오프라인으로 참여 하신 분들께 당일 추첨을 통해 기념품을 증정합니다. 기존에 저희가 보유중인 우분투 티셔츠와 별도로 판매 예정인 우분투 22.04 LTS 티셔츠, 우분투 스티커 등 증정할 예정입니다.
+오프라인으로 참여 하신 분들께 당일 추첨을 통해 기념품을 증정합니다. 기존에 보유중인 우분투 티셔츠와 별도로 판매 예정인 우분투 22.04 LTS 티셔츠, 우분투 스티커 등 증정할 예정입니다.
+![](ubuntu_tshirts.jpg)
+![](tshirt2004.png)
+![](sticker.jpg)
+
+## 뒷풀이 ~~(본행사)~~
+행사 종료 후 뒷풀이 겸 저녁 식사를 할 예정입니다. 희망 하시는 분만 참여 하시면 되며, 식비는 개인별 부담입니다.
