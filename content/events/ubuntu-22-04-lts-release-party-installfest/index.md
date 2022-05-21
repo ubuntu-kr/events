@@ -5,12 +5,12 @@ desc: "조금 늦었지만, 우분투 22.04 LTS 출시를 기념하여 장비를
 date: 2022-05-21 14:00:00 +09:00
 start_time: 2022-06-04 14:00:00 +09:00
 end_time: 2022-06-04 18:00:00 +09:00
-# submit_start: 2020-11-10 00:00:00 +0900
-# submit_end: 2020-11-27 23:59:59 +0900
-location: "(오프라인 행사, 추후 공지)"
-# location_query: "서울특별시+서대문구+신촌동+연희로2길+62"
+submit_start: 2022-05-21 00:00:00 +0900
+submit_end: 2022-06-04 23:59:59 +0900
+location: "OpenUP 컨퍼런스룸"
+location_query: "Open+UP(오픈소스+SW+통합지원+센터)"
 price: "우분투 설치 할 장비(선택사항)"
-# ticket_link: "https://festa.io/events/1297"
+ticket_link: "https://festa.io/events/2313"
 image: "jammy.jpg"
 ---
 
