@@ -19,7 +19,7 @@ image: "jammy.jpg"
 - 이번 행사는 우분투 22.04 LTS를 직접 설치 해 보는 실습 행사 입니다. 노트북, 라즈베리파이, 서버 장비 등 우분투를 설치할 장비를 준비 해 오세요. VirtualBox, VMWare, Hyper-V 등 가상머신도 좋습니다.
 
   {{<profile
-    profile="https://avatars.githubusercontent.com/u/1916739?v=4"
+    profile="https://avatars.githubusercontent.com/u/553900?v=4"
     heading="한상곤" bold="우분투한국커뮤니티 운영진"
     desc="Ubuntu 22.04 LTS - 데스크톱 버전 설치해 보고 달라진 점 알아보기" >}}
   {{<profile
@@ -31,7 +31,7 @@ image: "jammy.jpg"
     heading="한영빈" bold="우분투한국커뮤니티 대표"
     desc="Ubuntu 22.04 LTS - WSL 버전 설치해 보고 살펴보기" >}}
   {{<profile
-    profile="https://avatars.githubusercontent.com/u/1916739?v=4"
+    profile="kwangyeon_kim.jpg"
     heading="김광연" bold="우분투한국커뮤니티 운영진"
     desc="Ubuntu 22.04 LTS - 서버 버전 설치하고 달라진 점 알아보기" >}}
 
