@@ -5,6 +5,64 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:Ubuntu 22.04 LTS Release Party & InstallFest
+UID:20220604T050000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20220604T050000Z
+DTSTART:20220604T050000
+DTEND:20220604T090000
+LOCATION: (오프라인 행사, 추후 공지)
+DESCRIPTION:<ul>
+<li>
+<p>올해 4월 우분투 22.04 LTS 출시를 기념하여, 많이 늦었지만 릴리즈 파티와 인스톨 페스트 행사를 진행 하고자 하니 많은 참여 바랍니다.</p>
+</li>
+<li>
+<p>이번 행사는 오프라인 및 온라인 모두 진행합니다. 오프라인으로 많이 참여 해 주시고, 부득이한 경우 온라인 참여도 가능합니다.</p>
+</li>
+<li>
+<p>이번 행사는 우분투 22.04 LTS를 직접 설치 해 보는 실습 행사 입니다. 노트북, 라즈베리파이, 서버 장비 등 우분투를 설치할 장비를 준비 해 오세요. VirtualBox, VMWare, Hyper-V 등 가상머신도 좋습니다.</p>
+<p><div class="p-media-object--large">
+  <img src="https://avatars.githubusercontent.com/u/1916739?v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>한상곤</h3>
+    <p class="p-media-object__content">우분투한국커뮤니티 운영진</p>
+    <p class="p-media-object__content">Ubuntu 22.04 LTS - 데스크톱 버전 설치해 보고 달라진 점 알아보기</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars.githubusercontent.com/u/1916739?v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>김광연</h3>
+    <p class="p-media-object__content">우분투한국커뮤니티 운영진</p>
+    <p class="p-media-object__content">Ubuntu 22.04 LTS - 우분투 코어 설치 및 시연</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars.githubusercontent.com/u/1916739?v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>한영빈</h3>
+    <p class="p-media-object__content">우분투한국커뮤니티 대표</p>
+    <p class="p-media-object__content">Ubuntu 22.04 LTS - WSL 버전 설치해 보고 살펴보기</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars.githubusercontent.com/u/1916739?v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>김광연</h3>
+    <p class="p-media-object__content">우분투한국커뮤니티 운영진</p>
+    <p class="p-media-object__content">Ubuntu 22.04 LTS - 서버 버전 설치하고 달라진 점 알아보기</p>
+  </div>
+</div></p>
+</li>
+</ul>
+<h2 id="기념품-증정">기념품 증정</h2>
+<p>오프라인으로 참여 하신 분들께 당일 추첨을 통해 기념품을 증정합니다. 기존에 저희가 보유중인 우분투 티셔츠와 별도로 판매 예정인 우분투 22.04 LTS 티셔츠, 우분투 스티커 등 증정할 예정입니다.</p>
+
+URL:https://event.ubuntu-kr.org/2022/05/21/ubuntu-22-04-lts-release-party-installfest/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
 SUMMARY:2022년 신년회
 UID:20220205T050000@UbuntuKrEvents
 SEQUENCE:0
@@ -872,8 +930,8 @@ DESCRIPTION:<h2 id="main-sessions">Main Sessions</h2>
 <ul>
 <li>
 <p>우분투 한국 커뮤니티에서는 18.04 LTS릴리즈를 기념하고자 기념티를 제작하였습니다!
-<img src="https://lh3.googleusercontent.com/cpMpCosZKQMBdzs7sqGOglMQgyRHS8OWvNpf0EUHwZ24Qam4FCxu0sGiSPFnH1gizPwWgBw3klDeFzGmRFDkaivWdqMc-_AkwfX2PMWVfdcSaR41YU3bB6IdPOAlPjALY5Wi_t0OBbrm4ZrNN5Enjg3hFP_MRN6cd1MuLbgb_nMCDA7MQwGHHe414_1rkFhs5jjZm-krqnO6Td3iSI8Y1fNU2bJJAvi7eBjZQkpPf4Popi5NM402KoxyzMlaRCxuzk3U_iFhTiE0vBKGfDFYdPV33DiyDiPTdY4cQUfxKPDI8P_HpA-jSfFPot2CzAOELWyV4Oq0Yr2STpybRyhlX6k0ZDx0w9M3jjA03obw-ZRaNM9_ag-ISh8CKBeDbtso1zl_Tlu-ScigmgvCR1z6DmuYvVSgd_eH_B1MO5EEAp-CSDheKVpqcKnOJLrVgHnJ0WnEbMMQcmtwUAMINIoSZY1Z4rkrOusllTPsaqKxzDss6tUj6jvRAlktxV7_5dCq0q6zXMYfvIbmn5_qB0-OtYCJ4BRbVxVeDHfflY2j1verKHkaooakYpv5wfARytc-kf8T237t5wQYcLu5Dfq7yqTnqOszAhmJc3VaXvZwfUVhqXh0uEvXGjKHTfzAcpgRwzV7MY2Oqxjsk_1eJGetOl-87rSwJmuH=w1204-h1278-no" alt="전면">{: width=&ldquo;50%&rdquo; height=&ldquo;50%&quot;}
-<img src="https://lh3.googleusercontent.com/0ow69TfaB8TSFThxeF2W5igRep6Sfwbd7-2CXLzuLNpckkGC-dHUIPwhGW5oyoO1mCdz7zyDUIuSdG3xTMMnptsKMQluCOh068R-Yf7WMPRvzfnblMnGVvNa91qYcXybSBpCwyS9OSOFpDofVCffKCW1Vw4B7NIoftujME4m_i6HBi9AnlGJfz_ccnoPHLVY0zEHarIU9puKWsjhDI3FhA7tO1LRzneh7pzJ_8hHMjb6GotMJRvHCphSWrbms72-4hw0HHBI6SR2JtBKio3VUfFiiyRbnxZEX7ojL-ZYxtnLOOoIYgGc_xYgg9V8B9ToVtHYQQhjtGLJNM6g5hEgAIcAICn_GeKSRZ4Rr5Nm_mNMGzef7cge_rtrnDwH-1UvJ4YvwjPjw0y--cDSPYaU9c-l2jaO6SSqU4gn4NdQPVz7CQ-hBt_2tN9D3KCtTuyNM3c4c8XoqVH8SltI1lXKbRuymXW-5podeBv_Whq9GbsqyE3qeRzLXnHwwKh4jaC7yofKzRuLz9OBwZtkJE4yAo-fXs8Ynu3QkY-0sOmGRjLWRHRr6uIKA_1fCguGBFj8ctnhHkIPibcxXSstJkAaL_t8685m2NA0yxQ0uvLy07B7qe1rQMFg0zBFHJ4zz0fa-pKMD90-9bYmLZl17sqqmsymrYyvsFPA=w1200-h1226-no" alt="후면">{: width=&ldquo;50%&rdquo; height=&ldquo;50%&quot;}</p>
+<img src="https://lh3.googleusercontent.com/cpMpCosZKQMBdzs7sqGOglMQgyRHS8OWvNpf0EUHwZ24Qam4FCxu0sGiSPFnH1gizPwWgBw3klDeFzGmRFDkaivWdqMc-_AkwfX2PMWVfdcSaR41YU3bB6IdPOAlPjALY5Wi_t0OBbrm4ZrNN5Enjg3hFP_MRN6cd1MuLbgb_nMCDA7MQwGHHe414_1rkFhs5jjZm-krqnO6Td3iSI8Y1fNU2bJJAvi7eBjZQkpPf4Popi5NM402KoxyzMlaRCxuzk3U_iFhTiE0vBKGfDFYdPV33DiyDiPTdY4cQUfxKPDI8P_HpA-jSfFPot2CzAOELWyV4Oq0Yr2STpybRyhlX6k0ZDx0w9M3jjA03obw-ZRaNM9_ag-ISh8CKBeDbtso1zl_Tlu-ScigmgvCR1z6DmuYvVSgd_eH_B1MO5EEAp-CSDheKVpqcKnOJLrVgHnJ0WnEbMMQcmtwUAMINIoSZY1Z4rkrOusllTPsaqKxzDss6tUj6jvRAlktxV7_5dCq0q6zXMYfvIbmn5_qB0-OtYCJ4BRbVxVeDHfflY2j1verKHkaooakYpv5wfARytc-kf8T237t5wQYcLu5Dfq7yqTnqOszAhmJc3VaXvZwfUVhqXh0uEvXGjKHTfzAcpgRwzV7MY2Oqxjsk_1eJGetOl-87rSwJmuH=w1204-h1278-no" alt="전면">{: width=&ldquo;50%&rdquo; height=&ldquo;50%&rdquo;}
+<img src="https://lh3.googleusercontent.com/0ow69TfaB8TSFThxeF2W5igRep6Sfwbd7-2CXLzuLNpckkGC-dHUIPwhGW5oyoO1mCdz7zyDUIuSdG3xTMMnptsKMQluCOh068R-Yf7WMPRvzfnblMnGVvNa91qYcXybSBpCwyS9OSOFpDofVCffKCW1Vw4B7NIoftujME4m_i6HBi9AnlGJfz_ccnoPHLVY0zEHarIU9puKWsjhDI3FhA7tO1LRzneh7pzJ_8hHMjb6GotMJRvHCphSWrbms72-4hw0HHBI6SR2JtBKio3VUfFiiyRbnxZEX7ojL-ZYxtnLOOoIYgGc_xYgg9V8B9ToVtHYQQhjtGLJNM6g5hEgAIcAICn_GeKSRZ4Rr5Nm_mNMGzef7cge_rtrnDwH-1UvJ4YvwjPjw0y--cDSPYaU9c-l2jaO6SSqU4gn4NdQPVz7CQ-hBt_2tN9D3KCtTuyNM3c4c8XoqVH8SltI1lXKbRuymXW-5podeBv_Whq9GbsqyE3qeRzLXnHwwKh4jaC7yofKzRuLz9OBwZtkJE4yAo-fXs8Ynu3QkY-0sOmGRjLWRHRr6uIKA_1fCguGBFj8ctnhHkIPibcxXSstJkAaL_t8685m2NA0yxQ0uvLy07B7qe1rQMFg0zBFHJ4zz0fa-pKMD90-9bYmLZl17sqqmsymrYyvsFPA=w1200-h1226-no" alt="후면">{: width=&ldquo;50%&rdquo; height=&ldquo;50%&rdquo;}</p>
 </li>
 <li>
 <p>해당 티셔츠는 따로 신청을 받아 릴리즈파티 당일에 드릴 예정입니다!</p>
