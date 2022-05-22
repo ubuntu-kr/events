@@ -11,6 +11,7 @@ permalinks:
 outputs:
   section: ["HTML", "RSS", "Calendar"]
 params:
+  shortTitle: 행사
   contact: contact@ubuntu-kr.org
   facebook: ubuntukorea
   twitter: UbuntuKrOrg
@@ -39,10 +40,6 @@ languages:
         link: about
     menu:
       main:
-      - identifier: events
-        name: 행사
-        weight: 1
-        url: /
       - identifier: calendar
         name: 일정 구독(ICS)
         weight: 2
@@ -77,6 +74,7 @@ languages:
     title: Ubuntu Korea Community Events
     weight: 2
     params:
+      shortTitle: Events
       description: >-
         Find out various scheduled events of Ubuntu Korea Community
       copyright: >-
@@ -88,10 +86,6 @@ languages:
         link: about
     menu:
       main:
-      - identifier: events
-        name: Events
-        weight: 1
-        url: /
       - identifier: calendar
         name: Subscribe(ICS)
         weight: 2
