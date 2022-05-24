@@ -14,6 +14,11 @@
     <meta property="og:site_name" content="{{ .Site.Title }}" />
     <meta property="og:title" content="{{ .Title }}" />
 
+    {{ if .Params.image }}
+    <meta property="og:image" content='{{ .Permalink | absURL }}{{.Params.image}}' />
+    <meta property="twitter:image" content='{{ .Permalink | absURL }}{{.Params.image}}' />
+    {{ end }}
+
     <!--   SASS Stylesheets -->
     <link rel="stylesheet" href="{{ $style.Permalink }}">
 </head>
