@@ -57,7 +57,7 @@ DESCRIPTION:<p>2023년 정기총회를 세미나 행사를 겸 하여 공개적�
 </tr>
 <tr>
 <td>16:50</td>
-<td>세미나 세션3 (40분)</td>
+<td>강동호 - 시*로지 부럽지 않은 윈도우 PC로 나스 만들기 (40분)</td>
 </tr>
 <tr>
 <td>17:30</td>
@@ -75,7 +75,14 @@ DESCRIPTION:<p>2023년 정기총회를 세미나 행사를 겸 하여 공개적�
 <li>조채연 운영위원 선임의 건</li>
 </ul>
 <h3 id="세미나-세션-구성">세미나 세션 구성</h3>
-<p>TBD</p>
+<div class="p-media-object--large">
+  <img src="./dongho-gang.jpeg" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>시*로지 부럽지 않은 윈도우 PC로 나스 만들기</h3>
+    <p class="p-media-object__content">강동호 - 카카오스타일</p>
+    <p class="p-media-object__content">남는 윈도우 11 PC에 WSL과 Docker를 활용하여 손쉽게 서버를 추가하고 웹에서 사용할 수 있는 환경 만들기, 사실 남는 PC는 공인인증서 용도로도 쓸 수 있으니까!</p>
+  </div>
+</div>
 <h2 id="세미나-발표자-모집">세미나 발표자 모집</h2>
 <p>리눅스 및 우분투(더 나아가 UNIX-Like OS) 사용기 및 활용기, WSL과 같이 윈도우 환경에서 자신만의 리눅스 환경을 구축하셨던 경험기 뿐만 아니라 Docker 이미지 관련 이야기까지 리눅스 혹은 우분투를 활용한 다양한 경험과 활용에 대한 이야기를 공유해주신 발표자를 모집하고 있습니다.</p>
 <ul>
