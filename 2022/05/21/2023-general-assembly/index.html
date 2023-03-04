@@ -154,13 +154,13 @@
                <span id="submitPeriodTxt">
                 
                 <u class="timedisplay" style="text-decoration-style: dotted;">2022-05-20T15:00:00&#43;00:00</u>
-                ~ <u class="timedisplay" style="text-decoration-style: dotted;">2022-06-04T14:59:59&#43;00:00</u>
+                ~ <u class="timedisplay" style="text-decoration-style: dotted;">2023-03-24T14:59:59&#43;00:00</u>
                 </span>
             </li>
           </ul>
         </div>
         <div class="col-4">
-          <a class="p-button--neutral" href="" role="button" id="ticketBtn">
+          <a class="p-button--neutral" href="https://festa.io/events/3216" role="button" id="ticketBtn">
             <i class="fas fa-ticket-alt"></i> <b id="ticketBtnTxt">지금 신청하기</b></a>
         </div>
       </div>
@@ -295,9 +295,9 @@
   function setBtnState(){
     console.log("Setting Button State");
     let requiresRegistration =  true ;
-    let isTicketLinkExists =  false ;
+    let isTicketLinkExists =  true ;
     let submitStart =  Date.parse("2022-05-20T15:00:00\u002b00:00"); 
-    let submitEnd =  Date.parse("2022-06-04T14:59:59\u002b00:00"); 
+    let submitEnd =  Date.parse("2023-03-24T14:59:59\u002b00:00"); 
     let startTime =  Date.parse("2023-03-25T05:00:00\u002b00:00"); 
     let endTime =  Date.parse("2023-03-25T08:30:00\u002b00:00"); 
     let now = new Date(Date.now());
@@ -321,7 +321,7 @@
         ticketBtnTxt.innerHTML = "준비중"
         submitPeriodTxt.innerHTML = "2022-05-20T15:00:00\u002b00:00 ~"
       }else if(now > submitStart && now < submitEnd){
-        submitPeriodTxt.innerHTML = "~ 2022-06-04T14:59:59\u002b00:00"
+        submitPeriodTxt.innerHTML = "~ 2023-03-24T14:59:59\u002b00:00"
       }else if(now > submitEnd && now < endTime){
         ticketBtnTxt.innerHTML = "신청 마감됨"
         submitPeriodTxt.innerHTML = "참가 등록이 마감되었습니다."
