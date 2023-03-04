@@ -6,11 +6,11 @@ date: 2022-05-21 14:00:00 +09:00
 start_time: 2023-03-25 14:00:00 +09:00
 end_time: 2023-03-25 17:30:00 +09:00
 submit_start: 2022-05-21 00:00:00 +0900
-submit_end: 2022-06-04 23:59:59 +0900
+submit_end: 2023-03-24 23:59:59 +0900
 location: "모두의연구소 강남캠퍼스"
 location_query: "모두의연구소+강남캠퍼스"
 price: "사전 등록 필요"
-# ticket_link: "https://festa.io/events/2313"
+ticket_link: "https://festa.io/events/3216"
 image: "ukc.jpg"
 ---
 
