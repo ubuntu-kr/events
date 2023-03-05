@@ -79,7 +79,7 @@ DESCRIPTION:<p>2023년 정기총회를 세미나 행사를 겸 하여 공개적�
   <img src="./changhoon-gang.jpg" class="p-media-object__image is-round" alt="">
   <div class="p-media-object__details">
     <h3>우분투 환경에서 Node.js 앱 성능/가용성 테스트하기</h3>
-    <p class="p-media-object__content">강창훈</p>
+    <p class="p-media-object__content">강창훈 - 지니공공아카데미</p>
     <p class="p-media-object__content">우분투 환경에서 Artillery를 이용하여 Node.js 앱 성능과 가용성 테스트 하는 방법에 대해 이야기 해 보고자 합니다. 웹페이지, RESTful API, 웹소켓 테스트를 각각 진행하는 방법에 대해 다룰 예정입니다.</p>
   </div>
 </div>
