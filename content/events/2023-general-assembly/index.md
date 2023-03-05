@@ -45,7 +45,7 @@ image: "ukc.jpg"
 
  {{<profile
     profile="./changhoon-gang.jpg"
-    heading="우분투 환경에서 Node.js 앱 성능/가용성 테스트하기" bold="강창훈"
+    heading="우분투 환경에서 Node.js 앱 성능/가용성 테스트하기" bold="강창훈 - 지니공공아카데미"
     desc="우분투 환경에서 Artillery를 이용하여 Node.js 앱 성능과 가용성 테스트 하는 방법에 대해 이야기 해 보고자 합니다. 웹페이지, RESTful API, 웹소켓 테스트를 각각 진행하는 방법에 대해 다룰 예정입니다." >}}
 
  {{<profile
