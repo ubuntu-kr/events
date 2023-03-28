@@ -81,3 +81,4 @@ image: "cover.png"
 ## 후원
 
 ![모두의연구소 - 장소후원](./modulabs.png)
+![NIPA - 스티커 제작 비용 지원](./nipa.png)
