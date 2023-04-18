@@ -5,6 +5,79 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:우분투 한국어 번역 워크샵
+UID:20230513T050000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20230513T050000Z
+DTSTART:20230513T050000
+DTEND:20230513T083000
+LOCATION: OpenUP Playground
+DESCRIPTION:<p>우분투에서 제공되는 다양한 소프트웨어 패키지의 한국어 지원에 참여해 보고 싶다면, 이번 우분투 한국어 번역 워크샵에 참여 하셔서 직접 각종 우분투 패키지 번역에 참여 해 보세요.</p>
+<h2 id="일정">일정</h2>
+<table>
+<thead>
+<tr>
+<th>시작 시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13:00</td>
+<td>운영진 입장 및 행사 준비</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>사전 참가 등록자 등록 확인</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>우분투 한국어 번역 소개 및 참여 방법 안내</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>쉬는시간 (15분)</td>
+</tr>
+<tr>
+<td>15:15</td>
+<td>각자 번역할 패키지 정하고 번역 해보기 및 질의응답</td>
+</tr>
+<tr>
+<td>17:30</td>
+<td>행사장 정리 후 뒷풀이(본행사) 장소 이동</td>
+</tr>
+</tbody>
+</table>
+<h3 id="강사-정보">강사 정보</h3>
+<div class="p-media-object--large">
+  <img src="./changhoon-gang.jpg" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>신민욱</h3>
+    <p class="p-media-object__content">우분투한국커뮤니티 L10n팀 관리자</p>
+    <p class="p-media-object__content"></p>
+  </div>
+</div>
+<h2 id="안내사항">안내사항</h2>
+<ul>
+<li>본 행사는 실습 행사이며, 아래와 같은 준비물을 준비해 오셔야 합니다.
+<ul>
+<li>우분투가 설치된 노트북(VirtualBox 등 가상머신으로도 가능.)</li>
+<li>Launchpad 계정 - 있으면 좋고, 없으면 당일 새로 생성 하셔도 됩니다.</li>
+<li>권장 : 네트워크 연결을 위한 장비(휴대전화 핫스팟, 포켓 WiFi 등)</li>
+</ul>
+</li>
+<li>워크샵 행사는 준비가 많이 필요하여, 노쇼(No Show) 최소화를 위해 참가비를 5천원을 받고 있습니다. 당일 체크인 하시면, 다과 기프트콘을 발송 해 드릴 예정입니다.</li>
+<li>부득이하게 참석을 못하시는 경우, 반드시 등록기간 안에 등록 취소를 해 주시기 바랍니다.</li>
+<li>행사 관련 문의는 <a href="mailto:contact@ubuntu-kr.org">contact@ubuntu-kr.org</a> 으로 해주시기 바랍니다.</li>
+</ul>
+<h2 id="후원">후원</h2>
+<p><img src="./nipa.png" alt="NIPA - 장소 지원"></p>
+
+URL:https://event.ubuntu-kr.org/2023/04/17/2023-l10n-workshop/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
 SUMMARY:2023년 정기총회 (겸 세미나)
 UID:20230325T050000@UbuntuKrEvents
 SEQUENCE:0

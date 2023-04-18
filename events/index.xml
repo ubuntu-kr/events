@@ -6,7 +6,17 @@
     <description>Recent content in Events on 우분투 한국 커뮤니티 행사</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Sat, 21 May 2022 14:00:00 +0900</lastBuildDate><atom:link href="https://event.ubuntu-kr.org/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Apr 2023 14:00:00 +0900</lastBuildDate><atom:link href="https://event.ubuntu-kr.org/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>우분투 한국어 번역 워크샵</title>
+      <link>https://event.ubuntu-kr.org/2023/04/17/2023-l10n-workshop/</link>
+      <pubDate>Mon, 17 Apr 2023 14:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2023/04/17/2023-l10n-workshop/</guid>
+      <description>우분투에서 제공되는 다양한 소프트웨어 패키지의 한국어 지원에 참여해 보고 싶다면, 이번 우분투 한국어 번역 워크샵에 참여 하셔서 직접 각종 우분투 패키지 번역에 참여 해 보세요.
+일정    시작 시간 일정     13:00 운영진 입장 및 행사 준비   13:30 사전 참가 등록자 등록 확인   14:00 우분투 한국어 번역 소개 및 참여 방법 안내   15:00 쉬는시간 (15분)   15:15 각자 번역할 패키지 정하고 번역 해보기 및 질의응답   17:30 행사장 정리 후 뒷풀이(본행사) 장소 이동    강사 정보 신민욱 우분투한국커뮤니티 L10n팀 관리자</description>
+    </item>
+    
     <item>
       <title>2023년 정기총회 (겸 세미나)</title>
       <link>https://event.ubuntu-kr.org/2022/05/21/2023-general-assembly/</link>
