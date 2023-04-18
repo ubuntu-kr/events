@@ -30,7 +30,7 @@ image: "cover.png"
 ### 강사 정보
 
  {{<profile
-    profile="./changhoon-gang.jpg"
+    profile="https://avatars.githubusercontent.com/u/12551635?v=4"
     heading="신민욱" bold="우분투한국커뮤니티 L10n팀 관리자"
     desc="" >}}
 
