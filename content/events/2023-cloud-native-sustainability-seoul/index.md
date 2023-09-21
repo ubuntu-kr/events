@@ -3,10 +3,10 @@ layout: event
 title:  "Cloud Native Sustainability Week in Seoul"
 desc: "클라우드 네이티브의 환경 지속가능성♻️ 을 주제로 Cloud Native Sustainability in Seoul을 개최합니다 🎉"
 date: 2023-09-21 00:00:00 +09:00
-start_time: 2023-10-12 19:00:00 +09:00
-end_time: 2023-10-12 22:30:00 +09:00
-submit_start: 2022-05-21 00:00:00 +0900
-submit_end: 2023-10-12 19:00:00 +09:00
+start_time: 2023-10-13 19:00:00 +09:00
+end_time: 2023-10-13 22:30:00 +09:00
+submit_start: 2022-09-21 00:00:00 +0900
+submit_end: 2023-10-13 19:00:00 +09:00
 location: "LG 유플러스 본사"
 location_query: "LG유플러스+본사"
 price: "19900 KRW"
