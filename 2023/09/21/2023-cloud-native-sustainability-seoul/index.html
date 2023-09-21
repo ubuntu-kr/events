@@ -124,10 +124,10 @@
                 <ul class="p-media-object__meta-list">
                   <li class="p-media-object__meta-list-item--date">
                     <span class="u-off-screen">일시: </span>
-                    <u class="timedisplay" style="text-decoration-style: dotted;">2023-10-12T10:00:00&#43;00:00</u>
+                    <u class="timedisplay" style="text-decoration-style: dotted;">2023-10-13T10:00:00&#43;00:00</u>
                     
                     <span>~</span>
-                    <u class="timedisplay" style="text-decoration-style: dotted;">2023-10-12T13:30:00&#43;00:00</u>
+                    <u class="timedisplay" style="text-decoration-style: dotted;">2023-10-13T13:30:00&#43;00:00</u>
                     
                   </li>
                   <li class="p-media-object__meta-list-item--venue">
@@ -153,8 +153,8 @@
               <i class="far fa-clock"></i>
                <span id="submitPeriodTxt">
                 
-                <u class="timedisplay" style="text-decoration-style: dotted;">2022-05-20T15:00:00&#43;00:00</u>
-                ~ <u class="timedisplay" style="text-decoration-style: dotted;">2023-10-12T10:00:00&#43;00:00</u>
+                <u class="timedisplay" style="text-decoration-style: dotted;">2022-09-20T15:00:00&#43;00:00</u>
+                ~ <u class="timedisplay" style="text-decoration-style: dotted;">2023-10-13T10:00:00&#43;00:00</u>
                 </span>
             </li>
           </ul>
@@ -221,10 +221,10 @@
     console.log("Setting Button State");
     let requiresRegistration =  true ;
     let isTicketLinkExists =  true ;
-    let submitStart =  Date.parse("2022-05-20T15:00:00\u002b00:00"); 
-    let submitEnd =  Date.parse("2023-10-12T10:00:00\u002b00:00"); 
-    let startTime =  Date.parse("2023-10-12T10:00:00\u002b00:00"); 
-    let endTime =  Date.parse("2023-10-12T13:30:00\u002b00:00"); 
+    let submitStart =  Date.parse("2022-09-20T15:00:00\u002b00:00"); 
+    let submitEnd =  Date.parse("2023-10-13T10:00:00\u002b00:00"); 
+    let startTime =  Date.parse("2023-10-13T10:00:00\u002b00:00"); 
+    let endTime =  Date.parse("2023-10-13T13:30:00\u002b00:00"); 
     let now = new Date(Date.now());
 
     let ticketBtn = document.getElementById('ticketBtn');
@@ -244,9 +244,9 @@
       
       if(now < submitStart || !isTicketLinkExists){
         ticketBtnTxt.innerHTML = "준비중"
-        submitPeriodTxt.innerHTML = "2022-05-20T15:00:00\u002b00:00 ~"
+        submitPeriodTxt.innerHTML = "2022-09-20T15:00:00\u002b00:00 ~"
       }else if(now > submitStart && now < submitEnd){
-        submitPeriodTxt.innerHTML = "~ 2023-10-12T10:00:00\u002b00:00"
+        submitPeriodTxt.innerHTML = "~ 2023-10-13T10:00:00\u002b00:00"
       }else if(now > submitEnd && now < endTime){
         ticketBtnTxt.innerHTML = "신청 마감됨"
         submitPeriodTxt.innerHTML = "참가 등록이 마감되었습니다."

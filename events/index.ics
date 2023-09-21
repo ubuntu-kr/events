@@ -6,12 +6,12 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
 SUMMARY:Cloud Native Sustainability Week in Seoul
-UID:20231012T100000@UbuntuKrEvents
+UID:20231013T100000@UbuntuKrEvents
 SEQUENCE:0
 STATUS:CONFIRMED
-DTSTAMP:20231012T100000Z
-DTSTART:20231012T100000
-DTEND:20231012T133000
+DTSTAMP:20231013T100000Z
+DTSTART:20231013T100000
+DTEND:20231013T133000
 LOCATION: LG 유플러스 본사
 DESCRIPTION:<p>클라우드 네이티브의 환경 지속가능성♻️ 을 주제로 Cloud Native Sustainability in Seoul을 개최합니다 🎉</p>
 <p>환경 지속가능성🌳 은 인류가 현재와 미래의 세대들이 건강하고 번영할 수 있는 지속 가능한 환경을 구축하는 데 초점을 맞춘 개념입니다.</p>
