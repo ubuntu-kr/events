@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://event.ubuntu-kr.org/2023/09/21/2023-cloud-native-sustainability-seoul/</loc>
+    <lastmod>2023-09-21T00:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://event.ubuntu-kr.org/events/</loc>
-    <lastmod>2023-04-17T14:00:00+09:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://event.ubuntu-kr.org/</loc>
-    <lastmod>2023-04-17T14:00:00+09:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -104,8 +107,6 @@
                 hreflang="ko"
                 href="https://event.ubuntu-kr.org/categories/"
                 />
-  </url><url>
-    <loc>https://event.ubuntu-kr.org/0001/01/01/2023-cloud-native-sustainability-seoul/</loc>
   </url><url>
     <loc>https://event.ubuntu-kr.org/tags/</loc>
     <xhtml:link

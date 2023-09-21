@@ -6,7 +6,19 @@
     <description>Recent content on 우분투 한국 커뮤니티 행사</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
-    <lastBuildDate>Mon, 17 Apr 2023 14:00:00 +0900</lastBuildDate><atom:link href="https://event.ubuntu-kr.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Sep 2023 00:00:00 +0900</lastBuildDate><atom:link href="https://event.ubuntu-kr.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cloud Native Sustainability Week in Seoul</title>
+      <link>https://event.ubuntu-kr.org/2023/09/21/2023-cloud-native-sustainability-seoul/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0900</pubDate>
+      
+      <guid>https://event.ubuntu-kr.org/2023/09/21/2023-cloud-native-sustainability-seoul/</guid>
+      <description>클라우드 네이티브의 환경 지속가능성♻️ 을 주제로 Cloud Native Sustainability in Seoul을 개최합니다 🎉
+환경 지속가능성🌳 은 인류가 현재와 미래의 세대들이 건강하고 번영할 수 있는 지속 가능한 환경을 구축하는 데 초점을 맞춘 개념입니다.
+클라우드 컴퓨팅은 기업이 유연하고 안정적인 시스템을 구축할 수 있도록 도움을 주고 있지만, 에너지 소비로 인해 간접적으로 막대한 양의 탄소 배출을 유발하고 있습니다.
+CNCF(Cloud Native Computing Foundation)는 클라우드 네이티브 기술의 개발과 채택을 촉진하는 주체로서, 이러한 환경의 지속 가능성을 위해 기술적인 해결책, 가이드라인, 커뮤니티를 지원하고 있습니다.</description>
+    </item>
+    
     <item>
       <title>우분투 한국어 번역 워크샵</title>
       <link>https://event.ubuntu-kr.org/2023/04/17/2023-l10n-workshop/</link>
@@ -302,18 +314,6 @@ IoT에 대한 여러 기술 중 LTE-M에 대한 소개 및 라즈베리파이를
       <guid>https://event.ubuntu-kr.org/2017/07/07/ubuntu-kr-july-seminar/</guid>
       <description>우분투한국커뮤니티 7월 정기 세미나 입니다. 이번달 세미나는 &amp;ldquo;정보보안과 사물인터넷&amp;quot;을 주제로 진행합니다.
  장소 : 토즈 강남토즈타워점 대형부스C 도로명 주소 : 서울시 강남구 강남대로84길 24-4 지번 주소 : 서울시 강남구 역삼동 827-3 일시 : 2017년 07월 29일 오후 1시30분 ~ 오후 6시00분 참여대상 : 우분투에 관심이 있는 사람이라면 누구나 참여 가능. 기념품 : 노트북 스티커 등 장소지원 : Microsoft Melting Pot 개발자 커뮤니티 지원 프로그램  Main Sessions 우분투 데스크탑을 이용한 Maker 활동기 이호민 - KossLab</description>
-    </item>
-    
-    <item>
-      <title>Cloud Native Sustainability Week in Seoul</title>
-      <link>https://event.ubuntu-kr.org/0001/01/01/2023-cloud-native-sustainability-seoul/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://event.ubuntu-kr.org/0001/01/01/2023-cloud-native-sustainability-seoul/</guid>
-      <description>클라우드 네이티브의 환경 지속가능성♻️ 을 주제로 Cloud Native Sustainability in Seoul을 개최합니다 🎉
-환경 지속가능성🌳 은 인류가 현재와 미래의 세대들이 건강하고 번영할 수 있는 지속 가능한 환경을 구축하는 데 초점을 맞춘 개념입니다.
-클라우드 컴퓨팅은 기업이 유연하고 안정적인 시스템을 구축할 수 있도록 도움을 주고 있지만, 에너지 소비로 인해 간접적으로 막대한 양의 탄소 배출을 유발하고 있습니다.
-CNCF(Cloud Native Computing Foundation)는 클라우드 네이티브 기술의 개발과 채택을 촉진하는 주체로서, 이러한 환경의 지속 가능성을 위해 기술적인 해결책, 가이드라인, 커뮤니티를 지원하고 있습니다.</description>
     </item>
     
   </channel>
