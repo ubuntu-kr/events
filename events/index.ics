@@ -5,6 +5,106 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
+SUMMARY:UbuCon Asia 2023 & Ubuntu Summit 2023 Recap Seminar
+UID:20231209T040000@UbuntuKrEvents
+SEQUENCE:0
+STATUS:CONFIRMED
+DTSTAMP:20231209T040000Z
+DTSTART:20231209T040000
+DTEND:20231209T090000
+LOCATION: OpenUP Playground
+DESCRIPTION:<p>올해 인도네시아 수라카르타에서 열렸던 UbuCon Asia X LibreOffice Conf Asia 2023 행사와 Ubuntu Summit 2023 에 참여 하셨던 분들이 발표자로 참여 하셔서, 행사에 참석 하셨던 경험과 후기에 대해서 공유 해 주실 예정입니다. 우분투 커뮤니티의 글로벌 행사는 어떤 모습인지, 어떤 이야기가 오고 갔는지 등이 궁금하다면 12/9에 본 세미나에 참여 해 보세요!</p>
+<h2 id="일정">일정</h2>
+<table>
+<thead>
+<tr>
+<th>시작 시간</th>
+<th>일정</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>12:00</td>
+<td>운영진 입장 및 행사 준비</td>
+</tr>
+<tr>
+<td>12:30</td>
+<td>참가자 체크인</td>
+</tr>
+<tr>
+<td>13:30</td>
+<td>오프닝 및 제7대 대표 선거 참여 안내</td>
+</tr>
+<tr>
+<td>14:00</td>
+<td>쉬는시간 (10분)</td>
+</tr>
+<tr>
+<td>14:10</td>
+<td>성대현 - LibreOffice Conference 2023 참석 후기 (40분)</td>
+</tr>
+<tr>
+<td>14:50</td>
+<td>쉬는시간 (10분)</td>
+</tr>
+<tr>
+<td>15:00</td>
+<td>한영빈 - Global team 준비위원으로서 UbuCon Asia 2023 준비 및 참여 후기 (40분)</td>
+</tr>
+<tr>
+<td>15:40</td>
+<td>쉬는시간 (10분)</td>
+</tr>
+<tr>
+<td>15:50</td>
+<td>추영욱 - Ubuntu Summit 2023 참여 후기 (40분)</td>
+</tr>
+<tr>
+<td>16:30</td>
+<td>쉬는시간 (10분)</td>
+</tr>
+<tr>
+<td>16:40</td>
+<td>발표자와 자율 질의응답 및 참가자간 네트워킹 (60분)</td>
+</tr>
+<tr>
+<td>17:40</td>
+<td>행사 마무리 및 사진촬영 - 이후 본행사(뒷풀이) 이동</td>
+</tr>
+</tbody>
+</table>
+<h3 id="세미나-세션-구성">세미나 세션 구성</h3>
+<div class="p-media-object--large">
+  <img src="https://avatars.githubusercontent.com/u/20002?v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>LibreOffice Conference 2023 참석 후기</h3>
+    <p class="p-media-object__content">성대현 - LibreOffice Korea</p>
+    <p class="p-media-object__content">루마니아에서 열렸던 LibreOffice Conference 2023에 참석 했었는데, 그 후기에 대해 이야기 하고자 합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars.githubusercontent.com/u/1916739?v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Global team 준비위원으로서 UbuCon Asia 2023 준비 및 참여 후기</h3>
+    <p class="p-media-object__content">한영빈 - 우분투한국커뮤니티</p>
+    <p class="p-media-object__content">UbuCon Asia의 Global team 준비위원으로서 준비에 참여하고 실제 행사에 참여하면서 느낀 UbuCon Asia 2023은 어땠는지에 대해 공유 하고자 합니다.</p>
+  </div>
+</div>
+<div class="p-media-object--large">
+  <img src="https://avatars.githubusercontent.com/u/54111883?v=4" class="p-media-object__image is-round" alt="">
+  <div class="p-media-object__details">
+    <h3>Ubuntu Summit 2023 참여 후기</h3>
+    <p class="p-media-object__content">추영욱 - 우분투한국커뮤니티</p>
+    <p class="p-media-object__content">지난달 초 라트비아 리가에서 열렸던 Ubuntu Summit 2023 에 참여한 후기와 흥미롭게 참여한 세션 등에 대해 이야기 하고자 합니다.</p>
+  </div>
+</div>
+<h2 id="후원">후원</h2>
+<p><img src="./nipa.png" alt="NIPA - 장소 지원"></p>
+
+URL:https://event.ubuntu-kr.org/2023/12/09/2023-ubucon-asia-ubuntu-summit-recap/
+END:VEVENT
+BEGIN:VEVENT
+ORGANIZER;CN="Ubuntu Korea Community":mailto:contact@ubuntu-kr.org
 SUMMARY:Cloud Native Sustainability Week in Seoul
 UID:20231013T100000@UbuntuKrEvents
 SEQUENCE:0
