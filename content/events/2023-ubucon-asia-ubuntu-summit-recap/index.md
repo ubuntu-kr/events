@@ -10,7 +10,7 @@ submit_end: 2023-12-09 19:00:00 +09:00
 location: "OpenUP Playground"
 location_query: "Open+UP(오픈소스+SW+통합지원+센터)"
 price: "0 KRW"
-# ticket_link: "https://festa.io/events/3916"
+ticket_link: "https://festa.io/events/4378"
 image: "cover.png"
 ---
 
