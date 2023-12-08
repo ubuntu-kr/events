@@ -22,9 +22,9 @@ image: "cover.png"
 | --- | --- |
 | 12:00 | 운영진 입장 및 행사 준비 |
 | 12:30 | 참가자 체크인 |
-| 13:30 | 오프닝 및 제7대 대표 선거 참여 안내 |
-| 14:00 | 쉬는시간 (10분) |
-| 14:10 | 성대현 - LibreOffice Conference 2023 참석 후기 (40분) |
+| 13:40 | 오프닝 및 제7대 대표 선거 참여 안내 |
+| 14:10 | 쉬는시간 (10분) |
+| 14:20 | 윤정민 - UbuCon Korea 2023 준비위원 참여 회고 (30분) |
 | 14:50 | 쉬는시간 (10분) |
 | 15:00 | 한영빈 - Global team 준비위원으로서 UbuCon Asia 2023 준비 및 참여 후기 (40분) |
 | 15:40 | 쉬는시간 (10분) |
@@ -36,9 +36,9 @@ image: "cover.png"
 ### 세미나 세션 구성
 
  {{<profile
-    profile="https://avatars.githubusercontent.com/u/20002?v=4"
-    heading="LibreOffice Conference 2023 참석 후기" bold="성대현 - LibreOffice Korea"
-    desc="루마니아에서 열렸던 LibreOffice Conference 2023에 참석 했었는데, 그 후기에 대해 이야기 하고자 합니다." >}}
+    profile="https://avatars.githubusercontent.com/u/7126454?v=4"
+    heading="UbuCon Korea 2023 준비위원 참여 회고" bold="윤정민"
+    desc="지난 UbuCon Korea 2023 행사에 준비위원으로 행사 준비에 참여해 본 경험에 대해 공유 해 봅니다." >}}
 
  {{<profile
     profile="https://avatars.githubusercontent.com/u/1916739?v=4"
