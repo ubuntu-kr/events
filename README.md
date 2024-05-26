@@ -1,6 +1,9 @@
 [![Deploy Website](https://github.com/ubuntu-kr/events/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/ubuntu-kr/events/actions/workflows/deploy.yml)
 # event.ubuntu-kr.org
 
+> This website and source codes are no longer maintained and has been replaced with ["Schedules & Events" category on Forum.](https://discourse.ubuntu-kr.org/c/scheds-and-events)
+> 이 웹사이트 및 소스코드는 더이상 유지보수 되지 않으며, [포럼의 "일정 및 행사" 카테고리로 대체 되었습니다.](https://discourse.ubuntu-kr.org/c/scheds-and-events)
+
 The new Event list website of Ubuntu Korea Community. Built with [Hugo](https://gohugo.io) and vanillaframework.io
 
 ## License
