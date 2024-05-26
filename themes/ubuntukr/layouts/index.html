@@ -22,6 +22,17 @@
   <section class="p-strip">
       <div class="row">
         <div class="col-12">
+          <div class="p-notification--information">
+            <div class="p-notification__content">
+              <h5 class="p-notification__title">{{i18n "website_moved"}}</h5>
+              <p class="p-notification__message">{{i18n "website_moved_desc"}}</p>
+            </div>
+            <div class="p-notification__meta">
+              <div class="p-notification__actions">
+                <a class="p-notification__action" href="https://discourse.ubuntu-kr.org/c/scheds-and-events">{{i18n "website_moved_action"}}</a>
+              </div>
+            </div>
+          </div>
           <div class="p-list--divided">
             {{ $pages := .Paginator.Pages }}
             {{ range .Site.Home.Translations }}

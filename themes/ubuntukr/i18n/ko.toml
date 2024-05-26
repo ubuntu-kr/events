@@ -24,3 +24,10 @@ other = "우분투 번역"
 other = "운영진과 연락하기(이메일)"
 [footer_src_repo]
 other = "GitHub에서 소스코드 보기"
+
+[website_moved]
+other = "웹사이트가 이전 되었습니다"
+[website_moved_desc]
+other = "최신 일정 및 행사 정보는 포럼(discourse.ubuntu-kr.org)의 '일정 및 행사' 카테고리를 확인해 주세요."
+[website_moved_action]
+other = '포럼에서 최신 일정 및 행사 정보 확인'

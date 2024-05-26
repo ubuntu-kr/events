@@ -24,3 +24,10 @@ other = "Translate Ubuntu"
 other = "Contact with Organizers (Email)"
 [footer_src_repo]
 other = "Source code on GitHub"
+
+[website_moved]
+other = "Website moved"
+[website_moved_desc]
+other = "Please see 'Schedules & Events' category on our Forum(discourse.ubuntu-kr.org) for latest information."
+[website_moved_action]
+other = 'Check out latest Schedules and Events on our Forum'
